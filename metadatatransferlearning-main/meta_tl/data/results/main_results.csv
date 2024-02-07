@@ -1,0 +1,9 @@
+,Config_typ,min,median,mean,max
+0,with_duplicated_data_not_instance_based.csvactive_learning.csv,0.6,0.9735901682210407,0.9626664703747747,1.0
+1,without_duplicated_data_not_instance_based.csvactive_learning.csv,0.6,0.9735901682210407,0.9626664703747747,1.0
+2,with_duplicated_data_instance_based.csvactive_learning.csv,0.6666666666666666,0.948405582771051,0.9354488549406571,1.0
+6,without_duplicated_data_instance_based.csvactive_learning.csv,0.6666666666666666,0.948405582771051,0.9354488549406571,1.0
+4,without_duplicated_data_not_instance_based.csv,0.0,0.9202964307320025,0.884689783235825,1.0
+7,with_duplicated_data_not_instance_based.csv,0.0,0.9202964307320025,0.884689783235825,1.0
+3,without_duplicated_data_instance_based.csv,0.0,0.8571428571428572,0.8220162312875534,1.0
+5,with_duplicated_data_instance_based.csv,0.0,0.8571428571428572,0.8220162312875534,1.0

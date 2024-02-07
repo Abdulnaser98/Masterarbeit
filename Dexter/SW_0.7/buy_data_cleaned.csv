@@ -1,0 +1,359 @@
+row_key,source,famer_model_list,famer_model_no_list,famer_mpn_list,famer_ean_list,famer_product_name,famer_digital_zoom,famer_optical_zoom,famer_width,famer_height,famer_weight,famer_sensor,famer_brand_list
+1,buy.net,tg3,3,/,/,olympusstylustoughtg3,4.0,4.0,4.4,2.6,0.54,CMOS,olympus
+2,buy.net,p600,600,/,/,nikoncoolpixp600,4.0,60.0,5.0,3.4,1.24,CMOS,nikon
+3,buy.net,2v7wpo,2,/,/,coleman2v7wpo,8.0,,3.8,2.5,0.40,CMOS,coleman
+4,buy.net,dlux6,6,/,/,leicadlux6,4.0,3.8,4.4,2.6,0.65,CMOS,leica
+5,buy.net,dscrx100m,100-2,/,/,sonydscrx100m,14.0,3.6,4.0,2.3,0.47,Exmor CMOS,sony
+6,buy.net,s3600,3600,/,/,nikoncoolpixs3600,4.0,8.0,3.9,2.3,0.28,CCD,nikon
+7,buy.net,aw1,1,/,/,nikonaw1,,,,,,,nikon
+8,buy.net,dmczs40,40,/,/,panasoniclumixdmczs40,4.0,30.0,4.35,2.53,0.03,CMOS,panasonic
+9,buy.net,is326,326,/,/,polaroidis326,4.0,3.0,,,,CMOS,polaroid
+10,buy.net,d4s,4,/,/,nikond4s,,,6.3,6.2,2.60,CMOS,nikon
+11,buy.net,vivicam46,46,/,/,vivitarvivicam46,4.0,,9.75,7.25,,CMOS,vivitar
+12,buy.net,nx2000,2000,/,/,samsungnx2000,,2.5142,4.7,2.5,0.50,CMOS,samsung
+13,buy.net,aw120,120,/,/,nikoncoolpixaw120,4.0,5.0,4.4,2.6,0.47,CMOS,nikon
+14,buy.net,dschx400,400,/,/,sonycybershotdschx400,50.0,50.0,5.13,3.75,0.09,CMOS,sony
+15,buy.net,sl820,820,/,/,samsungsl820,5.0,5.0,3.7,2.3,0.31,CCD,samsung
+16,buy.net,eos,,/,/,canoneosrebel,,,5.0,3.8,0.99,CMOS,canon
+17,buy.net,s5200,5200,/,/,nikoncoolpixs5200,4.0,6.0,3.9,2.3,0.32,CMOS,nikon
+18,buy.net,gc120,120,/,/,samsunggalaxygc120,,21.0,5.1,2.8,0.67,CMOS,samsung
+19,buy.net,t5i,5,/,/,canoneosrebelt5i,,3.1,5.2,3.9,0.07,CMOS,canon
+20,buy.net,s6500,6500,/,/,nikoncoolpixs6500,4.0,12.0,3.8,2.3,0.34,CMOS,nikon
+21,buy.net,s230,230,/,/,nikoncoolpixs230,4.0,3.0,3.6,2.2,0.26,CCD,nikon
+22,buy.net,a6000,6000,/,/,sonyalphaa6000,4.0,3.0,4.75,2.88,0.63,CMOS,sony
+23,buy.net,s6800,6800,/,/,nikoncoolpixs6800,4.0,12.0,3.9,2.3,0.33,CMOS,nikon
+24,buy.net,sx170,170,/,/,canonpowershotsx170,4.0,16.0,4.3,2.8,0.50,CCD,canon
+25,buy.net,xm1,1,/,/,fujifilmxm1,,,4.6,2.6,0.62,CMOS,fujifilm
+26,buy.net,aw1,1,/,/,nikon1aw1,,,,,,,nikon
+27,buy.net,wb35f,35,/,/,samsungwb35f,2.0,12.0,4.0,2.4,0.32,CCD,samsung
+28,buy.net,j1,1,/,/,nikonj1,,313.72,4.2,2.4,0.52,CMOS,nikon
+29,buy.net,dmcxs1,1,/,/,panasoniclumixdmcxs1,4.0,5.0,3.7,2.1,0.19,CCD,panasonic
+30,buy.net,sx260,260,/,/,canonpowershotsx260,4.0,20.0,4.2,2.4,0.46,CMOS,canon
+31,buy.net,j2,2,/,/,nikon1j2,,313.62,4.2,2.4,0.53,CMOS,nikon
+32,buy.net,tg630,630,/,/,olympustoughtg630,4.0,5.0,3.9,2.6,0.37,CMOS,olympus
+33,buy.net,sh50,50,/,/,olympussh50,4.0,24.0,4.4,2.5,0.59,CMOS,olympus
+34,buy.net,s9500,9500,/,/,nikoncoolpixs9500,4.0,22.0,4.3,2.4,0.45,CMOS,nikon
+35,buy.net,wb800f,800,/,/,samsungwb800f,5.0,21.0,4.2,2.4,0.48,BSI CMOS,samsung
+36,buy.net,dmcgf6,6,/,/,panasoniclumixdmcgf6,,,,,,,panasonic
+37,buy.net,dscrx1r,1,/,/,sonycybershotdscrx1r,14.0,2.0,4.5,2.6,0.07,Exmor CMOS,sony
+38,buy.net,a7r,7,/,/,sonya7r,4.0,,5.0,3.7,0.90,Exmor APS HD CMOS sensor,sony
+39,buy.net,ribbon24,24,/,/,datamaxoneilsdrlabelribbon24,5.0,26.0,4.3,3.5,0.96,CCD,datamaxo
+40,buy.net,t2i,2,/,/,canoneosrebelt2i,,3.1,5.1,3.8,0.07,,canon
+41,buy.net,dmcg6kk,6,/,/,panasoniclumixgseriesdmcg6kk,2.0,,4.4,3.3,0.07,CMOS,panasonic
+42,buy.net,jx600,600,/,/,fujifilmfinepixjx600,6.7,5.0,3.7,2.2,6.06,CCD,fujifilm
+43,buy.net,nex5t,5,/,/,sonyalphanex5t,4.0,3.0,,,,CMOS,sony
+44,buy.net,60d,60,/,/,canoneos60d,,,5.7,4.2,0.09,CMOS,canon
+45,buy.net,dscrx10,10,/,/,sonycybershotdscrx10,249.0,8.3,4.12,3.5,0.11,CMOS,sony
+46,buy.net,gold12,12,/,/,leicaclightgold12,4.0,7.0,4.06,2.48,0.38,CMOS,leica
+47,buy.net,v803,803,/,/,kodakeasysharev803,4.0,3.0,4.1,2.1,0.31,CCD,kodak
+48,buy.net,ilce5000l,5000,/,/,sonyalphailce5000l,2.0,3.1,4.3,2.5,0.46,Exmor APS HD CMOS sensor,sony
+49,buy.net,powershot150,150,/,/,canonpowershot150,4.0,10.0,3.8,2.2,0.28,CCD,canon
+50,buy.net,rx100,100,/,/,sonycybershotrx100,14.0,3.6,4.0,2.3,0.47,Exmor CMOS,sony
+51,buy.net,70d,70,/,/,canoneos70d,,7.5,5.5,4.1,0.09,CMOS,canon
+52,buy.net,dlux6,6,/,/,leicadlux6,4.0,3.8,4.4,2.6,0.65,CMOS,leica
+53,buy.net,powershot340,340,/,/,canonpowershot340,4.0,12.0,3.9,2.3,0.32,CMOS,canon
+54,buy.net,d30,30,/,/,canonpowershotd30,4.0,5.0,4.31,2.68,0.43,CMOS,canon
+55,buy.net,sx60,60,/,/,canonpowershotsx60,,,,,,,canon
+56,buy.net,d300,300,/,/,nikond300,,,,,,,nikon
+57,buy.net,dschx300,300,/,/,sonycybershotdschx300,200.0,50.0,5.1,3.7,0.09,Exmor R CMOS,sony
+58,buy.net,a6000,6000,/,/,sonyalphaa6000,4.0,3.0,4.75,2.88,0.63,CMOS,sony
+59,buy.net,5d,5-3,/,/,canoneos5d,,,6.0,4.6,1.89,CMOS,canon
+60,buy.net,d4,4,/,/,nikond4,,,6.3,6.2,0.16,CMOS,nikon
+61,buy.net,ep5,5,/,/,olympusep5,4.0,1.48,4.81,2.71,0.83,CMOS,olympus
+62,buy.net,dmcgm1,1,/,/,panasoniclumixdmcgm1,,,,,,,panasonic
+63,buy.net,powershot135,135,/,/,canonpowershot135,4.0,8.0,3.8,2.1,0.25,CCD,canon
+64,buy.net,d90,90,/,/,nikond90,,,,,,,nikon
+65,buy.net,slta77vm,77,/,/,sonyalphaslta77vm,,7.5,5.6,4.1,0.09,Exmor APS HD CMOS sensor,sony
+66,buy.net,j1,1,/,/,nikonj1,,3.0,4.2,2.4,0.52,CMOS,nikon
+67,buy.net,tg850,850,/,/,olympustg850,4.0,5.0,4.3,2.5,0.48,CMOS,olympus
+68,buy.net,s8600,8600,/,/,fujifilmfinepixs8600,2.0,36.0,4.8,3.2,0.84,CCD,fujifilm
+69,buy.net,xe2,2,/,/,fujifilmxe2,,,,,,,fujifilm
+70,buy.net,powershot140,140,/,/,canonpowershot140,4.0,8.0,3.8,2.1,0.25,CCD,canon
+71,buy.net,wb350f,350,/,/,samsungwb350f,9.4,21.0,4.5,2.6,0.48,BSI CMOS,samsung
+72,buy.net,a3000,3000,/,/,sonyalphaa3000,4.0,3.0,5.13,3.63,0.78,CMOS,sony
+73,buy.net,d90,90,/,/,nikond90,,,,,,,nikon
+74,buy.net,x30,30,/,/,vivitarvivicamx30,,,,,,,vivitar
+75,buy.net,s110,110,/,/,canonpowershots110,4.0,5.0,3.9,2.3,0.38,CMOS,canon
+76,buy.net,powershot115,115,/,/,canonpowershot115,4.0,8.0,3.7,2.1,0.26,CCD,canon
+77,buy.net,d610,610,/,/,nikond610,,,5.6,4.4,1.68,CMOS,nikon
+78,buy.net,telescopes,,/,/,oriontelescopesstarshoot,,,3.2,2.0,0.19,,orion
+79,buy.net,dmclf1k,1,/,/,panasoniclumixdmclf1k,4.0,7.1,4.0,2.4,0.38,MOS,panasonic
+80,buy.net,d3x,3,/,/,nikond3x,,,6.3,6.2,0.17,CMOS,nikon
+81,buy.net,l620,620,/,/,nikoncoolpixl620,2.0,14.0,4.3,2.8,0.53,CMOS,nikon
+82,buy.net,k50,50,/,/,pentaxk50,,,5.1,3.8,1.30,CMOS,pentax
+83,buy.net,d5300,5300,/,/,nikond5300,,,4.9,3.9,0.07,CMOS,nikon
+84,buy.net,xe1,1,/,/,fujifilmxe1,,,5.1,2.9,0.66,CMOS,fujifilm
+85,buy.net,z33wp,33,/,/,fujifilmfinepixz33wp,5.7,3.0,3.6,2.3,0.24,CCD,fujifilm
+86,buy.net,dmczs40,40,/,/,panasoniclumixdmczs40,4.0,30.0,4.35,2.53,0.03,CMOS,panasonic
+87,buy.net,jx680,680,/,/,fujiblowersfinepixjx680,7.2,5.0,3.7,2.2,0.23,CCD,fuji
+88,buy.net,dmcxs1,1,/,/,panasoniclumixdmcxs1,4.0,5.0,3.7,2.1,0.19,CCD,panasonic
+89,buy.net,q7,7,/,/,pentaxq7,,,4.0,2.3,0.40,CMOS,pentax
+90,buy.net,5d,5-3,/,/,canoneos5d,,4.37,6.0,4.6,1.89,CMOS,canon
+91,buy.net,v3,3,/,/,nikonv3,,,4.4,2.6,0.71,CMOS,nikon
+92,buy.net,dmcfz70,70,/,/,panasoniclumixdmcfz70,5.0,60.0,5.1,3.8,0.08,MOS,panasonic
+93,buy.net,s1,1,/,/,fujifilmfinepixs1,2.0,50.0,5.2,3.6,1.41,CMOS,fujifilm
+94,buy.net,t3i,3,/,/,canoneosrebelt3i,,3.0,5.2,3.9,1.14,CMOS,canon
+95,buy.net,jx680,680,/,/,fujiblowersfinepixjx680,7.2,5.0,3.7,2.2,0.23,CCD,fuji
+96,buy.net,em10,10,/,/,olympusomdem10,,,4.7,3.2,0.88,CMOS,olympus
+97,buy.net,v1,1,/,/,nikonv1,,3.0,4.4,3.0,0.65,CMOS,nikon
+98,buy.net,wb350f,350,/,/,samsungwb350f,9.4,21.0,4.5,2.6,0.48,BSI CMOS,samsung
+99,buy.net,10770,10770,/,/,leica10770,,0.68,5.47,3.14,1.49,CMOS,leica
+100,buy.net,dscqx10,10,/,/,sonydscqx10,,10.0,2.5,1.19,0.36,CMOS,sony
+101,buy.net,d610,610,/,/,nikond610,,10.7,5.6,4.4,0.10,CMOS,nikon
+102,buy.net,dscwx350,350,/,/,sonydscwx350,4.0,20.0,3.88,2.25,0.30,CMOS,sony
+103,buy.net,dsch400,400,/,/,sonycybershotdsch400,126.0,63.0,5.1,3.7,0.39,Super HAD CCD,sony
+104,buy.net,k50,50,/,/,pentaxk50,,,,,,,pentax
+105,buy.net,dmcfz30,30,/,/,panasoniclumixdmcfz30,,,,,,,panasonic
+106,buy.net,f40fd,40,/,/,fujiblowersfinepixf40fd,6.9,3.0,3.8,2.3,0.39,CCD,fuji
+107,buy.net,ekgc100,100,/,/,samsunggalaxyekgc100,,21.0,5.07,2.79,0.69,CMOS,samsung
+108,buy.net,slr16,16,/,/,nikondfslr16,,,5.6,4.3,1.56,CMOS,nikon
+109,buy.net,l810,810,/,/,nikoncoolpixl810,4.0,26.0,4.4,3.0,0.95,CCD,nikon
+110,buy.net,tg830,830,/,/,olympustoughtg830,4.0,5.0,4.3,2.6,0.47,CMOS,olympus
+111,buy.net,d5300,5300,/,/,nikond5300,,,4.92,3.9,1.06,CMOS,nikon
+112,buy.net,q7,7,/,/,pentaxq7,,,4.02,2.28,0.44,CMOS,pentax
+113,buy.net,7d,7-2,/,/,canoneos7d,,,,,,,canon
+114,buy.net,k3,3,/,/,pentaxk3,,,5.17,3.94,1.76,CMOS,pentax
+115,buy.net,dmcfx48,48,/,/,panasoniclumixdmcfx48,4.0,5.0,3.8,2.1,0.28,CCD,panasonic
+116,buy.net,elph530,530,/,/,canonpowershotelph530,4.0,12.0,3.4,2.1,0.31,CMOS,canon
+117,buy.net,dmcgm1ks,1,/,/,panasoniclumixdmcgm1ks,,,3.9,2.2,0.46,CMOS,panasonic
+118,buy.net,s5200,5200,/,/,nikoncoolpixs5200,4.0,6.0,3.9,2.3,0.33,CMOS,nikon
+119,buy.net,slr16,16,/,/,nikondfslr16,,,5.6,4.3,1.56,CMOS,nikon
+120,buy.net,epm2,2,/,/,olympuspenepm2,,,4.3,2.5,0.49,Live MOS,olympus
+121,buy.net,d5300,5300,/,/,nikond5300,,,4.9,3.9,0.07,CMOS,nikon
+122,buy.net,dscrx100,100,/,/,sonydscrx100,14.0,3.6,4.0,2.38,0.47,CMOS,sony
+123,buy.net,t3i,3,/,/,canoneosrebelt3i,,,5.2,3.9,1.14,CMOS,canon
+124,buy.net,s120,120,/,/,canonpowershots120,4.0,5.0,3.94,2.32,0.43,CMOS,canon
+125,buy.net,sz14,14,/,/,olympusstylussz14,4.0,24.0,4.19,2.7,0.03,CCD,olympus
+126,buy.net,d5300,5300,/,/,nikond5300,,,4.92,3.9,1.06,CMOS,nikon
+127,buy.net,wb2200f,2200,/,/,samsungwb2200f,2.0,60.0,4.7,4.8,0.09,CMOS,samsung
+128,buy.net,nx300,300,/,/,samsungnx300,2.0,2.5,4.8,2.5,0.62,CMOS,samsung
+129,buy.net,az251,251,/,/,kodakpixproaz251,,,,,,,kodak
+130,buy.net,s9200,9200,/,/,fujifilmfinepixs9200,2.0,50.0,4.8,3.4,0.08,CMOS,fujifilm
+131,buy.net,f750exr,750,/,/,fujifilmfinepixf750exr,2.0,20.0,4.1,2.5,0.46,EXR-CMOS,fujifilm
+132,buy.net,dslra330,330,/,/,sonyalphadslra330,,3.1,5.0,3.8,0.07,CCD,sony
+133,buy.net,espresso600,600,/,/,hphewlettpackardhpframeespresso600,,,,,,,hp
+134,buy.net,s6500,6500,/,/,nikoncoolpixs6500,4.0,12.0,3.8,2.3,0.34,CMOS,nikon
+135,buy.net,dmclx7,7,/,/,panasoniclumixdmclx7,4.0,3.8,4.4,2.6,0.59,MOS,panasonic
+136,buy.net,epl3,3,/,/,olympusepl3,,3.0,4.3,2.5,0.58,Live MOS,olympus
+137,buy.net,e2omsz12s,2,/,/,olympuse2omsz12s,,24.0,,,,CCD,olympus
+138,buy.net,sp820uz,820,/,/,olympussp820uz,4.0,40.0,4.6,3.1,0.07,CMOS,olympus
+139,buy.net,k500,500,/,/,pentaxk500,,3.1,5.1,3.8,1.30,CMOS,pentax
+140,buy.net,dmclf1,1,/,/,panasoniclumixdmclf1,4.0,7.1,4.0,2.4,0.38,MOS,panasonic
+141,buy.net,dmcfh10,10,/,/,panasoniclumixdmcfh10,4.0,5.0,3.7,2.1,0.19,CCD,panasonic
+142,buy.net,dscw730,730,/,/,sonycybershotdscw730,32.0,8.0,2.0,2.1,0.23,Super HAD CCD,sony
+143,buy.net,g1,1-2,/,/,canonpowershotg1,4.0,5.0,4.58,2.91,1.14,CMOS,canon
+144,buy.net,mx1,1,/,/,ricohmx1,2.0,4.0,4.8,2.4,0.80,CMOS,ricoh
+145,buy.net,xt1,1,/,/,fujifilmxt1,,,5.0,3.5,0.86,CMOS,fujifilm
+146,buy.net,d7100,7100,/,/,nikond7100,,,,,,,nikon
+147,buy.net,d5300,5300,/,/,nikond5300,,,4.92,3.9,1.06,CMOS,nikon
+148,buy.net,lens16,16,/,/,nikondfslrspecialeditionkitwlens16,,,5.6,4.3,0.10,CMOS,nikon
+149,buy.net,ekgc200,200,/,/,samsunggalaxyekgc200,,21.0,5.2,2.8,0.62,BSI CMOS,samsung
+150,buy.net,epm2,2,/,/,olympuspenepm2,,,,,,,olympus
+151,buy.net,f900exr,900,/,/,fujiblowersfinepixf900exr,3.4,20.0,4.1,2.4,0.47,EXR CMOS II,fuji
+152,buy.net,d610,610,/,/,nikond610,,,5.6,4.4,0.10,CMOS,nikon
+153,buy.net,dsch300,300,/,/,sonycybershotdsch300,2.0,35.0,129.6,95.0,30.94,CCD,sony
+154,buy.net,sx500,500,/,/,canonpowershotsx500,4.0,30.0,4.1,2.7,0.70,CCD,canon
+155,buy.net,g1,1,/,/,canonpowershotg1,4.0,4.0,4.6,3.2,0.07,CMOS,canon
+156,buy.net,d7100,7100,/,/,nikond7100,,,5.3,4.2,1.49,CMOS,nikon
+157,buy.net,st72,72,/,/,samsungst72,5.0,5.0,3.7,2.3,0.24,CCD,samsung
+158,buy.net,s800c,800,/,/,nikoncoolpixs800c,4.0,10.0,4.4,2.4,0.41,CMOS,nikon
+159,buy.net,p530,530,/,/,nikoncoolpixp530,4.0,42.0,4.9,3.4,1.09,CMOS,nikon
+160,buy.net,kidizoom80077341,80077341,/,/,vtechkidizoom80077341,,,,,,,vtech
+161,buy.net,powershot135,135,/,/,canonpowershot135,4.0,8.0,3.8,2.1,0.25,CCD,canon
+162,buy.net,sx600,600,/,/,canonpowershotsx600,4.0,18.0,4.1,2.4,0.36,CMOS,canon
+163,buy.net,a2600,2600,/,/,canonpowershota2600,4.0,5.0,3.9,2.2,0.26,CCD,canon
+164,buy.net,k3,3,/,/,pentaxk3,,7.5,5.2,3.9,0.11,CMOS,pentax
+165,buy.net,a7,7,/,/,sonyalpha7a7,4.0,,5.0,3.7,0.92,Exmor APS HD CMOS sensor,sony
+166,buy.net,dscw830,830,/,/,sonycybershotdscw830,4.0,8.0,3.7,2.1,0.23,Super HAD CCD,sony
+167,buy.net,z340,340,/,/,polaroidz340,,5.0,5.0,2.6,0.09,,polaroid
+168,buy.net,sx200,200,/,/,canonpowershotsx200,4.0,12.0,4.1,2.4,0.48,CCD,canon
+169,buy.net,xe2,2,/,/,fujifilmxe2,,,2.9,5.1,0.66,CMOS,fujifilm
+170,buy.net,t1i,1,/,/,canoneosrebelt1i,,3.1,5.1,3.8,0.07,CMOS,canon
+171,buy.net,galaxy16,16,/,/,samsunggalaxy16,,21.0,5.07,2.79,0.67,CMOS,samsung
+172,buy.net,s9700,9700,/,/,nikoncoolplixs9700,4.0,30.0,4.3,2.5,0.27,CMOS,nikon
+173,buy.net,d5300,5300,/,/,nikond5300,,,4.92,3.9,1.06,CMOS,nikon
+174,buy.net,s4800,4800,/,/,fujifilmfinepixs4800,7.2,30.0,122.0,93.0,26.62,CCD,fujifilm
+175,buy.net,c5wp,5,/,/,colemanxtremec5wp,,,,,,,coleman
+176,buy.net,dmcts5,5,/,/,panasoniclumixdmcts5,4.0,4.6,4.3,2.65,0.03,CMOS,panasonic
+177,buy.net,nx30,30,/,/,samsungsmartnx30,2.0,3.1,5.0,3.8,0.13,CMOS,samsung
+178,buy.net,x2600,2600,/,/,generalelectricpowerproseriesx2600,5.0,26.0,4.6,3.1,0.07,CCD,general
+179,buy.net,g16,16,/,/,canonpowershotg16,4.0,5.0,4.28,2.99,0.79,CMOS,canon
+180,buy.net,wvst165,165,/,/,panasoniciprosmarthdwvst165,8.0,,3.9,3.9,0.76,MOS,panasonic
+181,buy.net,xt1,1,/,/,fujifilmxt1,,,5.0,3.5,0.86,CMOS,fujifilm
+182,buy.net,s3600,3600,/,/,nikoncoolpixs3600,4.0,8.0,3.9,2.3,0.28,CCD,nikon
+183,buy.net,xe2,2,/,/,fujifilmxe2,,,5.1,2.9,0.66,CMOS,fujifilm
+184,buy.net,sx160,160,/,/,canonpowershotsx160,4.0,16.0,4.4,2.9,0.54,CCD,canon
+185,buy.net,p520,520,/,/,nikoncoolpixp520,2.0,42.0,4.9,3.3,0.08,CMOS,nikon
+186,buy.net,dmcts25,25,/,/,panasoniclumixdmcts25,4.0,4.0,4.1,2.3,0.28,CCD,panasonic
+187,buy.net,x450,450,/,/,generalelectricx450,4.0,25.0,3.1,2.8,,,general
+188,buy.net,t3i,3,/,/,canoneosrebelt3i,,,5.2,3.9,0.07,CMOS,canon
+189,buy.net,d3100,3100,/,/,nikond3100,,3.1,4.9,3.8,1.00,CMOS,nikon
+190,buy.net,xe2,2,/,/,fujifilmxe2,,,5.1,2.9,0.66,CMOS,fujifilm
+191,buy.net,eos1d,1,/,/,canoneos1d,,,6.2,6.4,0.21,CMOS,canon
+192,buy.net,z2300,2300,/,/,polaroidz2300,2.4,1.0,4.75,3.06,0.58,CMOS,polaroid
+193,buy.net,s325,325,/,/,vivitarvivicams325,4.0,3.0,,,,,vivitar
+194,buy.net,vr370,370,/,/,olympusvr370,4.0,12.5,4.1,2.4,0.38,CCD,olympus
+195,buy.net,dmczs25,25,/,/,panasoniclumixdmczs25,4.0,20.0,4.1,2.3,0.38,MOS,panasonic
+196,buy.net,mac50,50,/,/,videosystemsmac50,,4.0,2.5,2.5,0.34,,video
+197,buy.net,xe1,1,/,/,fujifilmxe1,,3.1,5.1,2.9,0.66,X-Trans CMOS,fujifilm
+198,buy.net,sx700,700,/,/,canonpowershotsx700,4.0,30.0,4.44,2.59,0.54,CMOS,canon
+199,buy.net,s120,120,/,/,canonpowershots120,4.0,5.0,3.94,2.32,0.43,CMOS,canon
+200,buy.net,60d,60,/,/,canoneos60d,,3.1,5.7,4.2,0.09,CMOS,canon
+201,buy.net,wb350f,350,/,/,samsungwb350f,9.4,21.0,4.5,2.6,0.48,BSI CMOS,samsung
+202,buy.net,dscrx100,100,/,/,sonycybershotdscrx100,14.0,3.6,4.0,2.38,0.47,CMOS,sony
+203,buy.net,a6000,6000,/,/,sonyalphaa6000,4.0,,4.75,2.88,0.63,CMOS,sony
+204,buy.net,l830,830,/,/,nikoncoolpixl830,4.0,34.0,4.4,3.0,1.12,CMOS,nikon
+205,buy.net,sd780,780,/,/,canonpowershotsd780,4.0,3.0,3.4,2.2,0.25,CCD,canon
+206,buy.net,l620,620,/,/,nikoncoolpixl620,2.0,14.0,4.3,2.8,0.53,CMOS,nikon
+207,buy.net,pix,,/,/,disneydisneypix,,,,,,,disney
+208,buy.net,zs35,35,/,/,panasoniclumixzs35,4.0,20.0,4.2,2.5,0.49,MOS,panasonic
+209,buy.net,s31,31,/,/,nikoncoolpixs31,4.0,3.0,4.1,2.6,0.41,CCD,nikon
+210,buy.net,epm1,1,/,/,olympuspenepm1,,3.0,4.3,2.5,0.48,Live MOS,olympus
+211,buy.net,t5,5,/,/,canoneosrebelt5,,,5.1,3.93,0.96,CMOS,canon
+212,buy.net,xp200,200,/,/,fujifilmfinepixxp200,,,,,,,fujifilm
+213,buy.net,j3,3,/,/,nikon1j3,,3.0,4.0,2.4,0.44,CMOS,nikon
+214,buy.net,dmclz40,40,/,/,panasoniclumixdmclz40,4.0,42.0,4.98,3.41,0.07,CCD,panasonic
+215,buy.net,st72,72,/,/,samsungst72,1.0,5.0,3.72,2.28,0.24,CCD,samsung
+216,buy.net,f124,124,/,/,vivitaritwistf124,4.0,,9.3,7.3,,CMOS,vivitar
+217,buy.net,ep5,5,/,/,olympuspenep5,,,4.81,2.71,0.83,CMOS,olympus
+218,buy.net,ep5,5,/,/,olympuspenep5,,,4.81,2.71,0.83,CMOS,olympus
+219,buy.net,ep2,2,/,/,olympuspenep2,,,4.7,2.8,0.69,,olympus
+220,buy.net,s1500,1500,/,/,fujifilmfinepixs1500,5.7,12.0,4.1,2.9,0.71,CCD,fujifilm
+221,buy.net,s32,32,/,/,nikoncoolpixs32,4.0,3.0,4.3,2.7,0.39,CMOS,nikon
+222,buy.net,dmcg5kk,5,/,/,panasoniclumixdmcg5kk,4.0,3.0,4.7,3.3,0.76,Live MOS,panasonic
+223,buy.net,70d,70,/,/,canoneos70d,,,5.5,4.1,0.09,CMOS,canon
+224,buy.net,l830,830,/,/,nikoncoolpixl830,4.0,34.0,4.4,3.0,0.07,CMOS,nikon
+225,buy.net,j3,3,/,/,nikon1j3,,3.0,4.0,2.4,0.44,CMOS,nikon
+226,buy.net,t400,400,/,/,fujifilmfinepixt400,7.2,10.0,4.1,2.3,0.31,CCD,fujifilm
+227,buy.net,sx510,510,/,/,canonpowershotsx510,4.0,30.0,4.1,2.7,0.70,CMOS,canon
+228,buy.net,xe2,2,/,/,fujifilmxseriesxe2,,,5.1,2.9,0.66,CMOS,fujifilm
+229,buy.net,d3300,3300,/,/,nikond3300,,,4.9,3.9,0.91,CMOS,nikon
+230,buy.net,hello,,/,/,sakarhellokitty,,,,,,,sakar
+231,buy.net,s01,01,/,/,nikoncoolpixs01,4.0,3.0,3.0,2.0,0.21,CCD,nikon
+232,buy.net,2v7wpp,2,/,/,coleman2v7wpp,8.0,,3.8,2.5,0.40,CMOS,coleman
+233,buy.net,d7100,7100,/,/,nikond7100,,7.8,5.3,4.2,0.09,CMOS,nikon
+234,buy.net,ilce5000l,5000,/,/,sonyalphailce5000l,2.0,3.1,4.3,2.5,0.46,Exmor APS HD CMOS sensor,sony
+235,buy.net,slr16,16,/,/,nikondfslr16,,,5.6,4.3,1.56,CMOS,nikon
+236,buy.net,f900exr,900,/,/,fujiblowersfinepixf900exr,2.0,20.0,4.1,2.4,0.47,EXR CMOS II,fuji
+237,buy.net,p600,600,/,/,nikoncoolplixp600,4.0,60.0,5.0,3.4,1.24,CMOS,nikon
+238,buy.net,dscw830,830,/,/,sonycybershotdscw830,4.0,8.0,3.7,2.1,0.23,Super HAD CCD,sony
+239,buy.net,xm1,1,/,/,fujifilmxm1,,,4.6,2.6,0.62,CMOS,fujifilm
+240,buy.net,scb1,1,/,/,irisusascb1,,,,,,,iris
+241,buy.net,dmcgx7,7,/,/,panasoniclumixdmcgx7,4.0,,,,0.07,CMOS,panasonic
+242,buy.net,d3300,3300,/,/,nikond3300,,,4.9,3.9,0.94,CMOS,nikon
+243,buy.net,s32,32,/,/,nikoncoolpixs32,4.0,3.0,4.3,2.7,0.39,CMOS,nikon
+244,buy.net,70d,70,/,/,canoneos70d,,3.1,5.5,4.1,0.09,CMOS,canon
+245,buy.net,wvst162,162,/,/,panasoniciprosmarthdwvst162,8.0,,3.9,3.9,0.76,MOS,panasonic
+246,buy.net,l28,28,/,/,nikoncoolpixl28,4.0,5.0,3.8,2.4,0.36,CCD,nikon
+247,buy.net,xz2,2,/,/,olympusstylusxz2,4.0,4.0,4.4,2.6,0.76,CMOS,olympus
+248,buy.net,wb350f,350,/,/,samsungwb350f,9.4,21.0,4.5,2.6,0.48,BSI CMOS,samsung
+249,buy.net,ixus310,310,/,/,canonixus310,4.0,4.4,4.0,2.2,0.41,BSI CMOS,canon
+250,buy.net,powershot150,150,/,/,canonpowershot150,4.0,10.0,3.8,2.2,0.28,CCD,canon
+251,buy.net,sh1,1,/,/,olympusstylussh1,4.0,24.0,4.3,2.5,0.59,CMOS,olympus
+252,buy.net,p510,510,/,/,nikoncoolpixp510,2.0,42.0,4.7,3.3,0.08,CMOS,nikon
+253,buy.net,ekgc110,110,/,/,samsunggalaxyekgc110,,21.0,5.1,2.8,0.66,BSI CMOS,samsung
+254,buy.net,elph340,340,/,/,canonpowershotelph340,4.0,12.0,3.93,2.27,0.29,CMOS,canon
+255,buy.net,evc355bk,355,/,/,allenevc355bk,4.0,,,,,,allen
+256,buy.net,xm1,1,/,/,fujifilmxm1,,,4.6,2.6,0.62,CMOS,fujifilm
+257,buy.net,l05,05,/,/,wildgameinnovationselite5lightsoutl05,,,,,,,wildgame
+258,buy.net,fe5020,5020,/,/,olympusfe5020,4.0,5.0,3.6,2.2,0.24,,olympus
+259,buy.net,sp100,100,/,/,olympusstylussp100,4.0,50.0,4.8,3.6,1.32,CMOS,olympus
+260,buy.net,s6800,6800,/,/,fujiblowersfinepixs6800,,,,,,,fuji
+261,buy.net,wb30f,30,/,/,samsungwb30f,5.0,10.0,3.9,2.3,0.29,CCD,samsung
+262,buy.net,hs35exr,35,/,/,fujiblowersfinepixhs35exr,2.0,30.0,5.1,3.8,0.09,EXR CMOS,fuji
+263,buy.net,dmcgm1kd,1,/,/,panasoniclumixdmcgm1kd,4.0,,3.88,2.19,0.02,CMOS,panasonic
+264,buy.net,stylus7000,7000,/,/,olympusstylus7000,5.0,7.0,3.8,2.2,0.29,,olympus
+265,buy.net,xp60,60,/,/,fujifilmfinepixxp60,2.0,5.0,4.1,2.6,0.36,CMOS,fujifilm
+266,buy.net,d7100,7100,/,/,nikondxformatd7100,1.0,5.5,5.3,4.2,1.49,CMOS,nikon
+267,buy.net,powershot140,140,/,/,canonpowershot140,4.0,8.0,3.8,2.1,0.25,CCD,canon
+268,buy.net,s9200,9200,/,/,fujitsus9200,2.0,50.0,4.8,3.4,1.27,CMOS,fujitsu
+269,buy.net,jx700,700,/,/,fujifilmfinepixjx700,7.2,5.0,3.8,2.3,0.22,CCD,fujifilm
+270,buy.net,powershot150,150,/,/,canonpowershot150,4.0,10.0,3.8,2.2,0.28,CCD,canon
+271,buy.net,d7100,7100,/,/,nikond7100,,,5.3,4.2,0.09,CMOS,nikon
+272,buy.net,s4800,4800,/,/,fujiblowersfinepixs4800,7.2,30.0,4.8,3.7,0.94,CCD,fuji
+273,buy.net,is326blk,326,/,/,sakaris326blk,,21.0,6.7,5.4,0.80,CMOS,sakar
+274,buy.net,tg830,830,/,/,olympustoughtg830,4.0,5.0,4.3,2.6,0.47,CMOS,olympus
+275,buy.net,a2500,2500,/,/,canonpowershota2500,4.0,5.0,3.8,2.2,0.24,CCD,canon
+276,buy.net,wb35f,35,/,/,samsungwb35f,2.0,12.0,4.0,2.4,0.32,CCD,samsung
+277,buy.net,l820,820,/,/,nikoncoolpixl820,4.0,30.0,4.3,3.0,0.07,CMOS,nikon
+278,buy.net,x100s,100,/,/,fujifilmx100s,,,5.0,2.9,0.98,CMOS,fujifilm
+279,buy.net,xa1,1,/,/,fujifilmxa1,,,,,,,fujifilm
+280,buy.net,dscwx350,350,/,/,sonydscwx350,,20.0,3.88,2.25,0.30,CMOS,sony
+281,buy.net,slta65vl,65,/,/,sonyslta65vl,,,5.25,3.88,0.07,CMOS,sony
+282,buy.net,dscwx350w,350,/,/,sonydscwx350w,,20.0,3.88,2.25,0.30,CMOS,sony
+283,buy.net,powershot150,150,/,/,canonpowershot150,4.0,10.0,3.8,2.2,0.28,CCD,canon
+284,buy.net,k30,30,/,/,pentaxk30,,,5.1,3.8,1.30,CMOS,pentax
+285,buy.net,d3200,3200,/,/,nikond3200,,,5.0,3.8,1.00,CMOS,nikon
+286,buy.net,x137,137,/,/,vivitarvivicamx137,4.0,,,,,,vivitar
+287,buy.net,t4i,4,/,/,canoneosrebelt4i,,3.1,5.2,3.9,0.07,CMOS,canon
+288,buy.net,dmcgh4,4,/,/,panasoniclumixdmcgh4,4.0,,5.23,3.68,1.06,CMOS,panasonic
+289,buy.net,em10,10,/,/,olympusomdem10,,,4.7,3.2,0.88,CMOS,olympus
+290,buy.net,d5300,5300,/,/,nikond5300,,7.8,4.92,3.9,1.06,CMOS,nikon
+291,buy.net,s8500,8500,/,/,fujifilmfinepixs8500,2.0,46.0,4.8,3.4,1.27,CMOS,fujifilm
+292,buy.net,kidizoom,,/,/,vtechkidizoomcompact,2.0,,,,,,vtech
+293,buy.net,xq1,1,/,/,fujifilmxq1,4.0,4.0,3.9,2.3,0.41,CMOS,fujifilm
+294,buy.net,zoom128,128,/,/,kodakzxdzoom128,2.0,,2.0,4.2,0.20,CMOS,kodak
+295,buy.net,dsctx30,30,/,/,sonycybershotdsctx30,2.0,5.0,3.8,2.3,0.28,Exmor R CMOS,sony
+296,buy.net,d5200,5200,/,/,nikond5200,,3.1,5.1,3.9,0.07,CMOS,nikon
+297,buy.net,em10,10,/,/,olympusomdem10,,3.0,4.7,3.2,0.87,Live MOS,olympus
+298,buy.net,a5000,5000,/,/,sonyalphaa5000,,,4.38,2.5,0.46,CMOS,sony
+299,buy.net,hs50exr,50,/,/,fujiblowersfinepixhs50exr,20.0,42.0,5.3,4.0,0.10,EXR CMOS II,fuji
+300,buy.net,powershot135,135,/,/,canonpowershot135,4.0,8.0,3.8,2.1,0.25,CCD,canon
+301,buy.net,xa1,1,/,/,fujifilmxa1,,,4.6,2.6,0.62,CMOS,fujifilm
+302,buy.net,dsch400,400,/,/,sonycybershotdsch400,126.0,63.0,5.1,3.7,0.39,Super HAD CCD,sony
+303,buy.net,sp620uz,620,/,/,olympussp620uz,4.0,21.0,4.3,2.9,0.96,CCD,olympus
+304,buy.net,tg2,2,/,/,olympustoughtg2,4.0,4.0,4.4,2.6,0.51,CMOS,olympus
+305,buy.net,k3,3,/,/,pentaxk3,,,5.19,3.94,1.76,CMOS,pentax
+306,buy.net,sx700,700,/,/,canonpowershotsx700,4.0,30.0,4.44,2.59,0.54,CMOS,canon
+307,buy.net,dmcgh4,4,/,/,panasoniclumixdmcgh4,4.0,,5.23,3.68,1.06,CMOS,panasonic
+308,buy.net,p520,520,/,/,nikoncoolpixp520,2.0,42.0,4.9,3.3,0.08,CMOS,nikon
+309,buy.net,7d,7,/,/,canoneos7d,,4.8,5.8,4.4,0.11,CMOS,canon
+310,buy.net,d7000,7000,/,/,nikond7000,,5.8,5.2,4.1,0.10,CMOS,nikon
+311,buy.net,vlux4,4,/,/,leicavlux4,4.0,24.0,4.9,3.4,0.08,CMOS,leica
+312,buy.net,k50,50,/,/,pentaxk50,,,5.1,3.8,1.30,CMOS,pentax
+313,buy.net,wb350f,350,/,/,samsungwb350f,9.4,21.0,4.5,2.6,0.48,BSI CMOS,samsung
+314,buy.net,xpro1,1,/,/,fujifilmxpro1,,,5.5,3.2,0.88,X-Trans CMOS,fujifilm
+315,buy.net,d610,610,/,/,nikond610,,3.5,5.6,4.4,1.68,CMOS,nikon
+316,buy.net,sx600,600,/,/,canonpowershotsx600,4.0,18.0,4.1,2.4,0.36,CMOS,canon
+317,buy.net,dscwx80,80,/,/,sonycybershotdscwx80,,8.0,3.6,2.1,0.24,Exmor R CMOS,sony
+318,buy.net,wb30f,30,/,/,samsungwb30f,5.0,10.0,3.9,2.3,0.29,CCD,samsung
+319,buy.net,powershot135,135,/,/,canonpowershot135,4.0,8.0,3.8,2.1,0.25,CCD,canon
+320,buy.net,s6800,6800,/,/,nikoncoolpixs6800,4.0,12.0,3.9,2.3,0.33,CMOS,nikon
+321,buy.net,dmcfz50,50,/,/,panasoniclumixdmcfz50,,,,,,,panasonic
+322,buy.net,vr370,370,/,/,olympussmartvr370,4.0,12.5,4.1,2.4,0.38,CCD,olympus
+323,buy.net,k50,50,/,/,pentaxk50,,,5.1,3.8,1.30,CMOS,pentax
+324,buy.net,em5,5,/,/,olympusomdem5,,,4.8,3.5,0.94,Live MOS,olympus
+325,buy.net,dmcg5,5,/,/,panasoniclumixdmcg5,,,4.72,3.28,0.76,CMOS,panasonic
+326,buy.net,t550,550,/,/,fujiblowersfinepixt550,2.0,12.0,3.9,2.2,0.27,CCD,fuji
+327,buy.net,d3200,3200,/,/,nikond3200,,,4.9,3.8,0.06,CMOS,nikon
+328,buy.net,x550,550,/,/,hunterbootsx550,6.0,15.0,4.0,2.9,0.94,CCD,hunter
+329,buy.net,nex5t,5,/,/,sonyalphanex5t,4.0,3.0,,,,CMOS,sony
+330,buy.net,em10,10,/,/,olympusomdem10,,3.0,4.7,3.2,0.87,Live MOS,olympus
+331,buy.net,sx200,200,/,/,canonpowershotsx200,4.0,12.0,4.1,2.4,0.48,CCD,canon
+332,buy.net,dscwx100,100,/,/,sonycybershotdscwx100,40.0,10.0,3.6,2.1,0.24,Exmor R CMOS,sony
+333,buy.net,tg850,850,/,/,olympusstylustoughtg850,4.0,5.0,4.3,2.5,0.48,CMOS,olympus
+334,buy.net,v46,46,/,/,vivitarv46,4.0,,3.5,2.5,,CMOS,vivitar
+335,buy.net,p340,340,/,/,nikoncoolplixp340,4.0,5.0,4.1,2.3,0.43,CMOS,nikon
+336,buy.net,mx1,1,/,/,pentaxmx1,2.0,4.0,4.8,2.4,0.80,CMOS,pentax
+337,buy.net,ep5,5,/,/,olympuspenep5,,,4.81,2.71,0.83,CMOS,olympus
+338,buy.net,aw120,120,/,/,nikoncoolpixaw120,4.0,5.0,4.4,2.6,0.47,CMOS,nikon
+339,buy.net,ic14,14,/,/,intovaic14,6.0,5.0,3.81,2.26,0.24,CCD,intova
+340,buy.net,em1,1,/,/,olympusomdem1,2.0,,5.1,3.7,1.09,CMOS,olympus
+341,buy.net,is426,426,/,/,polaroidis426,,,,,,,polaroid
+342,buy.net,dmczs40,40,/,/,panasoniclumixdmczs40,4.0,30.0,4.35,2.53,0.03,CMOS,panasonic
+343,buy.net,a7,7,/,/,sonyalphaa7,,2.5,,,1.70,CMOS,sony
+344,buy.net,sp550,550,/,/,olympussp550,,,,,,,olympus
+345,buy.net,x020,020,/,/,vivitarvivicamx020,4.0,3.0,,,0.04,,vivitar
+346,buy.net,slr16,16,/,/,nikondffxformatslr16,,,5.6,4.3,1.56,CMOS,nikon
+347,buy.net,dscw800,800,/,/,sonydscw800,10.0,5.0,2.0,0.88,0.29,CCD,sony
+348,buy.net,xm1,1,/,/,fujifilmxm1,,,4.6,2.6,0.62,CMOS,fujifilm
+349,buy.net,aw120,120,/,/,nikoncoolpixaw120,4.0,5.0,4.4,2.6,0.47,CMOS,nikon
+350,buy.net,d3300,3300,/,/,nikond3300,,,4.9,3.9,0.94,CMOS,nikon
+351,buy.net,sx160,160,/,/,canonpowershotsx160,4.0,16.0,4.4,2.9,0.54,CCD,canon
+352,buy.net,t550,550,/,/,fujifilmfinepixt550,2.0,12.0,3.9,2.2,0.27,CCD,fujifilm
+353,buy.net,a5000,5000,/,/,sonya5000,4.0,3.0,4.38,2.5,0.46,CMOS,sony
+354,buy.net,s9700,9700,/,/,nikoncoolpixs9700,4.0,30.0,4.3,2.5,0.51,CMOS,nikon
+355,buy.net,pcm13,13,/,/,aiptekpencampcm13,,,1.2,1.3,0.10,CMOS,aiptek
+356,buy.net,sl280,280,/,/,fujifilmfinepixsl280,6.7,28.0,4.8,3.7,0.07,CCD,fujifilm
+357,buy.net,5d,5-3,/,/,canoneos5d,,,6.0,4.6,0.12,CMOS,canon
+358,buy.net,mdc830z,830,/,/,mustekmdc830z,4.0,3.0,1.1,2.2,0.30,CCD,mustek
