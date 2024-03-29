@@ -16,6 +16,7 @@
 359,5f3ba61f3fd5b671b2201268,www.walmart.com,"6d\,8035b002",/,/,/,canoneos6d,,,18.288,15.087600000000002,1678.2904,/,canon
 360,5f3ba61f3fd5b671b2201271,www.walmart.com,"sh1\,v107080bu000",/,/,/,olympussh1,4,24.0,13.97,7.8740000000000006,544.3104,/,olympus
 2113,5f3ba61f3fd5b671b22011b1,www.walmart.com,"l27\,26399",/,/,/,nikoncoolpixl27,4,5.0,6.096,3.048,408.2328,/,nikon
+2114,5f3ba61f3fd5b671b22011bc,www.walmart.com,s30hdz,/,/,/,bellhowells30hdz,4,5.0,7.62,2.54,453.592,/,bell
 2115,5f3ba61f3fd5b671b22011cc,www.walmart.com,7d,/,/,/,canoneos7d,,4.0,14.732,11.176000000000002,1927.7659999999998,/,canon
 2116,5f3ba61f3fd5b671b22011e5,www.walmart.com,dsctx200v,/,/,/,sonydsctx200v,,5.0,6.0325,1.667002,326.58624,/,sony
 2117,5f3ba61f3fd5b671b2201204,www.walmart.com,2v7wp,/,/,/,colemanduo2v7wp,3,,7.62,5.08,453.592,/,coleman
@@ -24,26 +25,34 @@
 2120,5f3ba61f3fd5b671b220122d,www.walmart.com,"vf128pnk\,vf128",/,/,/,vivitarvf128pnk,4,,3.81,22.86,272.1552,/,vivitar
 2121,5f3ba61f3fd5b671b2201230,www.walmart.com,"howell\,wp7",/,/,/,bellhowell,8,,15.24,7.62,453.592,/,bell
 2122,5f3ba61f3fd5b671b2201245,www.walmart.com,"a3000\,ilce3000k b\,ilce3000\,ilce3000kb\,ilce3000k",/,/,/,sonyalphaa3000,4,3.0,8.4582,9.2075,1088.6208,/,sony
+2123,5f3ba61f3fd5b671b2201249,www.walmart.com,ax655,/,/,/,fujifilmax655,,5.0,2.032,5.588000000000001,498.95120000000003,/,fujifilm
 2124,5f3ba61f3fd5b671b2201251,www.walmart.com,"so1\,mini",/,/,/,nikoncoolpixso1,4,3.0,7.8740000000000006,5.3340000000000005,2698.8724,/,nikon
+2125,5f3ba61f3fd5b671b2201259,www.walmart.com,"p600\,26462",/,/,/,nikoncoolpixp600,4,60.0,8.509,10.642600000000002,1088.6208,/,nikon
 2126,5f3ba61f3fd5b671b220125c,www.walmart.com,"vx137blk\,vx137",/,/,/,vivitarvx137blk,4,,5.08,22.86,340.19399999999996,/,vivitar
 2127,5f3ba61f3fd5b671b2201265,www.walmart.com,"s9700\,26469",/,/,/,nikoncoolpixs9700,4,30.0,6.3754,3.5559999999999996,657.7084,/,nikon
 2128,5f3ba61f3fd5b671b2201266,www.walmart.com,sl25,/,/,/,kodakpixprosl25,,,7.111999999999999,5.842,185.97271999999998,/,kodak
 2129,5f3ba61f3fd5b671b220126f,www.walmart.com,"dschx300\,dschx300 b\,dschx300b",/,/,/,sonydschx300,,50.0,10.4648,9.525,952.5432,/,sony
 2130,5f3ba61f3fd5b671b2201272,www.walmart.com,"sx600\,9340b001",/,/,/,canonpowershotsx600,4,18.0,10.414,6.096,272.1552,/,canon
 3912,5f3ba61f3fd5b671b22011c6,www.walmart.com,"jx660\,16291015",/,/,/,fujifilmfinepixjx660,7,5.0,13.97,5.08,362.8736,/,fujifilm
+3913,5f3ba61f3fd5b671b22011c7,www.walmart.com,"2v7wp\,2v7wp g\,2v7wpg",/,/,/,colemanwaterproofduo2v7wp,3,,7.62,5.08,453.592,/,coleman
 3914,5f3ba61f3fd5b671b22011e4,www.walmart.com,"sx160\,6354b001",/,/,/,canonpowershotsx160,4,16.0,13.7922,7.2898000000000005,498.95120000000003,/,canon
 3915,5f3ba61f3fd5b671b22011f2,www.walmart.com,"a5000\,ilce5000l b\,ilce5000\,ilce5000lb\,ilce5000l",/,/,/,sonyalphaa5000,4,3.0,3.6576,6.35,680.3879999999999,/,sony
 3916,5f3ba61f3fd5b671b22011f9,www.walmart.com,"d5300\,1524",/,/,/,nikond5300,,3.0,12.4968,9.906,1632.9312,/,nikon
+3917,5f3ba61f3fd5b671b22011fc,www.walmart.com,"d7100\,13302",/,/,/,nikond7100,,,10.668000000000001,7.62,3447.2992,/,nikon
 3918,5f3ba61f3fd5b671b22011ff,www.walmart.com,"j1\,j1 r10 30\,j1r1030",/,/,/,nikon1j1,,3.0,6.096,6.35,884.5043999999999,/,nikon
 3919,5f3ba61f3fd5b671b2201214,www.walmart.com,sl25,/,/,/,kodakpixprosl25,,,7.111999999999999,5.842,185.97271999999998,/,kodak
+3920,5f3ba61f3fd5b671b2201225,www.walmart.com,"sx510\,8409b001",/,/,/,canonpowershotsx510,4,30.0,10.414,6.8580000000000005,635.0287999999999,/,canon
 3921,5f3ba61f3fd5b671b2201226,www.walmart.com,vt027,/,/,/,vivitarvt027,4,,17.78,4.445,285.76295999999996,/,vivitar
 3922,5f3ba61f3fd5b671b2201232,www.walmart.com,s1000,/,/,/,ionamericacoolicams1000,,,1.27,6.35,,/,ion
 3923,5f3ba61f3fd5b671b2201239,www.walmart.com,"d5200\,d5200 w18 55\,d5200w1855",/,/,/,nikond5200,,,9.906,7.8740000000000006,1769.0087999999998,/,nikon
 3924,5f3ba61f3fd5b671b2201253,www.walmart.com,"rx100\,dscrx100m2 b\,dscrx100m2b\,dscrx100m2",/,/,/,sonycybershotrx100,14,3.6,3.81,5.7912,612.3492,/,sony
+3925,5f3ba61f3fd5b671b2201269,www.walmart.com,"2v7wp\,2v7wp p\,2v7wpp",/,/,/,colemanwaterproofduo2v7wp,3,,7.62,5.08,453.592,/,coleman
 3926,5f3ba61f3fd5b671b220126e,www.walmart.com,"aw120\,26467",/,/,/,nikoncoolpixaw120,4,5.0,6.604,2.54,3016.3868,/,nikon
+5655,5f3ba61f3fd5b671b22011b6,www.walmart.com,"s01\,mini",/,/,/,nikoncoolpixs01,4,3.0,7.8740000000000006,5.3340000000000005,2698.8724,/,nikon
 5656,5f3ba61f3fd5b671b22011b8,www.walmart.com,"em5\,v204040bu000",/,/,/,olympusomdem5,,,24.003,9.906,1274.59352,/,olympus
 5657,5f3ba61f3fd5b671b22011bd,www.walmart.com,"coolpix\,a",/,/,/,nikoncoolpixa,,1.0,6.4262,4.038600000000001,884.5043999999999,/,nikon
 5658,5f3ba61f3fd5b671b22011c5,www.walmart.com,"60d\,60d 18 135\,60d18135",/,/,/,canoneos60d,,,10.16,7.62,2313.3192,/,canon
+5659,5f3ba61f3fd5b671b22011cd,www.walmart.com,"wb350f\,wb350fbpuus",/,/,/,samsungwb350f,5,21.0,6.502400000000001,2.4892,907.184,/,samsung
 5660,5f3ba61f3fd5b671b22011e8,www.walmart.com,"70d\,8469b009l25akit",/,/,/,canoneos70d,,,9.1694,24.384,3628.736,/,canon
 5661,5f3ba61f3fd5b671b22011e9,www.walmart.com,"t3i\,5169b003aa",/,/,/,canoneosrebelt3i,,,9.906,7.8740000000000006,1859.7271999999998,/,canon
 5662,5f3ba61f3fd5b671b22011f6,www.walmart.com,"ffz151\,fz151",/,/,/,kodakffz151,6,15.0,2.286,5.638800000000001,430.9124,/,kodak
@@ -53,64 +62,135 @@
 5666,5f3ba61f3fd5b671b220123e,www.walmart.com,"x2600ep\,x2600 b\,x2600b\,x2600",/,/,/,gepowerproseriesx2600ep,5,26.0,12.7,7.62,771.1064,/,ge
 5667,5f3ba61f3fd5b671b2201240,www.walmart.com,"p530\,26464",/,/,/,nikoncoolpixp530,4,42.0,8.4074,9.8044,7107.786639999999,/,nikon
 5668,5f3ba61f3fd5b671b220124f,www.walmart.com,"t3\,5157b002aa",/,/,/,canondslreosrebelt3,,,9.906,7.8740000000000006,1496.8536,/,canon
+5669,5f3ba61f3fd5b671b2201261,www.walmart.com,"howell\,wp7",/,/,/,bellhowell,8,,15.24,7.62,453.592,/,bell
 5670,5f3ba61f3fd5b671b220126d,www.walmart.com,"a2500\,8253b001",/,/,/,canonpowershota2500,4,5.0,12.192,5.588000000000001,272.1552,/,canon
 7386,5f3ba61f3fd5b671b22011ce,www.walmart.com,"dmcgf3\,dmcgf3xt",/,/,/,panasoniclumixdmcgf3,2,3.0,14.478000000000002,10.921999999999999,952.5432,/,panasonic
 7387,5f3ba61f3fd5b671b22011d1,www.walmart.com,s16,/,/,/,bellhowells16,8,,7.62,2.54,453.592,/,bell
 7388,5f3ba61f3fd5b671b22011d9,www.walmart.com,"dsch300\,h300 b\,h300b\,h300",/,/,/,sonydigitalcameradsch300,2,35.0,10.4648,9.525,884.5043999999999,/,sony
 7389,5f3ba61f3fd5b671b22011ec,www.walmart.com,"s6800\,26444",/,/,/,nikoncoolpixs6800,4,12.0,5.7912,2.286,385.5532,/,nikon
+7390,5f3ba61f3fd5b671b2201206,www.walmart.com,"70d\,8469b016",/,/,/,canoneos70d,,,13.97,10.414,2041.164,/,canon
+7391,5f3ba61f3fd5b671b2201207,www.walmart.com,"howell\,wp7",/,/,/,bellhowell,8,,15.24,7.62,453.592,/,bell
 7392,5f3ba61f3fd5b671b2201213,www.walmart.com,az251,/,/,/,kodakaz251,4,25.0,7.442200000000001,6.959600000000001,680.3879999999999,/,kodak
 7393,5f3ba61f3fd5b671b2201217,www.walmart.com,"evnx2000bfwca\,nx2000bfwca",/,/,/,samsungevnx2000bfwca,,,3.5559999999999996,6.35,821.00152,/,samsung
+7394,5f3ba61f3fd5b671b2201220,www.walmart.com,"d5300\,1521",/,/,/,nikond5300,,,12.4968,9.906,12972.7312,/,nikon
+7395,5f3ba61f3fd5b671b2201221,www.walmart.com,"j1\,j1 s10 30\,j1s1030",/,/,/,nikon1j1,,3.0,6.096,6.35,929.8635999999999,/,nikon
 7396,5f3ba61f3fd5b671b220122a,www.walmart.com,"l30\,26438",/,/,/,nikoncoolpixl30,4,5.0,6.096,3.048,2249.81632,/,nikon
+7397,5f3ba61f3fd5b671b220122c,www.walmart.com,"a3000\,ilce3000k b\,ilce3000\,ilce3000kb\,ilce3000k",/,/,/,sonyalphaa3000,4,3.0,8.4582,9.2075,1088.6208,/,sony
 7398,5f3ba61f3fd5b671b220122f,www.walmart.com,"d3500\,hpd3500",/,/,/,hpd3500,4,36.0,7.8740000000000006,6.8580000000000005,771.1064,/,hp
+7399,5f3ba61f3fd5b671b2201237,www.walmart.com,"t3\,5157b076",/,/,/,canoneosrebelt3,,,35.052,22.352000000000004,3016.3868,/,canon
 7400,5f3ba61f3fd5b671b220123c,www.walmart.com,x400,/,/,/,gex400,6,15.0,7.4168,6.807200000000001,725.7472,/,ge
 7401,5f3ba61f3fd5b671b2201258,www.walmart.com,"elph135\,9150b001",/,/,/,canonpowershotelph135,4,8.0,9.398000000000001,5.3340000000000005,181.4368,/,canon
+7402,5f3ba61f3fd5b671b220125b,www.walmart.com,"sx600\,9342b001",/,/,/,canonpowershotsx600,4,18.0,10.414,6.096,272.1552,/,canon
 7403,5f3ba61f3fd5b671b220125d,www.walmart.com,dv150f,/,/,/,samsungdv150f,,5.0,5.5118,1.8288,453.592,/,samsung
 9105,5f3ba61f3fd5b671b22011b5,www.walmart.com,"l620\,nikonl620blk",/,/,/,nikoncoolpixl620,2,14.0,10.921999999999999,6.8580000000000005,861.8248,/,nikon
+9106,5f3ba61f3fd5b671b22011b7,www.walmart.com,x450,/,/,/,gepowerprox450,,25.0,7.8740000000000006,7.111999999999999,907.184,/,ge
 9107,5f3ba61f3fd5b671b22011c1,www.walmart.com,"nex3k\,nex3\,3k s\,3ks\,3k",/,/,/,sonyalphanex3k,10,,11.7602,6.35,1043.2615999999998,/,sony
+9108,5f3ba61f3fd5b671b22011c3,www.walmart.com,60d,/,/,/,canoneos60d,,,10.16,7.62,907.184,/,canon
+9109,5f3ba61f3fd5b671b22011c9,www.walmart.com,dv150f,/,/,/,samsungdv150f,,5.0,5.7912,1.8034,249.47560000000001,/,samsung
+9110,5f3ba61f3fd5b671b22011d2,www.walmart.com,"t3\,5157b002aa",/,/,/,canondslreosrebelt3,,,9.906,7.8740000000000006,1496.8536,/,canon
 9111,5f3ba61f3fd5b671b22011d4,www.walmart.com,"em10\,v207020bu000",/,/,/,olympusomdem10,,,23.622000000000003,9.906,952.5432,/,olympus
 9112,5f3ba61f3fd5b671b22011d8,www.walmart.com,"s9150\,fujifilms9150",/,/,/,fujifilmfinepixs9150,2,50.0,8.128,7.366,907.184,/,fujifilm
 9113,5f3ba61f3fd5b671b22011fb,www.walmart.com,jz250,/,/,/,fujifxjz250,,8.0,2.286,5.588000000000001,421.84056,/,fuji
 9114,5f3ba61f3fd5b671b220120a,www.walmart.com,"t5i\,8595b003l25kit",/,/,/,canoneosrebelt5i,,,7.8740000000000006,9.906,3175.144,/,canon
+9115,5f3ba61f3fd5b671b220120c,www.walmart.com,"coolpix\,a",/,/,/,nikoncoolpixa,,1.0,6.4262,4.038600000000001,5220.843919999999,/,nikon
 9116,5f3ba61f3fd5b671b2201224,www.walmart.com,sl10,/,/,/,kodakpixprosl10,,,5.969,5.969,408.2328,/,kodak
 9117,5f3ba61f3fd5b671b2201227,www.walmart.com,"fxjx500\,jx500",/,/,/,fujifxjx500,,5.0,2.032,5.588000000000001,421.84056,/,fuji
+9118,5f3ba61f3fd5b671b2201231,www.walmart.com,"d7100\,d7100 18 105mm\,d710018105mm",/,/,/,nikonslrd7100,,5.8,10.668000000000001,7.62,2925.6684,/,nikon
 9119,5f3ba61f3fd5b671b220123b,www.walmart.com,"d3200\,13313",/,/,/,nikond3200,,,9.652,7.8740000000000006,3333.9012,/,nikon
+9120,5f3ba61f3fd5b671b220123f,www.walmart.com,"p7800\,26427",/,/,/,nikoncoolpixp7800,4,7.1,11.938,7.8740000000000006,6599.7636,/,nikon
 9121,5f3ba61f3fd5b671b2201241,www.walmart.com,"gc110\,gb110",/,/,/,samsunggc110,,21.0,7.111999999999999,2.54,653.17248,/,samsung
 9122,5f3ba61f3fd5b671b2201242,www.walmart.com,acg22,/,/,/,povactionvideoacg22,,,8.636,7.62,204.1164,/,pov
+9123,5f3ba61f3fd5b671b220124b,www.walmart.com,dv150f,/,/,/,samsungdv150f,,5.0,5.7912,1.8034,249.47560000000001,/,samsung
 9124,5f3ba61f3fd5b671b2201254,www.walmart.com,"sx50\,6352b001",/,/,/,canonpowershotsx50,,50.0,14.732,12.7,997.9024000000001,/,canon
+9125,5f3ba61f3fd5b671b2201262,www.walmart.com,"d5300\,1519",/,/,/,nikondslrd5300,,,12.4968,9.906,1383.4555999999998,/,nikon
+10882,5f3ba61f3fd5b671b22011b2,www.walmart.com,"2v7wp\,2v7wp p\,2v7wpp",/,/,/,colemanwaterproofduo2v7wp,3,,7.62,5.08,453.592,/,coleman
+10883,5f3ba61f3fd5b671b22011bb,www.walmart.com,"sl1\,8575b003l25kit",/,/,/,canoneosrebelsl1,,,6.8580000000000005,9.144,3175.144,/,canon
+10884,5f3ba61f3fd5b671b22011be,www.walmart.com,"wb350f\,wb350fbpwus",/,/,/,samsungwb350f,2,21.0,6.502400000000001,2.4892,476.2716,/,samsung
 10885,5f3ba61f3fd5b671b22011e1,www.walmart.com,nex3n,/,/,/,sonycompactsystemnex3n,,,8.89,8.5852,1043.2615999999998,/,sony
+10886,5f3ba61f3fd5b671b22011ed,www.walmart.com,"sl1\,8575b003",/,/,/,canoneosrebelsl1,,,16.6116,13.7922,1882.4068000000002,/,canon
 10887,5f3ba61f3fd5b671b22011f8,www.walmart.com,"fz41bk\,fz41",/,/,/,kodakfz41bk,6,4.0,9.3218,6.0198,453.592,/,kodak
+10888,5f3ba61f3fd5b671b22011fd,www.walmart.com,"sx600\,9341b001",/,/,/,canonpowershotsx600,4,18.0,10.414,6.096,272.1552,/,canon
 10889,5f3ba61f3fd5b671b2201201,www.walmart.com,st72,/,/,/,samsungst72,,5.0,5.7912,1.8034,226.796,/,samsung
+10890,5f3ba61f3fd5b671b2201229,www.walmart.com,"elph135\,9156b001",/,/,/,canonpowershotelph135,4,8.0,9.398000000000001,5.3340000000000005,317.51439999999997,/,canon
 10891,5f3ba61f3fd5b671b220122b,www.walmart.com,"c1233bk\,c1233",/,/,/,gedigitalcamerac1233bk,5,3.0,14.223999999999998,6.096,435.44831999999997,/,ge
+10892,5f3ba61f3fd5b671b2201236,www.walmart.com,"6d\,8035b009",/,/,/,canoneos6d,,,22.5044,18.796000000000003,2766.9111999999996,/,canon
+10893,5f3ba61f3fd5b671b2201247,www.walmart.com,"wb350f\,wb350fbprus",/,/,/,samsungwb350f,5,21.0,6.502400000000001,2.4892,907.184,/,samsung
 12660,5f3ba61f3fd5b671b22011b4,www.walmart.com,"wb35f\,wb35fzbprus",/,/,/,samsungwb35f,,12.0,6.1214,2.0574000000000003,453.592,/,samsung
 12661,5f3ba61f3fd5b671b22011c0,www.walmart.com,"d30\,9337b001",/,/,/,canonpowershotd30,4,5.0,10.921999999999999,6.8580000000000005,226.796,/,canon
+12662,5f3ba61f3fd5b671b22011c2,www.walmart.com,jz250,/,/,/,fujifxjz250,,8.0,2.286,5.588000000000001,421.84056,/,fuji
 12663,5f3ba61f3fd5b671b22011d3,www.walmart.com,"t5\,9126b003",/,/,/,canoneosrebelt5,,,12.953999999999999,9.906,1428.8147999999999,/,canon
+12664,5f3ba61f3fd5b671b22011d5,www.walmart.com,"dmcgf3\,dmcgf3xk",/,/,/,panasoniclumixdmcgf3,2,3.0,14.478000000000002,11.176000000000002,952.5432,/,panasonic
 12665,5f3ba61f3fd5b671b22011db,www.walmart.com,"sx170\,8410b001",/,/,/,canonpowershotsx170,4,16.0,10.921999999999999,7.111999999999999,408.2328,/,canon
 12666,5f3ba61f3fd5b671b22011e7,www.walmart.com,"xtreme2\,c12wp r\,c12wpr\,c12wp",/,/,/,colemanxtreme2,4,,5.08,7.62,453.592,/,coleman
 12667,5f3ba61f3fd5b671b22011f4,www.walmart.com,"s8630\,fujifilms8630",/,/,/,fujifilmfinepixs8630,2,36.0,8.128,7.366,907.184,/,fujifilm
+12668,5f3ba61f3fd5b671b22011f5,www.walmart.com,2v7wp,/,/,/,colemanduo2v7wp,3,,7.62,5.08,453.592,/,coleman
+12669,5f3ba61f3fd5b671b2201200,www.walmart.com,"s8630\,fujifilms8630",/,/,/,fujifilmfinepixs8630,2,36.0,8.128,7.366,907.184,/,fujifilm
 12670,5f3ba61f3fd5b671b2201203,www.walmart.com,nx300,/,/,/,samsungnx300,,20.0,6.3754,4.064,929.8635999999999,/,samsung
+12671,5f3ba61f3fd5b671b220120f,www.walmart.com,nex3n,/,/,/,sonycompactsystemnex3n,,,8.89,8.5852,1043.2615999999998,/,sony
+12672,5f3ba61f3fd5b671b2201215,www.walmart.com,"70d\,8469b009",/,/,/,canoneos70d,,,13.97,10.414,1857.912832,/,canon
+12673,5f3ba61f3fd5b671b2201218,www.walmart.com,"fxjx500\,jx500",/,/,/,fujifxjx500,,5.0,2.032,5.588000000000001,421.84056,/,fuji
 12674,5f3ba61f3fd5b671b220121e,www.walmart.com,"d810\,1542",/,/,/,nikond810,,,12.446000000000002,8.382,2109.2028,/,nikon
 12675,5f3ba61f3fd5b671b2201248,www.walmart.com,"s120\,8407b001",/,/,/,canonpowershots120,4,5.0,9.906,5.842,453.592,/,canon
 12676,5f3ba61f3fd5b671b220126a,www.walmart.com,x550,/,/,/,gex550,,15.0,7.366,6.604,771.1064,/,ge
+12677,5f3ba61f3fd5b671b220126b,www.walmart.com,x450,/,/,/,gepowerprox450,,25.0,7.8740000000000006,7.111999999999999,907.184,/,ge
 12678,5f3ba61f3fd5b671b220126c,www.walmart.com,"e1680wbk\,e1680w b\,e1680\,e1680wb\,e1680w",/,/,/,gee1680wbk,6,8.0,1.7779999999999998,5.588000000000001,471.73568,/,ge
+14416,5f3ba61f3fd5b671b22011cb,www.walmart.com,"em10\,v207021bu000",/,/,/,olympusomdem10,,,23.622000000000003,9.906,1133.98,/,olympus
+14417,5f3ba61f3fd5b671b22011d7,www.walmart.com,60d,/,/,/,canoneos60d,,,10.16,7.62,907.184,/,canon
+14418,5f3ba61f3fd5b671b22011da,www.walmart.com,"d610\,1540",/,/,/,nikond610,,,14.223999999999998,8.128,11997.508399999999,/,nikon
+14419,5f3ba61f3fd5b671b22011e2,www.walmart.com,"wb35f\,wb35fzbplus",/,/,/,samsungwb35f,,12.0,6.1214,2.0574000000000003,453.592,/,samsung
 14420,5f3ba61f3fd5b671b22011ef,www.walmart.com,"wb200\,wb200f",/,/,/,samsungwb200,,18.0,6.1722,2.159,340.19399999999996,/,samsung
+14421,5f3ba61f3fd5b671b22011fe,www.walmart.com,"xtreme2\,c12wp r\,c12wpr\,c12wp",/,/,/,colemanxtreme2,4,,5.08,7.62,453.592,/,coleman
 14422,5f3ba61f3fd5b671b220120b,www.walmart.com,"wb1100f\,wb1100bprus",/,/,/,samsungwb1100f,2,35.0,8.6614,9.1948,929.8635999999999,/,samsung
+14423,5f3ba61f3fd5b671b2201250,www.walmart.com,"wb35f\,wb35fzbpwus",/,/,/,samsungwb35f,,12.0,6.1214,2.0574000000000003,453.592,/,samsung
+14424,5f3ba61f3fd5b671b2201256,www.walmart.com,"s6800\,26444",/,/,/,nikoncoolpixs6800,4,12.0,5.7912,2.286,385.5532,/,nikon
 14425,5f3ba61f3fd5b671b220125a,www.walmart.com,"wx350\,wx350 b\,wx350b",/,/,/,sonydscwx350,,20.0,2.6924,5.715,390.08912,/,sony
 14426,5f3ba61f3fd5b671b2201260,www.walmart.com,"slr\,5260b002",/,/,/,canonslr,,,18.796000000000003,15.24,1360.7759999999998,/,canon
 14427,5f3ba61f3fd5b671b2201267,www.walmart.com,"tg850\,v104150su000",/,/,/,olympustg850,4,5.0,13.97,17.018,439.98424,/,olympus
+16127,5f3ba61f3fd5b671b22011b0,www.walmart.com,az521,/,/,/,kodakaz521,4,52.0,14.478000000000002,10.414,680.3879999999999,/,kodak
 16128,5f3ba61f3fd5b671b22011ba,www.walmart.com,c3wp,/,/,/,colemanminixtremec3wp,,,7.62,17.78,453.592,/,coleman
+16129,5f3ba61f3fd5b671b22011c4,www.walmart.com,"l30\,26438",/,/,/,nikoncoolpixl30,4,5.0,6.096,3.048,2249.81632,/,nikon
 16130,5f3ba61f3fd5b671b22011c8,www.walmart.com,wp10,/,/,/,bellhowellwp10,8,,15.24,7.62,453.592,/,bell
+16131,5f3ba61f3fd5b671b22011dd,www.walmart.com,"nex3k\,nex3\,3k s\,3ks\,3k",/,/,/,sonyalphanex3k,10,,11.7602,6.35,1043.2615999999998,/,sony
 16132,5f3ba61f3fd5b671b22011df,www.walmart.com,"s5300\,26458",/,/,/,nikoncoolpixs5300,4,8.0,5.842,2.286,385.5532,/,nikon
+16133,5f3ba61f3fd5b671b22011e3,www.walmart.com,"gc200\,gc200zkaxar",/,/,/,samsunggalaxy2gc200,,21.0,7.111999999999999,1.905,907.184,/,samsung
+16134,5f3ba61f3fd5b671b22011ee,www.walmart.com,dsctx200v,/,/,/,sonydsctx200v,,5.0,6.0325,1.667002,326.58624,/,sony
+16135,5f3ba61f3fd5b671b22011f0,www.walmart.com,d3200,/,/,/,nikond3200,,3.0,9.652,7.8740000000000006,1632.9312,/,nikon
 16136,5f3ba61f3fd5b671b22011fa,www.walmart.com,"elph530\,6163b001",/,/,/,canonpowershotelph530,4,12.0,13.716000000000001,5.588000000000001,385.5532,/,canon
+16137,5f3ba61f3fd5b671b2201202,www.walmart.com,"wv30hd\,wv30hd y\,wv30hdy",/,/,/,bellhowellsplashwv30hd,8,,7.62,7.62,453.592,/,bell
 16138,5f3ba61f3fd5b671b2201205,www.walmart.com,"v2\,nikon1 v2 2lens\,nikon1v22lens",/,/,/,nikon1dslrv2,,,18.4912,15.0114,7497.87576,/,nikon
 16139,5f3ba61f3fd5b671b2201208,www.walmart.com,"rx100\,dscrx100 b\,dscrx100b\,dscrx100",/,/,/,sonycybershotrx100,54,3.6,3.5559999999999996,6.096,725.7472,/,sony
+16140,5f3ba61f3fd5b671b220120e,www.walmart.com,"d3200\,13313",/,/,/,nikond3200,,,9.652,7.8740000000000006,3333.9012,/,nikon
+16141,5f3ba61f3fd5b671b2201219,www.walmart.com,"d5300\,1520",/,/,/,nikond5300,,,12.4968,9.906,12972.7312,/,nikon
+16142,5f3ba61f3fd5b671b220121a,www.walmart.com,d3200,/,/,/,nikond3200,,,9.652,7.8740000000000006,1632.9312,/,nikon
 16143,5f3ba61f3fd5b671b220121c,www.walmart.com,vf324,/,/,/,vivitarvf324,4,3.0,4.5974,22.606,154.22128,/,vivitar
+16144,5f3ba61f3fd5b671b220121f,www.walmart.com,"d3500\,hpd3500",/,/,/,hpd3500,4,36.0,7.8740000000000006,6.8580000000000005,771.1064,/,hp
 16145,5f3ba61f3fd5b671b2201223,www.walmart.com,"3in1\,dc345",/,/,/,cobra3in1,,,5.4102,2.2352,131.54167999999999,/,cobra
 16146,5f3ba61f3fd5b671b2201234,www.walmart.com,"splash2\,wp16 y\,wp16y\,wp16",/,/,/,bellhowellsplash2,4,,5.08,7.62,453.592,/,bell
+16147,5f3ba61f3fd5b671b220125e,www.walmart.com,"t5\,9126b003",/,/,/,canoneosrebelt5,,,12.953999999999999,9.906,1428.8147999999999,/,canon
+17893,5f3ba61f3fd5b671b22011b3,www.walmart.com,"aw120\,26467",/,/,/,nikoncoolpixaw120,,,6.604,2.54,3016.3868,/,nikon
+17894,5f3ba61f3fd5b671b22011bf,www.walmart.com,"wb35f\,wb35fzbprus",/,/,/,samsungwb35f,,12.0,6.1214,2.0574000000000003,453.592,/,samsung
+17895,5f3ba61f3fd5b671b22011cf,www.walmart.com,az251,/,/,/,kodakaz251,,,7.442200000000001,6.959600000000001,680.3879999999999,/,kodak
+17896,5f3ba61f3fd5b671b22011dc,www.walmart.com,x550,/,/,/,gex550,,15.0,7.366,6.604,771.1064,/,ge
+17897,5f3ba61f3fd5b671b22011ea,www.walmart.com,"t3\,5157b076",/,/,/,canoneosrebelt3,,,35.052,22.352000000000004,3016.3868,/,canon
 17898,5f3ba61f3fd5b671b22011f1,www.walmart.com,v25,/,/,/,vivitarvivicamv25,,,1.27,5.842,158.75719999999998,/,vivitar
+17899,5f3ba61f3fd5b671b2201211,www.walmart.com,"s6800\,26442",/,/,/,nikoncoolpixs6800,,,5.7912,2.286,385.5532,/,nikon
 17900,5f3ba61f3fd5b671b220121b,www.walmart.com,"g1x\,5249b001",/,/,/,canong1x,4,4.0,14.478000000000002,10.668000000000001,907.184,/,canon
 17901,5f3ba61f3fd5b671b2201228,www.walmart.com,"rx1r\,dscrx1r b\,dscrx1rb\,dscrx1r",/,/,/,sonycybershotrx1r,9,2.0,6.6675,6.985,1065.9412,/,sony
+17902,5f3ba61f3fd5b671b220123d,www.walmart.com,s30hdz,/,/,/,bellhowells30hdz,4,5.0,7.62,2.54,453.592,/,bell
+17903,5f3ba61f3fd5b671b220124c,www.walmart.com,"wb350f\,wb350fbpuus",/,/,/,samsungwb350f,5,21.0,6.502400000000001,2.4892,907.184,/,samsung
+17904,5f3ba61f3fd5b671b220124d,www.walmart.com,"l27\,26399",/,/,/,nikoncoolpixl27,4,5.0,6.096,3.048,408.2328,/,nikon
+17905,5f3ba61f3fd5b671b2201263,www.walmart.com,d3100,/,/,/,nikond3100,,,18.541999999999998,20.6502,1632.9312,/,nikon
+19643,5f3ba61f3fd5b671b22011d0,www.walmart.com,"6d\,8035b009",/,/,/,canoneos6d,,,22.5044,18.796000000000003,2766.9111999999996,/,canon
+19644,5f3ba61f3fd5b671b22011de,www.walmart.com,"d5200\,13311",/,/,/,nikond5200,,,24.13,20.955000000000002,2426.7171999999996,/,nikon
+19645,5f3ba61f3fd5b671b22011eb,www.walmart.com,"d5200\,d5200 w18 55\,d5200w1855",/,/,/,nikond5200,,,9.906,7.8740000000000006,1769.0087999999998,/,nikon
+19646,5f3ba61f3fd5b671b22011f7,www.walmart.com,"wb200\,wb200f",/,/,/,samsungwb200,,18.0,6.1722,2.159,340.19399999999996,/,samsung
 19647,5f3ba61f3fd5b671b2201212,www.walmart.com,"a7\,ilce7 b\,ilce7b\,ilce7",/,/,/,sonyalphaa7,,,4.9276,9.525,975.2227999999999,/,sony
+19648,5f3ba61f3fd5b671b2201216,www.walmart.com,"sx600\,9340b001",/,/,/,canonpowershotsx600,4,18.0,10.414,6.096,272.1552,/,canon
 19649,5f3ba61f3fd5b671b220121d,www.walmart.com,"l830\,26439",/,/,/,nikoncoolpixl830,4,34.0,7.62,9.144,861.8248,/,nikon
+19650,5f3ba61f3fd5b671b2201233,www.walmart.com,"l830\,26439",/,/,/,nikoncoolpixl830,4,34.0,7.62,9.144,861.8248,/,nikon
 19651,5f3ba61f3fd5b671b220123a,www.walmart.com,"epl5\,v205041bu000",/,/,/,olympuspenepl5,,,24.790399999999998,10.0076,1097.69264,/,olympus
 19652,5f3ba61f3fd5b671b2201246,www.walmart.com,c12wp,/,/,/,colemanwaterproofc12wp,4,,5.08,7.62,453.592,/,coleman
 19653,5f3ba61f3fd5b671b220124a,www.walmart.com,"kr\,14973",/,/,/,pentaxkr,,,9.652,6.8580000000000005,1859.7271999999998,/,pentax
+19654,5f3ba61f3fd5b671b220124e,www.walmart.com,"elph530\,6163b001",/,/,/,canonpowershotelph530,4,12.0,13.716000000000001,5.588000000000001,385.5532,/,canon
+19655,5f3ba61f3fd5b671b2201255,www.walmart.com,x450,/,/,/,gepowerprox450,,25.0,7.8740000000000006,7.111999999999999,907.184,/,ge
+19656,5f3ba61f3fd5b671b2201270,www.walmart.com,"wb1100\,wb1100bpbus",/,/,/,samsungwb1100,2,35.0,8.6614,9.1948,907.184,/,samsung

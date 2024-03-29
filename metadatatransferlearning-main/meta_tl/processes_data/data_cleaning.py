@@ -917,13 +917,22 @@ def clean_pricedekho_data(data):
     data['optical zoom'] = data['optical zoom'].replace('[^0-9.]', '', regex=True)
     data['new_optical_zoom'] = data['zoom'].apply(pricedekho_extract_optical_zoom)
     data['final_extracted_optical_zoom'] = data['optical zoom'].fillna(data['new_optical_zoom'])
+    data['final_extracted_optical_zoom'] = data['optical zoom'].fillna(data['new_optical_zoom'])
+    data.loc[data['famer_product_name']== 'canoneos550d', 'final_extracted_optical_zoom'] = 15
+
+
 
 
     # Extract Digital Zoom
     data['digital zoom'] = data['digital zoom'].replace('[^0-9.]', '', regex=True)
     data['new_digital_zoom'] = data['zoom'].apply(pricedekho_extract_digital_zoom)
     data['final_exracted_digital_zoom'] = data['digital zoom'].fillna(data['new_digital_zoom'])
-
+    data.loc[data['famer_product_name'] == 'sonycybershotdscw730', 'final_exracted_digital_zoom'] = 32
+    data.loc[data['famer_product_name'] == 'samsungsh100', 'final_exracted_digital_zoom'] = 5
+    data.loc[data['famer_product_name'] == 'fujifilmfinepixs6800', 'final_exracted_digital_zoom'] = 2
+    data.loc[data['famer_product_name'] == 'samsungwb100', 'final_exracted_digital_zoom'] = 2
+    data.loc[data['famer_product_name'] == 'panasoniclumixdmcgx1w', 'final_exracted_digital_zoom'] = 4
+    data.loc[data['famer_product_name'] == 'samsungpl120', 'final_exracted_digital_zoom'] = 5
     # Extract the sensor typ infos
     data['sensor type'] = data['sensor type'].str.replace('Sensor', '')
     data['sensor_typ_2'] = data['sensor_typ_2'].str.replace('Sensor', '')
@@ -946,6 +955,77 @@ def clean_pricedekho_data(data):
     data = data[columns_to_order]
 
     data.to_csv(path_to_cleaned_data + 'pricedekho_data_cleaned.csv')
+
+
+
+def clean_cambuy_data(data):
+
+    # Weight in g
+    # Width in cm
+    # Height in cm
+
+    # Extract digital zoom
+    data['digital zoom'] = data['digital zoom'].replace('[^0-9.]', '', regex=True)
+    data.loc[data['famer_product_name'] == 'panasoniclumixdmctz60', 'digital zoom'] = 4
+    data.loc[data['famer_product_name'] == 'ricohwg4', 'digital zoom'] = 7.2
+    data.loc[data['famer_product_name'] == 'panasoniclumixdmcgx7', 'digital zoom'] = 2
+    data.loc[data['famer_product_name'] == 'panasoniclumixdmclx100', 'digital zoom'] = 4
+    data.loc[data['famer_product_name'] == 'olympusstylus1', 'digital zoom'] = 4
+
+
+    # Extract Weight
+    data['extracted_weight'] = data['weight'].str.extract(r'Approx\. (\d+)')
+    data.loc[data['famer_product_name']== 'panasoniclumixdmctz60', 'weight'] = 240
+    data.loc[data['famer_product_name']== 'panasoniclumixdmclx100', 'weight'] = 393
+    data.loc[data['famer_product_name']=='panasoniclumixdmcfz1000', 'weight'] = 831
+
+    # Extract Width
+    data['dimensions w x h x d'] = data['dimensions w x h x d'].str.replace('Approx. ', '')
+    data['extracted_width'] = data['dimensions w x h x d'].apply(lambda x: extract_dimensions(x,'width',0))
+    data.loc[data['famer_product_name']== 'nikondfdslr', 'extracted_width'] = 143.5
+    data.loc[data['famer_product_name']== 'nikondfdslr', 'extracted_width'] = 143.5
+    data.loc[data['famer_product_name']== 'nikond750', 'extracted_width'] = 140.5
+    data.loc[data['famer_product_name']== 'nikond810', 'extracted_width'] = 146
+
+    data['extracted_width'] = data['extracted_width'].replace('[^0-9.]', '', regex=True)
+    data['extracted_width'] = pd.to_numeric(data['extracted_width'])
+    data.loc[data['extracted_width'].notnull(), 'extracted_width'] /= 10
+
+    # Extract Height
+    data['extracted_height'] = data['dimensions w x h x d'].apply(lambda x: extract_dimensions(x,'height',1))
+    data.loc[data['famer_product_name']== 'nikondfdslr', 'extracted_height'] = 110
+    data.loc[data['famer_product_name']== 'nikond810', 'extracted_height'] = 123
+    data.loc[data['famer_product_name']== 'nikond750', 'extracted_height'] = 113
+
+    data['extracted_height'] = data['extracted_height'].replace('[^0-9.]', '', regex=True)
+    data['extracted_height'] = pd.to_numeric(data['extracted_height'])
+    data.loc[data['extracted_height'].notnull(), 'extracted_height'] /= 10
+
+
+    cambuy_cameras_data_new_column_names = {
+        'digital zoom': 'famer_digital_zoom',
+        'famer_opticalzoom': 'famer_optical_zoom',
+        'extracted_weight': 'famer_weight',
+        'extracted_width':'famer_width',
+        'extracted_height': 'famer_height'
+    }
+
+    data = data.rename(columns=cambuy_cameras_data_new_column_names)
+
+    # Check and create missing columns
+    data = check_and_create_columns(data, columns_to_order)
+
+    data = data[columns_to_order]
+
+    data.to_csv(path_to_cleaned_data + 'cambuy_data_cleaned.csv')
+
+
+
+
+
+
+
+
 
 
 
@@ -1015,10 +1095,14 @@ def clean_data(data,to_duplicate):
         'www.ukdigitalcameras.co.uk':   ['key','source', 'famer_brand_list', 'famer_model_list', 'famer_product_name', 'famer_opticalzoom' ,
                                          'optical zoom','camera resolution', 'famer_mpn_list'],
 
-        'www.walmart.com':               ['key', 'source','famer_brand_list','famer_model_list',
-                                          'famer_product_name', 'digital zoom' ,'famer_opticalzoom' ,
-                                           'optical zoom', 'famer_weight','product in inches l x w x h',
-                                           'resolution megapixels']
+        'www.walmart.com':              ['key', 'source','famer_brand_list','famer_model_list',
+                                         'famer_product_name', 'digital zoom' ,'famer_opticalzoom' ,
+                                         'optical zoom', 'famer_weight','product in inches l x w x h',
+                                         'resolution megapixels'],
+
+        'www.cambuy.com.au':            ['key', 'source', 'famer_brand_list', 'famer_model_list',
+                                         'famer_product_name', 'digital zoom','famer_opticalzoom',
+                                         'optical zoom','weight', 'image sensor','dimensions w x h x d']
 
 
 
@@ -1046,7 +1130,8 @@ def clean_data(data,to_duplicate):
         'www.shopmania.in': clean_shopmania_data,
         'www.ukdigitalcameras.co.uk':clean_ukdigitalcameras_data,
         'www.walmart.com':clean_walmart_data,
-        'www.pricedekho.com': clean_pricedekho_data
+        'www.pricedekho.com': clean_pricedekho_data,
+        'www.cambuy.com.au':clean_cambuy_data
     }
 
 
@@ -1068,7 +1153,7 @@ def clean_data(data,to_duplicate):
 
 
 
-def prepare_and_clean_data(to_duplicate=True):
+def prepare_and_clean_data(to_duplicate=False):
 
     # Read data
     data = pd.read_csv(path_to_help_data + 'data_cleaned_very_new.csv')
@@ -1077,7 +1162,7 @@ def prepare_and_clean_data(to_duplicate=True):
     clean_data(data,to_duplicate)
 
 
-prepare_and_clean_data(to_duplicate=False)
+prepare_and_clean_data(to_duplicate=True)
 
 
 

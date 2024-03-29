@@ -25,6 +25,7 @@ key,source,famer_model_list,famer_model_no_list,famer_mpn_list,famer_ean_list,fa
 5f3ba61e3fd5b671b22000db,www.wexphotographic.com,coolpix,,/,/,nikoncoolpixa,/,0.0,11.1,6.4,299.0,CMOS,nikon
 5f3ba61e3fd5b671b22000e5,www.wexphotographic.com,wb2200f,2200,/,/,samsungwb2200f,/,60.0,11.9,12.2,608.0,CCD,samsung
 5f3ba61e3fd5b671b22000e6,www.wexphotographic.com,xp70,70,/,/,fujifinepixxp70,/,5.0,10.4,6.7,179.0,CMOS,fuji
+5f3ba61e3fd5b671b22000e7,www.wexphotographic.com,s3600,3600,/,/,nikoncoolpixs3600,/,8.0,9.7,5.8,125.0,CCD,nikon
 5f3ba61e3fd5b671b22000ee,www.wexphotographic.com,g7,7,/,/,canonpowershotg7,/,4.2,10.3,6.0,279.0,CMOS,canon
 5f3ba61e3fd5b671b2200110,www.wexphotographic.com,qx100,100,/,/,sonycybershotqx100,/,3.6,6.2,6.2,179.0,CMOS,sony
 5f3ba61e3fd5b671b2200117,www.wexphotographic.com,powershot,,/,/,canonpowershotn,/,8.0,7.8,6.0,195.0,CMOS,canon
@@ -32,6 +33,7 @@ key,source,famer_model_list,famer_model_no_list,famer_mpn_list,famer_ean_list,fa
 5f3ba61e3fd5b671b2200140,www.wexphotographic.com,rx100,100,/,/,sonycybershotrx100,/,3.6,10.2,5.9,213.0,CMOS,sony
 5f3ba61e3fd5b671b220014f,www.wexphotographic.com,h400,400,/,/,sonycybershoth400,/,63.0,12.9,9.5,655.0,CMOS,sony
 5f3ba61e3fd5b671b22000d8,www.wexphotographic.com,wb1100f,1100,/,/,samsungwb1100f,/,35.0,12.4,8.6,462.0,CCD,samsung
+5f3ba61e3fd5b671b22000dc,www.wexphotographic.com,s9700,9700,/,/,nikoncoolpixs9700,/,30.0,10.9,6.3,228.0,CMOS,nikon
 5f3ba61e3fd5b671b22000f8,www.wexphotographic.com,l330,330,/,/,nikoncoolpixl330,/,26.0,11.1,7.6,430.0,CCD,nikon
 5f3ba61e3fd5b671b22000fb,www.wexphotographic.com,s5300,5300,/,/,nikoncoolpixs5300,/,8.0,9.7,5.8,138.0,CMOS,nikon
 5f3ba61e3fd5b671b2200114,www.wexphotographic.com,sh60,60,/,/,olympusstylussh60,/,24.0,0.0,0.0,269.0,CMOS,olympus
@@ -41,48 +43,106 @@ key,source,famer_model_list,famer_model_no_list,famer_mpn_list,famer_ean_list,fa
 5f3ba61e3fd5b671b2200147,www.wexphotographic.com,p340,340,/,/,nikoncoolpixp340,/,5.0,10.3,5.8,194.0,CMOS,nikon
 5f3ba61e3fd5b671b2200152,www.wexphotographic.com,s6700,6700,/,/,nikoncoolpixs6700,/,10.0,9.5,5.8,137.0,CCD,nikon
 5f3ba61e3fd5b671b2200156,www.wexphotographic.com,s01,01,/,/,nikoncoolpixs01,/,3.0,7.7,5.1,96.0,CCD,nikon
+5f3ba61e3fd5b671b22000c7,www.wexphotographic.com,wg4,4,/,/,ricohwg4,/,4.0,12.5,6.4,209.0,CMOS,ricoh
 5f3ba61e3fd5b671b22000ca,www.wexphotographic.com,g16,16,/,/,canonpowershotg16,/,5.0,10.8,7.5,356.0,CMOS,canon
 5f3ba61e3fd5b671b22000cd,www.wexphotographic.com,dmcfz72,72,/,/,panasoniclumixdmcfz72,/,60.0,13.0,9.7,6.6,MOS,panasonic
+5f3ba61e3fd5b671b22000d4,www.wexphotographic.com,s3600,3600,/,/,nikoncoolpixs3600,/,8.0,9.7,5.8,125.0,CCD,nikon
 5f3ba61e3fd5b671b22000ec,www.wexphotographic.com,rx100,100-3,/,/,sonycybershotrx100,/,2.9,10.2,5.8,290.0,Exmor R CMOS Sensor,sony
 5f3ba61e3fd5b671b2200100,www.wexphotographic.com,p600,600,/,/,nikoncoolpixp600,/,60.0,2.5,8.5,565.0,CMOS,nikon
+5f3ba61e3fd5b671b2200101,www.wexphotographic.com,p600,600,/,/,nikoncoolpixp600,/,60.0,2.5,8.5,565.0,CMOS,nikon
 5f3ba61e3fd5b671b220010e,www.wexphotographic.com,sx520,520,/,/,canonpowershotsx520,/,42.0,12.0,8.1,441.0,1/2.3 type back-illuminated CMOS,canon
 5f3ba61e3fd5b671b2200120,www.wexphotographic.com,wb50f,50,/,/,samsungwb50f,/,12.0,10.1,6.8,157.0,CCD,samsung
 5f3ba61e3fd5b671b2200121,www.wexphotographic.com,hx400,400,/,/,sonycybershothx400,/,50.0,12.9,9.3,633.0,CMOS,sony
+5f3ba61e3fd5b671b2200123,www.wexphotographic.com,coolpix,,/,/,nikoncoolpixa,/,0.0,11.1,6.4,299.0,CMOS,nikon
 5f3ba61e3fd5b671b220012a,www.wexphotographic.com,dmclx100,100,/,/,panasoniclumixdmclx100,/,3.1,11.6,7.4,553.0,CMOS,panasonic
 5f3ba61e3fd5b671b2200131,www.wexphotographic.com,dp2,2,/,/,sigmadp2,/,0.0,12.2,6.7,330.0,CMOS,sigma
+5f3ba61e3fd5b671b2200134,www.wexphotographic.com,gr,,/,/,ricohgr,/,0.0,11.7,6.1,245.0,CMOS,ricoh
 5f3ba61e3fd5b671b220013b,www.wexphotographic.com,dp3,3,/,/,sigmadp3,/,0.0,12.2,6.7,400.0,CMOS,sigma
+5f3ba61e3fd5b671b2200145,www.wexphotographic.com,dmctz55,55,/,/,panasoniclumixdmctz55,/,20.0,10.6,6.2,224.0,MOS,panasonic
 5f3ba61e3fd5b671b2200146,www.wexphotographic.com,x5,5,/,/,pentaxx5,/,26.0,11.9,8.6,595.0,CMOS,pentax
 5f3ba61e3fd5b671b220014d,www.wexphotographic.com,x30,30,/,/,fujix30,/,4.0,11.8,7.1,383.0,CMOS,fuji
+5f3ba61e3fd5b671b220014e,www.wexphotographic.com,s9200,9200,/,/,fujifinepixs9200,/,50.0,0.0,0.0,670.0,CMOS,fuji
 5f3ba61e3fd5b671b22000c6,www.wexphotographic.com,wg20,20,/,/,ricohwg20,/,5.0,11.5,5.8,143.0,CCD,ricoh
+5f3ba61e3fd5b671b22000c9,www.wexphotographic.com,s6800,6800,/,/,nikoncoolpixs6800,/,23.0,9.7,5.8,145.0,CMOS,nikon
 5f3ba61e3fd5b671b22000dd,www.wexphotographic.com,aw120,120,/,/,nikoncoolpixaw120,/,5.0,11.0,6.6,213.0,CMOS,nikon
+5f3ba61e3fd5b671b22000ed,www.wexphotographic.com,p340,340,/,/,nikoncoolpixp340,/,5.0,10.3,5.8,194.0,CMOS,nikon
+5f3ba61e3fd5b671b22000f2,www.wexphotographic.com,ixus265,265,/,/,canonixus265,/,12.0,9.9,5.7,147.0,CMOS,canon
 5f3ba61e3fd5b671b2200102,www.wexphotographic.com,x100s,100,/,/,fujifinepixx100s,/,0.0,12.7,7.4,405.0,CMOS,fuji
 5f3ba61e3fd5b671b2200103,www.wexphotographic.com,hs50,50,/,/,fujifinepixhs50,/,42.0,13.5,10.1,758.0,CMOS,fuji
+5f3ba61e3fd5b671b220010a,www.wexphotographic.com,sx600,600,/,/,canonpowershotsx600,/,18.0,10.3,6.1,188.0,CMOS,canon
+5f3ba61e3fd5b671b2200118,www.wexphotographic.com,ixus265,265,/,/,canonixus265,/,12.0,9.9,5.7,147.0,CMOS,canon
+5f3ba61e3fd5b671b2200122,www.wexphotographic.com,tg850,850,/,/,olympusstylustoughtg850,/,5.0,10.9,6.4,218.0,CMOS,olympus
+5f3ba61e3fd5b671b2200127,www.wexphotographic.com,s6800,6800,/,/,nikoncoolpixs6800,/,23.0,9.7,5.8,145.0,CMOS,nikon
 5f3ba61e3fd5b671b2200128,www.wexphotographic.com,tg3,3,/,/,olympusstylustoughtg3,/,4.0,11.1,6.6,247.0,BSI CMOS,olympus
+5f3ba61e3fd5b671b220012c,www.wexphotographic.com,s32,32,/,/,nikoncoolpixs32,/,3.0,10.7,6.6,175.0,CMOS,nikon
+5f3ba61e3fd5b671b220012e,www.wexphotographic.com,tg850,850,/,/,olympusstylustoughtg850,/,5.0,10.9,6.4,218.0,CMOS,olympus
+5f3ba61e3fd5b671b2200133,www.wexphotographic.com,s6800,6800,/,/,nikoncoolpixs6800,/,23.0,9.7,5.8,145.0,CMOS,nikon
+5f3ba61e3fd5b671b2200136,www.wexphotographic.com,s3600,3600,/,/,nikoncoolpixs3600,/,8.0,9.7,5.8,125.0,CCD,nikon
 5f3ba61e3fd5b671b2200139,www.wexphotographic.com,dp2,2,/,/,sigmadp2,/,0.0,16.1,6.7,410.0,Foveon X3 Direct Image Sensor (CMOS,sigma
 5f3ba61e3fd5b671b220014a,www.wexphotographic.com,wb350f,350,/,/,samsungwb350f,/,21.0,11.4,6.5,276.0,CMOS,samsung
+5f3ba61e3fd5b671b22000f9,www.wexphotographic.com,dmctz55,55,/,/,panasoniclumixdmctz55,/,20.0,10.6,6.2,224.0,MOS,panasonic
+5f3ba61e3fd5b671b2200104,www.wexphotographic.com,x100s,100,/,/,fujifinepixx100s,/,0.0,12.7,7.4,405.0,CMOS,fuji
 5f3ba61e3fd5b671b2200129,www.wexphotographic.com,sx700,700,/,/,canonpowershotsx700,/,30.0,11.2,6.5,269.0,CMOS,canon
 5f3ba61e3fd5b671b2200135,www.wexphotographic.com,dmcfz1000,1000,/,/,panasoniclumixdmcfz1000,/,16.0,13.7,9.9,831.0,CMOS,panasonic
+5f3ba61e3fd5b671b2200141,www.wexphotographic.com,wg20,20,/,/,ricohwg20,/,5.0,11.5,5.8,143.0,CCD,ricoh
+5f3ba61e3fd5b671b2200142,www.wexphotographic.com,dmcfz72,72,/,/,panasoniclumixdmcfz72,/,60.0,13.0,9.7,606.0,MOS,panasonic
 5f3ba61e3fd5b671b2200144,www.wexphotographic.com,dp1,1,/,/,sigmadp1,/,0.0,12.2,6.8,340.0,CMOS,sigma
 5f3ba61e3fd5b671b2200151,www.wexphotographic.com,xq1,1,/,/,fujifinepixxq1,/,4.0,10.0,5.8,206.0,CMOS,fuji
+5f3ba61e3fd5b671b2200157,www.wexphotographic.com,sh1,1,/,/,olympusstylussh1,/,24.0,10.9,6.3,271.0,BSI CMOS,olympus
 5f3ba61e3fd5b671b22000d5,www.wexphotographic.com,wb35f,35,/,/,samsungwb35f,/,12.0,10.1,6.1,142.0,CCD,samsung
+5f3ba61e3fd5b671b22000da,www.wexphotographic.com,s9700,9700,/,/,nikoncoolpixs9700,/,30.0,10.9,6.3,228.0,CMOS,nikon
+5f3ba61e3fd5b671b22000e0,www.wexphotographic.com,wb350f,350,/,/,samsungwb350f,/,21.0,11.4,6.5,276.0,CMOS,samsung
 5f3ba61e3fd5b671b22000e9,www.wexphotographic.com,stylus1,1,/,/,olympusstylus1,/,10.7,11.6,8.7,402.0,BSI CMOS,olympus
 5f3ba61e3fd5b671b22000fc,www.wexphotographic.com,rx1,1,/,/,sonycybershotrx1,/,0.0,11.3,6.5,482.0,CMOS,sony
+5f3ba61e3fd5b671b2200107,www.wexphotographic.com,dmclx100,100,/,/,panasoniclumixdmclx100,/,3.1,11.6,7.4,553.0,CMOS,panasonic
 5f3ba61e3fd5b671b2200113,www.wexphotographic.com,d30,30,/,/,canonpowershotd30,/,5.0,10.9,6.8,218.0,CMOS,canon
+5f3ba61e3fd5b671b220013a,www.wexphotographic.com,sh60,60,/,/,olympusstylussh60,/,24.0,0.0,0.0,269.0,CMOS,olympus
+5f3ba61e3fd5b671b22000cc,www.wexphotographic.com,aw120,120,/,/,nikoncoolpixaw120,/,5.0,11.0,6.6,213.0,CMOS,nikon
+5f3ba61e3fd5b671b22000d3,www.wexphotographic.com,x100t,100,/,/,fujix100t,/,0.0,12.6,7.4,400.0,CMOS,fuji
 5f3ba61e3fd5b671b22000ef,www.wexphotographic.com,hx50,50,/,/,sonycybershothx50,/,30.0,10.8,6.4,272.0,CMOS,sony
 5f3ba61e3fd5b671b22000f1,www.wexphotographic.com,dmcsz8,8,/,/,panasoniclumixdmcsz8,/,12.0,9.9,6.0,144.0,CCD,panasonic
+5f3ba61e3fd5b671b22000f3,www.wexphotographic.com,wg4,4,/,/,ricohwg4,/,4.0,12.5,6.4,209.0,CMOS,ricoh
+5f3ba61e3fd5b671b22000f5,www.wexphotographic.com,w830,830,/,/,sonycybershotw830,/,8.0,9.3,5.2,,CCD,sony
+5f3ba61e3fd5b671b22000f6,www.wexphotographic.com,wb350f,350,/,/,samsungwb350f,/,21.0,11.4,6.5,276.0,CMOS,samsung
 5f3ba61e3fd5b671b220010d,www.wexphotographic.com,p7800,7800,/,/,nikoncoolpixp7800,/,7.0,0.0,0.0,399.0,CMOS,nikon
+5f3ba61e3fd5b671b220011a,www.wexphotographic.com,wg4,4,/,/,ricohwg4,/,4.0,12.5,6.4,209.0,CMOS,ricoh
 5f3ba61e3fd5b671b2200126,www.wexphotographic.com,ixus150,150,/,/,canonixus150,/,8.0,9.5,5.4,130.0,CCD,canon
 5f3ba61e3fd5b671b2200130,www.wexphotographic.com,dmclx7,7,/,/,panasoniclumixdmclx7,/,3.8,11.1,6.8,269.0,CMOS,panasonic
+5f3ba61e3fd5b671b220014c,www.wexphotographic.com,qx10,10,/,/,sonycybershotqx10,/,10.0,6.2,6.1,105.0,CMOS,sony
 5f3ba61e3fd5b671b2200155,www.wexphotographic.com,hx300,300,/,/,sonycybershothx300,/,50.0,13.0,9.3,623.0,CMOS,sony
+5f3ba61e3fd5b671b22000e3,www.wexphotographic.com,s32,32,/,/,nikoncoolpixs32,/,3.0,10.7,6.6,175.0,CMOS,nikon
+5f3ba61e3fd5b671b22000fa,www.wexphotographic.com,wx350,350,/,/,sonycybershotwx350,/,20.0,9.6,5.4,164.0,CMOS,sony
 5f3ba61e3fd5b671b2200105,www.wexphotographic.com,dmcft5,5,/,/,panasoniclumixdmcft5,/,4.6,10.9,6.7,214.0,High Sensitivity MOS,panasonic
 5f3ba61e3fd5b671b220013c,www.wexphotographic.com,rx10,10,/,/,sonycybershotrx10,/,8.3,12.9,8.8,813.0,BSI-CMOS,sony
 5f3ba61e3fd5b671b220013d,www.wexphotographic.com,hz15,15,/,/,ricohhz15,/,15.0,10.8,6.0,203.0,CCD,ricoh
+5f3ba61e3fd5b671b2200143,www.wexphotographic.com,s6700,6700,/,/,nikoncoolpixs6700,/,10.0,9.5,5.8,137.0,CCD,nikon
+5f3ba61e3fd5b671b2200154,www.wexphotographic.com,sh60,60,/,/,olympusstylussh60,/,24.0,0.0,0.0,269.0,CMOS,olympus
 5f3ba61e3fd5b671b22000cb,www.wexphotographic.com,wx220,220,/,/,sonycybershotwx220,/,0.0,0.0,0.0,,CMOS,sony
 5f3ba61e3fd5b671b22000d7,www.wexphotographic.com,rx100,100-2,/,/,sonycybershotrx100,/,3.6,10.1,5.8,254.0,CMOS,sony
+5f3ba61e3fd5b671b22000e1,www.wexphotographic.com,sx600,600,/,/,canonpowershotsx600,/,18.0,10.3,6.1,188.0,CMOS,canon
+5f3ba61e3fd5b671b22000e2,www.wexphotographic.com,tg3,3,/,/,olympusstylustoughtg3,/,4.0,11.1,6.6,247.0,BSI CMOS,olympus
 5f3ba61e3fd5b671b22000ea,www.wexphotographic.com,z2300,2300,/,/,polaroidz2300,/,0.0,0.0,0.0,,,polaroid
 5f3ba61e3fd5b671b22000f0,www.wexphotographic.com,s120,120,/,/,canonpowershots120,/,5.0,10.0,5.9,217.0,CMOS,canon
+5f3ba61e3fd5b671b2200108,www.wexphotographic.com,sh1,1,/,/,olympusstylussh1,/,24.0,10.9,6.3,271.0,BSI CMOS,olympus
+5f3ba61e3fd5b671b2200109,www.wexphotographic.com,aw120,120,/,/,nikoncoolpixaw120,/,5.0,11.0,6.6,213.0,CMOS,nikon
 5f3ba61e3fd5b671b22000c8,www.wexphotographic.com,2,2,/,/,samsunggalaxycamera2,/,21.0,13.2,7.1,283.0,BSI CMOS,samsung
+5f3ba61e3fd5b671b22000cf,www.wexphotographic.com,sx700,700,/,/,canonpowershotsx700,/,30.0,11.2,6.5,269.0,CMOS,canon
+5f3ba61e3fd5b671b22000e4,www.wexphotographic.com,s5300,5300,/,/,nikoncoolpixs5300,/,8.0,9.7,5.8,138.0,CMOS,nikon
+5f3ba61e3fd5b671b22000f4,www.wexphotographic.com,xq1,1,/,/,fujifinepixxq1,/,4.0,10.0,5.8,206.0,CMOS,fuji
 5f3ba61e3fd5b671b2200116,www.wexphotographic.com,xg1,1,/,/,pentaxxg1,/,52.0,11.9,8.9,539.0,CMOS,pentax
 5f3ba61e3fd5b671b220011d,www.wexphotographic.com,sp100ee,100,/,/,olympusstylussp100ee,/,50.0,12.1,9.1,589.0,CMOS,olympus
+5f3ba61e3fd5b671b220012f,www.wexphotographic.com,wb35f,35,/,/,samsungwb35f,/,12.0,10.1,6.1,142.0,CCD,samsung
+5f3ba61e3fd5b671b2200132,www.wexphotographic.com,s9200,9200,/,/,fujifinepixs9200,/,50.0,0.0,0.0,670.0,CMOS,fuji
+5f3ba61e3fd5b671b2200137,www.wexphotographic.com,ixus265,265,/,/,canonixus265,/,12.0,9.9,5.7,147.0,CMOS,canon
+5f3ba61e3fd5b671b220013e,www.wexphotographic.com,wb50f,50,/,/,samsungwb50f,/,12.0,10.1,6.8,157.0,CCD,samsung
+5f3ba61e3fd5b671b22000c5,www.wexphotographic.com,s3600,3600,/,/,nikoncoolpixs3600,/,8.0,9.7,5.8,125.0,CCD,nikon
+5f3ba61e3fd5b671b22000de,www.wexphotographic.com,x30,30,/,/,fujix30,/,4.0,11.8,7.1,383.0,CMOS,fuji
+5f3ba61e3fd5b671b22000df,www.wexphotographic.com,w830,830,/,/,sonycybershotw830,/,8.0,9.3,5.2,,CCD,sony
+5f3ba61e3fd5b671b22000fd,www.wexphotographic.com,w830,830,/,/,sonycybershotw830,/,8.0,9.3,5.2,,CCD,sony
+5f3ba61e3fd5b671b22000fe,www.wexphotographic.com,2,2,/,/,samsunggalaxycamera2,/,21.0,13.2,7.1,283.0,BSI CMOS,samsung
+5f3ba61e3fd5b671b22000ff,www.wexphotographic.com,xp70,70,/,/,fujifinepixxp70,/,5.0,10.4,6.7,179.0,CMOS,fuji
 5f3ba61e3fd5b671b220010c,www.wexphotographic.com,theta,,/,/,ricohthetaspherical,/,0.0,4.2,12.9,95.0,,ricoh
+5f3ba61e3fd5b671b2200111,www.wexphotographic.com,s8600,8600,/,/,fujifinepixs8600,/,36.0,12.1,8.1,450.0,CCD,fuji
 5f3ba61e3fd5b671b2200112,www.wexphotographic.com,sx60,60,/,/,canonpowershotsx60,/,65.0,12.7,9.2,607.0,CMOS,canon
+5f3ba61e3fd5b671b2200138,www.wexphotographic.com,g1,1-2,/,/,canonpowershotg1,/,5.0,11.6,7.4,558.0,CMOS,canon
+5f3ba61e3fd5b671b220013f,www.wexphotographic.com,ixus150,150,/,/,canonixus150,/,8.0,9.5,5.4,130.0,CCD,canon

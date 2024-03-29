@@ -5,6 +5,7 @@
 1668,5f3ba6213fd5b671b22051f6,www.pcconnection.com,tg850,850,/,/,olympusstylustoughtg850,,,,,,BSI-CMOS,BSI-CMOS,olympus
 1669,5f3ba6213fd5b671b22051fb,www.pcconnection.com,dschx300,300,/,/,sonydschx300,,,,,,Exmor R CMOS,Exmor R CMOS,sony
 1670,5f3ba6213fd5b671b22051fd,www.pcconnection.com,d3300,3300,/,/,nikond3300,,,,,,CMOS,CMOS,nikon
+1671,5f3ba6213fd5b671b220521e,www.pcconnection.com,j3,3,/,/,nikonj3,,,,,,CMOS,CMOS,nikon
 1672,5f3ba6213fd5b671b220522f,www.pcconnection.com,d3200,3200,/,/,nikond3200,,,,,,CMOS,CMOS,nikon
 1673,5f3ba6213fd5b671b2205249,www.pcconnection.com,epl5,5,/,/,olympuspenepl5,,,,,,Live MOS,Live MOS,olympus
 1674,5f3ba6213fd5b671b220525a,www.pcconnection.com,dmcts25a,25,/,/,panasonicdmcts25a,,,,,,CCD,CCD,panasonic
@@ -12,8 +13,10 @@
 1676,5f3ba6213fd5b671b220527f,www.pcconnection.com,dscwx350,350,/,/,sonycybershotdscwx350,,,,,,Exmor R CMOS,Exmor R CMOS,sony
 1677,5f3ba6213fd5b671b220528a,www.pcconnection.com,wrr10,10,/,/,nikonwrr10,,,,,,,,nikon
 1678,5f3ba6213fd5b671b220528b,www.pcconnection.com,wrt10,10,/,/,nikonwrt10,,,,,,,,nikon
+1679,5f3ba6213fd5b671b2205296,www.pcconnection.com,j3,3,/,/,nikonj3,,,,,,CMOS,CMOS,nikon
 3462,5f3ba6213fd5b671b22051ca,www.pcconnection.com,mirrorless,,/,/,olympusmirrorlessmicro,,,,,,Live MOS,Live MOS,olympus
 3463,5f3ba6213fd5b671b22051d8,www.pcconnection.com,d610,610,/,/,nikond610,,,5.6,4.4,771.1064,CMOS,CMOS,nikon
+3464,5f3ba6213fd5b671b2205202,www.pcconnection.com,dmcts25k,25,/,/,panasonicdmcts25k,,,,,,CCD,CCD,panasonic
 3465,5f3ba6213fd5b671b220520e,www.pcconnection.com,ep5,5,/,/,olympusep5,,,,,,Live MOS,Live MOS,olympus
 3466,5f3ba6213fd5b671b2205215,www.pcconnection.com,jx660,660,/,/,fujifilmfinepixjx660,,,,,,CCD,CCD,fujifilm
 3467,5f3ba6213fd5b671b2205218,www.pcconnection.com,nex5t,5,/,/,sonyalphanex5t,,,,,,Exmor APS HD CMOS,Exmor APS HD CMOS,sony
@@ -21,55 +24,86 @@
 3469,5f3ba6213fd5b671b2205241,www.pcconnection.com,wgm1,1,/,/,pentaxwgm1,,,,,,,,pentax
 3470,5f3ba6213fd5b671b220524a,www.pcconnection.com,galaxy2,2,/,/,samsunggalaxy2,,21 ,5.2,2.8,283.495,CMOS,CMOS,samsung
 3471,5f3ba6213fd5b671b220524d,www.pcconnection.com,em10,10,/,/,olympusomdem10,,,,,,Live MOS,Live MOS,olympus
+3472,5f3ba6213fd5b671b220524f,www.pcconnection.com,j3,3,/,/,nikonj3,,,,,,CMOS,CMOS,nikon
 3473,5f3ba6213fd5b671b220525c,www.pcconnection.com,dmclx7,7,/,/,panasonicdmclx7,,,,,,MOS,MOS,panasonic
 3474,5f3ba6213fd5b671b220525d,www.pcconnection.com,elph150,150,/,/,canonpowershotelph150,4 ,10 ,3.8,2.2,124.73780000000001,CCD,CCD,canon
 3475,5f3ba6213fd5b671b220527b,www.pcconnection.com,xp70,70,/,/,fujifilmfinepixxp70,,,,,,CMOS,CMOS,fujifilm
 3476,5f3ba6213fd5b671b2205281,www.pcconnection.com,dscwx300,300,/,/,sonydscwx300,,,,,,Exmor R CMOS,Exmor R CMOS,sony
 3477,5f3ba6213fd5b671b2205283,www.pcconnection.com,60d,60,/,/,canoneos60d,,,,,,CMOS,CMOS,canon
+3478,5f3ba6213fd5b671b2205293,www.pcconnection.com,d610,610,/,/,nikond610,,,5.6,4.4,771.1064,CMOS,CMOS,nikon
+3479,5f3ba6213fd5b671b2205295,www.pcconnection.com,elph150,150,/,/,canonpowershotelph150,4 ,10 ,3.8,2.2,124.73780000000001,CCD,CCD,canon
 5241,5f3ba6213fd5b671b22051d7,www.pcconnection.com,rx1r,1,/,/,sonycybershotrx1r,,,,,,Exmor CMOS,Exmor CMOS,sony
 5242,5f3ba6213fd5b671b22051da,www.pcconnection.com,galaxy16,16,/,/,samsunggalaxy16,,21 ,5.1,2.8,303.33964999999995,BSI-CMOS,BSI-CMOS,samsung
+5243,5f3ba6213fd5b671b22051e7,www.pcconnection.com,tg850,850,/,/,olympusstylustoughtg850,,,,,,BSI-CMOS,BSI-CMOS,olympus
 5244,5f3ba6213fd5b671b22051e8,www.pcconnection.com,d5100,5100,/,/,nikond5100,,,,,,CMOS,CMOS,nikon
+5245,5f3ba6213fd5b671b220521f,www.pcconnection.com,nex5t,5,/,/,sonyalphanex5t,,,,,,Exmor APS HD CMOS,Exmor APS HD CMOS,sony
 5246,5f3ba6213fd5b671b2205237,www.pcconnection.com,t5i,5,/,/,canoneosrebelt5i,,,5.2,,9298.636,CMOS,CMOS,canon
+5247,5f3ba6213fd5b671b220523a,www.pcconnection.com,j3,3,/,/,nikonj3,,,,,,CMOS,CMOS,nikon
 5248,5f3ba6213fd5b671b2205246,www.pcconnection.com,5d,5-3,/,/,canoneos5d,,,6,4.6,949.70825,CMOS,CMOS,canon
 5249,5f3ba6213fd5b671b2205250,www.pcconnection.com,d5300,5300,/,/,nikond5300,,,4.9,3.9,480.80752,CMOS,CMOS,nikon
 5250,5f3ba6213fd5b671b2205255,www.pcconnection.com,vs536,536,/,/,sakarvs536,,,,,,,,sakar
 5251,5f3ba6213fd5b671b220525e,www.pcconnection.com,sl1,1,/,/,canoneosrebelsl1,,,4.6,3.6,371.37845,CMOS,CMOS,canon
 5252,5f3ba6213fd5b671b2205269,www.pcconnection.com,s8400,8400,/,/,fujifilmfinepixs8400,,,,,,BSI-CMOS,BSI-CMOS,fujifilm
 5253,5f3ba6213fd5b671b2205288,www.pcconnection.com,dsctx30,30,/,/,sonydsctx30,,5 ,,,,Exmor R CMOS,Exmor R CMOS,sony
+5254,5f3ba6213fd5b671b2205289,www.pcconnection.com,dmcts25w,25,/,/,panasonicdmcts25w,,,,,,CCD,CCD,panasonic
+5255,5f3ba6213fd5b671b220528c,www.pcconnection.com,d5300,5300,/,/,nikond5300,,,4.9,3.9,498.95120000000003,CMOS,CMOS,nikon
 5256,5f3ba6213fd5b671b220528d,www.pcconnection.com,elph135,135,/,/,canonpowershotelph135,4 ,8 ,3.7,2.1,127.57275,CMOS,CMOS,canon
 5257,5f3ba6213fd5b671b2205292,www.pcconnection.com,t4i,4,/,/,canoneosrebelt4i,,,,,,CMOS,CMOS,canon
 5258,5f3ba6213fd5b671b220529a,www.pcconnection.com,ks1,1,/,/,pentaxks1,,,,,,,,pentax
 6939,5f3ba6213fd5b671b22051d1,www.pcconnection.com,1080p,1080,/,/,vistaquestactionlcd1080p,,,,,,,,vista
+6940,5f3ba6213fd5b671b22051ec,www.pcconnection.com,em10,10,/,/,olympusomdem10,,,,,,Live MOS,Live MOS,olympus
 6941,5f3ba6213fd5b671b22051f4,www.pcconnection.com,s1,1,/,/,nikons1,,,,,,CMOS,CMOS,nikon
 6942,5f3ba6213fd5b671b2205204,www.pcconnection.com,wg4,4,/,/,pentaxwg4,,,,,,BSI-CMOS,BSI-CMOS,pentax
 6943,5f3ba6213fd5b671b2205205,www.pcconnection.com,s8600,8600,/,/,fujifilmfinepixs8600,,,,,,CCD,CCD,fujifilm
+6944,5f3ba6213fd5b671b2205211,www.pcconnection.com,tg850,850,/,/,olympusstylustoughtg850,,,,,,BSI-CMOS,BSI-CMOS,olympus
 6945,5f3ba6213fd5b671b2205217,www.pcconnection.com,q10,10,/,/,pentaxq10,,,,,,BSI-CMOS,BSI-CMOS,pentax
 6946,5f3ba6213fd5b671b220521c,www.pcconnection.com,s6800,6800,/,/,fujifilmfinepixs6800,,,,,,,,fujifilm
 6947,5f3ba6213fd5b671b2205221,www.pcconnection.com,q7,7,/,/,pentaxq7,,,,,,BSI-CMOS,BSI-CMOS,pentax
 6948,5f3ba6213fd5b671b220522e,www.pcconnection.com,wx80,80,/,/,sonycybershotwx80,,,,,,Exmor R CMOS,Exmor R CMOS,sony
 6949,5f3ba6213fd5b671b2205242,www.pcconnection.com,d800e,800,/,/,nikond800e,,,,,,CMOS,CMOS,nikon
 6950,5f3ba6213fd5b671b220527d,www.pcconnection.com,epl7,7,/,/,olympuspenepl7,,,,,,Live MOS,Live MOS,olympus
+6951,5f3ba6213fd5b671b2205280,www.pcconnection.com,j3,3,/,/,nikonj3,,,,,,CMOS,CMOS,nikon
 6952,5f3ba6213fd5b671b2205285,www.pcconnection.com,d5200,5200,/,/,nikond5200,,,,,,CMOS,CMOS,nikon
+6953,5f3ba6213fd5b671b2205290,www.pcconnection.com,xp70,70,/,/,fujifilmfinepixxp70,,,,,,CMOS,CMOS,fujifilm
 8691,5f3ba6213fd5b671b22051d0,www.pcconnection.com,g16,16,/,/,canonpowershotg16,4 ,5 ,4.3,3,314.67945,BSI-CMOS,BSI-CMOS,canon
+8692,5f3ba6213fd5b671b22051d4,www.pcconnection.com,5d,5-3,/,/,canoneos5d,,,6,4.6,858.98985,CMOS,CMOS,canon
+8693,5f3ba6213fd5b671b22051dc,www.pcconnection.com,d5200,5200,/,/,nikond5200,,,,,,,,nikon
 8694,5f3ba6213fd5b671b22051e1,www.pcconnection.com,a16,16,/,/,nikoncoolpixa16,,,,,,CMOS,CMOS,nikon
 8695,5f3ba6213fd5b671b22051eb,www.pcconnection.com,k3,3,/,/,pentaxk3,,,,,,CMOS,CMOS,pentax
+8696,5f3ba6213fd5b671b2205208,www.pcconnection.com,ep5,5,/,/,olympusep5,,,,,,Live MOS,Live MOS,olympus
 8697,5f3ba6213fd5b671b2205209,www.pcconnection.com,n100,100,/,/,canonpowershotn100,4 ,,4.1,2.7,289.1649,CMOS,CMOS,canon
 8698,5f3ba6213fd5b671b220520b,www.pcconnection.com,sl1000,1000,/,/,fujifilmfinepixsl1000,,,,,,,,fujifilm
+8699,5f3ba6213fd5b671b220521b,www.pcconnection.com,em5,5,/,/,olympuspremiumeditionbundleomdem5,,,,,,Live MOS,Live MOS,olympus
+8700,5f3ba6213fd5b671b2205223,www.pcconnection.com,dscwx300,300,/,/,sonydscwx300,,,,,,Exmor R CMOS,Exmor R CMOS,sony
 8701,5f3ba6213fd5b671b2205228,www.pcconnection.com,elph340,340,/,/,canonpowershotelph340,4 ,12 ,3.9,2.3,147.4174,BSI-CMOS,BSI-CMOS,canon
 8702,5f3ba6213fd5b671b220522c,www.pcconnection.com,s9200w,9200,/,/,fujifilmfinepixs9200w,,,,,,BSI-CMOS,BSI-CMOS,fujifilm
 8703,5f3ba6213fd5b671b2205239,www.pcconnection.com,dmcsz3,3,/,/,panasoniclumixdmcsz3,,,,,,CCD,CCD,panasonic
+8704,5f3ba6213fd5b671b220523b,www.pcconnection.com,ep5,5,/,/,olympusep5,,,,,,Live MOS,Live MOS,olympus
 8705,5f3ba6213fd5b671b220523f,www.pcconnection.com,70d,70,/,/,canoneos70d,,,5.5,4.1,771.1064,CMOS,CMOS,canon
+8706,5f3ba6213fd5b671b2205240,www.pcconnection.com,ks1,1,/,/,pentaxks1,,,,,,,,pentax
+8707,5f3ba6213fd5b671b220524b,www.pcconnection.com,70d,70,/,/,canoneos70d,,,5.5,4.1,771.1064,CMOS,CMOS,canon
+8708,5f3ba6213fd5b671b2205251,www.pcconnection.com,em5,5,/,/,olympusomdem5,,,,,,Live MOS,Live MOS,olympus
+8709,5f3ba6213fd5b671b2205274,www.pcconnection.com,s9200,9200,/,/,fujifilmfinepixs9200,,,,,,BSI-CMOS,BSI-CMOS,fujifilm
 8710,5f3ba6213fd5b671b2205284,www.pcconnection.com,,,/,/,panasonic,,,,,,,,panasonic
+8711,5f3ba6213fd5b671b220528e,www.pcconnection.com,ks1,1,/,/,pentaxks1,,,,,,,,pentax
 10410,5f3ba6213fd5b671b22051df,www.pcconnection.com,l30,30,/,/,nikoncoolpixl30,,,,,,CCD,CCD,nikon
+10411,5f3ba6213fd5b671b22051e0,www.pcconnection.com,epl7,7,/,/,olympuspenepl7,,,,,,Live MOS,Live MOS,olympus
 10412,5f3ba6213fd5b671b22051f9,www.pcconnection.com,slta58k,58,/,/,sonyalphaslta58k,,,,,,Exmor APS HD CMOS,Exmor APS HD CMOS,sony
 10413,5f3ba6213fd5b671b22051fc,www.pcconnection.com,gr16,16,/,/,pentaxricohgr16,,,,,,CMOS,CMOS,pentax
 10414,5f3ba6213fd5b671b2205203,www.pcconnection.com,p530,530,/,/,nikoncoolpixp530,,,,,,BSI-CMOS,BSI-CMOS,nikon
+10415,5f3ba6213fd5b671b2205213,www.pcconnection.com,epl7,7,/,/,olympuspenepl7,,,,,,Live MOS,Live MOS,olympus
+10416,5f3ba6213fd5b671b2205216,www.pcconnection.com,d5300,5300,/,/,nikond5300,,,4.9,3.9,480.80752,CMOS,CMOS,nikon
 10417,5f3ba6213fd5b671b220521a,www.pcconnection.com,aw120,120,/,/,nikoncoolpixaw120,,,,,,BSI-CMOS,BSI-CMOS,nikon
 10418,5f3ba6213fd5b671b220521d,www.pcconnection.com,k50,50,/,/,pentaxk50,,,,,,CMOS,CMOS,pentax
 10419,5f3ba6213fd5b671b2205222,www.pcconnection.com,smartphone,,/,/,sonysmartphoneattachable,,,,,,Exmor CMOS,Exmor CMOS,sony
 10420,5f3ba6213fd5b671b220522d,www.pcconnection.com,xz2,2,/,/,olympusstylusxz2,,,,,,BSI-CMOS,BSI-CMOS,olympus
 10421,5f3ba6213fd5b671b2205230,www.pcconnection.com,dmcts5,5,/,/,panasoniclumixdmcts5,,,,,,CMOS,CMOS,panasonic
+10422,5f3ba6213fd5b671b2205234,www.pcconnection.com,s1,1,/,/,nikons1,,,,,,CMOS,CMOS,nikon
+10423,5f3ba6213fd5b671b2205235,www.pcconnection.com,d5200,5200,/,/,nikond5200,,,,,,,,nikon
+10424,5f3ba6213fd5b671b2205244,www.pcconnection.com,70d,70,/,/,canoneos70d,,,5.5,4.1,771.1064,CMOS,CMOS,canon
 10425,5f3ba6213fd5b671b2205254,www.pcconnection.com,dmcxs1r,1,/,/,panasonicdmcxs1r,,,,,,CCD,CCD,panasonic
+10426,5f3ba6213fd5b671b220526f,www.pcconnection.com,wx80,80,/,/,sonycybershotwx80,,,,,,Exmor R CMOS,Exmor R CMOS,sony
+10427,5f3ba6213fd5b671b2205299,www.pcconnection.com,t5i,5,/,/,canoneosrebelt5i,,,,,,CMOS,CMOS,canon
 12191,5f3ba6213fd5b671b22051e9,www.pcconnection.com,qs102,102,/,/,pentaxqs102,,,,,,,,pentax
 12192,5f3ba6213fd5b671b22051ea,www.pcconnection.com,stylus1,1,/,/,olympusstylus1,,,,,,BSI-CMOS,BSI-CMOS,olympus
 12193,5f3ba6213fd5b671b22051f5,www.pcconnection.com,s110,110,/,/,canonpowershots110,4 ,5 ,3.9,2.3,172.93194999999997,CMOS,CMOS,canon
@@ -80,48 +114,99 @@
 12198,5f3ba6213fd5b671b220523c,www.pcconnection.com,is2132,2132,/,/,sakaris2132,,,,,,BSI-CMOS,BSI-CMOS,sakar
 12199,5f3ba6213fd5b671b2205243,www.pcconnection.com,1080p,1080,/,/,vistaquestactioncamlcd1080p,,,,,,,,vista
 12200,5f3ba6213fd5b671b2205253,www.pcconnection.com,f2,2,/,/,pentaxqmounttelephotozoomlensf2,,,,,,,,pentax
+12201,5f3ba6213fd5b671b2205257,www.pcconnection.com,epl7,7,/,/,olympuspenepl7,,,,,,Live MOS,Live MOS,olympus
+12202,5f3ba6213fd5b671b2205260,www.pcconnection.com,dmcxs1w,1,/,/,panasonicdmcxs1w,,,,,,CCD,CCD,panasonic
+12203,5f3ba6213fd5b671b2205263,www.pcconnection.com,dmcts5k,5,/,/,panasonicdmcts5k,,,,,,CMOS,CMOS,panasonic
+12204,5f3ba6213fd5b671b2205268,www.pcconnection.com,dsctx30,30,/,/,sonydsctx30,,,,,,Exmor R CMOS,Exmor R CMOS,sony
+12205,5f3ba6213fd5b671b2205270,www.pcconnection.com,elph340,340,/,/,canonpowershotelph340,4 ,12 ,3.9,2.3,147.4174,BSI-CMOS,BSI-CMOS,canon
+12206,5f3ba6213fd5b671b2205272,www.pcconnection.com,em1,1,/,/,olympusolympusomdem1,,,,,,Live MOS,Live MOS,olympus
+13999,5f3ba6213fd5b671b22051d9,www.pcconnection.com,d7100,7100,/,/,nikonnikond7100,,,,,,CMOS,CMOS,nikon
+14000,5f3ba6213fd5b671b22051db,www.pcconnection.com,sx600,600,/,/,canonpowershotsx600,4 ,18 ,4.1,2.4,164.4271,BSI-CMOS,BSI-CMOS,canon
 14001,5f3ba6213fd5b671b22051dd,www.pcconnection.com,t550,550,/,/,fujifilmfinepixt550,,,,,,CCD,CCD,fujifilm
+14002,5f3ba6213fd5b671b22051e2,www.pcconnection.com,t5i,5,/,/,canoneosrebelt5i,,,5.2,3.9,524.46575,CMOS,CMOS,canon
 14003,5f3ba6213fd5b671b22051e6,www.pcconnection.com,d800,800,/,/,nikond800,,,,,,CMOS,CMOS,nikon
 14004,5f3ba6213fd5b671b2205219,www.pcconnection.com,t5,5,/,/,canoneosrebelt5,,,,,,,,canon
 14005,5f3ba6213fd5b671b2205252,www.pcconnection.com,v2,2,/,/,nikonnikon1v2,,,,,,High Speed AF CMOS,High Speed AF CMOS,nikon
 14006,5f3ba6213fd5b671b2205258,www.pcconnection.com,wr10,10,/,/,nikonwr10,,,,,,,,nikon
 14007,5f3ba6213fd5b671b2205266,www.pcconnection.com,tg3,3,/,/,olympusstylustoughtg3,,,,,,BSI-CMOS,BSI-CMOS,olympus
+14008,5f3ba6213fd5b671b220526e,www.pcconnection.com,d610,610,/,/,nikond610,,,5.6,4.4,771.1064,CMOS,CMOS,nikon
 14009,5f3ba6213fd5b671b2205279,www.pcconnection.com,vs1527,1527,/,/,sakarvs1527,,,,,,,,sakar
 15702,5f3ba6213fd5b671b22051d5,www.pcconnection.com,p7800,7800,/,/,nikoncoolpixp7800,,,,,,BSI-CMOS,BSI-CMOS,nikon
 15703,5f3ba6213fd5b671b22051d6,www.pcconnection.com,wra10,10,/,/,nikonwra10,,,,,,,,nikon
 15704,5f3ba6213fd5b671b22051f0,www.pcconnection.com,sx170,170,/,/,canonpowershotsx170,4 ,64 ,4.25,2.80,3646.8796799999996,CCD,CCD,canon
 15705,5f3ba6213fd5b671b22051f1,www.pcconnection.com,s120,120,/,/,canonpowershots120,4 ,5 ,3.9,2.3,218.29115,BSI-CMOS,BSI-CMOS,canon
 15706,5f3ba6213fd5b671b22051f2,www.pcconnection.com,6d,6,/,/,canoneos6d,,,5.7,4.4,756.93165,CMOS,CMOS,canon
+15707,5f3ba6213fd5b671b22051f7,www.pcconnection.com,xp70,70,/,/,fujifilmfinepixxp70,,,,,,CMOS,CMOS,fujifilm
 15708,5f3ba6213fd5b671b22051f8,www.pcconnection.com,f2,2,/,/,canoneosmmirrorlesswithefmf2,,,4.28,2.62,261.94938,3MOS,3MOS,canon
+15709,5f3ba6213fd5b671b2205207,www.pcconnection.com,dsctx30,30,/,/,sonydsctx30,,,,,,Exmor R CMOS,Exmor R CMOS,sony
 15710,5f3ba6213fd5b671b2205210,www.pcconnection.com,xf1,1,/,/,fujifilmxf1,,,,,,EXR-CMOS,EXR-CMOS,fujifilm
 15711,5f3ba6213fd5b671b2205220,www.pcconnection.com,a3000,3000,/,/,sonyalphaa3000,,,,,,Exmor APS HD CMOS,Exmor APS HD CMOS,sony
 15712,5f3ba6213fd5b671b2205238,www.pcconnection.com,s1,1,/,/,fujifilmfinepixs1,,,,,,BSI-CMOS,BSI-CMOS,fujifilm
+15713,5f3ba6213fd5b671b220523e,www.pcconnection.com,j3,3,/,/,nikonj3,,,,,,CMOS,CMOS,nikon
 15714,5f3ba6213fd5b671b2205245,www.pcconnection.com,dscw800,800,/,/,sonycybershotdscw800,,,,,,Super HAD CCD,Super HAD CCD,sony
+15715,5f3ba6213fd5b671b2205247,www.pcconnection.com,epl5,5,/,/,olympusepl5,,,,,,Live MOS,Live MOS,olympus
+15716,5f3ba6213fd5b671b2205256,www.pcconnection.com,ep5,5,/,/,olympusep5,,,,,,Live MOS,Live MOS,olympus
 15717,5f3ba6213fd5b671b220525f,www.pcconnection.com,jx680,680,/,/,fujifilmfinepixjx680,,,,,,CCD,CCD,fujifilm
 15718,5f3ba6213fd5b671b2205262,www.pcconnection.com,smartphone,,/,/,sonysmartphoneattachable,,,,,,Exmor CMOS,Exmor CMOS,sony
+15719,5f3ba6213fd5b671b2205265,www.pcconnection.com,em10,10,/,/,olympusomdem10,,,,,,Live MOS,Live MOS,olympus
+15720,5f3ba6213fd5b671b2205267,www.pcconnection.com,d5200,5200,/,/,nikond5200,,,,,,CMOS,CMOS,nikon
+15721,5f3ba6213fd5b671b220526a,www.pcconnection.com,aw120,120,/,/,nikoncoolpixaw120,,,,,,BSI-CMOS,BSI-CMOS,nikon
+15722,5f3ba6213fd5b671b2205271,www.pcconnection.com,n100,100,/,/,canonpowershotn100,4 ,,4.1,2.7,289.1649,CMOS,CMOS,canon
 15723,5f3ba6213fd5b671b2205277,www.pcconnection.com,s02,02,/,/,nikoncoolpixs02,,,,,,CMOS,CMOS,nikon
+15724,5f3ba6213fd5b671b2205278,www.pcconnection.com,epl5,5,/,/,olympusepl5,,,,,,Live MOS,Live MOS,olympus
+15725,5f3ba6213fd5b671b2205286,www.pcconnection.com,s1,1,/,/,nikons1,,,,,,CMOS,CMOS,nikon
 15726,5f3ba6213fd5b671b2205297,www.pcconnection.com,x20,20,/,/,fujifilmx20,,,,,,X-Trans CMOS II,X-Trans CMOS II,fujifilm
+15727,5f3ba6213fd5b671b2205298,www.pcconnection.com,xf1,1,/,/,fujifilmxf1,,,,,,EXR-CMOS,EXR-CMOS,fujifilm
 15728,5f3ba6213fd5b671b220529b,www.pcconnection.com,t027,027,/,/,sakarvivicamt027,,,,,,CMOS,CMOS,sakar
+15729,5f3ba6213fd5b671b220529c,www.pcconnection.com,em5,5,/,/,olympusomdem5,,,,,,Live MOS,Live MOS,olympus
+17457,5f3ba6213fd5b671b22051e5,www.pcconnection.com,elph340,340,/,/,canonpowershotelph340,4 ,12 ,3.9,2.3,147.4174,BSI-CMOS,BSI-CMOS,canon
+17458,5f3ba6213fd5b671b22051ed,www.pcconnection.com,elph150,150,/,/,canonpowershotelph150,,10 ,3.8,2.2,141.7475,CCD,CCD,canon
+17459,5f3ba6213fd5b671b220520a,www.pcconnection.com,k3,3,/,/,pentaxk3,,,,,,CMOS,CMOS,pentax
 17460,5f3ba6213fd5b671b220520d,www.pcconnection.com,rx100,100-2,/,/,sonycybershotrx100,14 ,3.6 ,,,,Exmor R CMOS,Exmor R CMOS,sony
 17461,5f3ba6213fd5b671b2205214,www.pcconnection.com,dsch300,300,/,/,sonycybershotdsch300,,,,,,Super HAD CCD,Super HAD CCD,sony
+17462,5f3ba6213fd5b671b2205231,www.pcconnection.com,wg4,4,/,/,pentaxwg4,,,,,,BSI-CMOS,BSI-CMOS,pentax
+17463,5f3ba6213fd5b671b220523d,www.pcconnection.com,jx660,660,/,/,fujifilmfinepixjx660,,,,,,CCD,CCD,fujifilm
+17464,5f3ba6213fd5b671b2205248,www.pcconnection.com,elph135,135,/,/,canonpowershotelph135,4 ,8 ,3.8,2.1,127.57275,CCD,CCD,canon
+17465,5f3ba6213fd5b671b220526d,www.pcconnection.com,wg4,4,/,/,pentaxwg4,,,,,,BSI-CMOS,BSI-CMOS,pentax
 17466,5f3ba6213fd5b671b2205276,www.pcconnection.com,hx50v,50,/,/,sonycybershothx50v,,,,,,Exmor R CMOS,Exmor R CMOS,sony
+17467,5f3ba6213fd5b671b2205282,www.pcconnection.com,k50,50,/,/,pentaxk50,,,,,,CMOS,CMOS,pentax
+17468,5f3ba6213fd5b671b2205291,www.pcconnection.com,a16,16,/,/,nikoncoolpixa16,,,,,,CMOS,CMOS,nikon
+17469,5f3ba6213fd5b671b2205294,www.pcconnection.com,xf1,1,/,/,fujifilmxf1,,,,,,EXR-CMOS,EXR-CMOS,fujifilm
 19209,5f3ba6213fd5b671b22051cf,www.pcconnection.com,s800c,800,/,/,nikoncoolpixs800c,,,,,,BSI-CMOS,BSI-CMOS,nikon
 19210,5f3ba6213fd5b671b22051d3,www.pcconnection.com,a950,950,/,/,generalelectricconsumera950,,,,,,CCD,CCD,general
 19211,5f3ba6213fd5b671b22051e4,www.pcconnection.com,sp100,100,/,/,olympussp100,,,,,,BSI-CMOS,BSI-CMOS,olympus
 19212,5f3ba6213fd5b671b22051f3,www.pcconnection.com,quest,,/,/,vistaquest14mp,,,,,,CCD,CCD,vista
 19213,5f3ba6213fd5b671b22051fe,www.pcconnection.com,a1235,1235,/,/,generalelectricconsumera1235,,,,,,CCD,CCD,general
+19214,5f3ba6213fd5b671b2205201,www.pcconnection.com,elph135,135,/,/,canonpowershotelph135,4 ,8 ,3.7,2.1,127.57275,CCD,CCD,canon
+19215,5f3ba6213fd5b671b220520f,www.pcconnection.com,dmcts5,5,/,/,panasoniclumixdmcts5,,,,,,CMOS,CMOS,panasonic
 19216,5f3ba6213fd5b671b2205212,www.pcconnection.com,a7r,7,/,/,sonya7r,,,,,,Exmor CMOS,Exmor CMOS,sony
+19217,5f3ba6213fd5b671b220522b,www.pcconnection.com,j3,3,/,/,nikonj3,,,,,,CMOS,CMOS,nikon
+19218,5f3ba6213fd5b671b2205236,www.pcconnection.com,ep5,5,/,/,olympusep5,,,,,,Live MOS,Live MOS,olympus
 19219,5f3ba6213fd5b671b220524c,www.pcconnection.com,dscw830,830,/,/,sonydscw830,,,,,,Super HAD CCD,Super HAD CCD,sony
+19220,5f3ba6213fd5b671b220524e,www.pcconnection.com,60d,60,/,/,canoneos60d,,,,,,CMOS,CMOS,canon
+19221,5f3ba6213fd5b671b2205259,www.pcconnection.com,aw120,120,/,/,nikoncoolpixaw120,,,,,,BSI-CMOS,BSI-CMOS,nikon
 19222,5f3ba6213fd5b671b220525b,www.pcconnection.com,vh520,520,/,/,olympusvh520,,,,,,CMOS,CMOS,olympus
 19223,5f3ba6213fd5b671b2205261,www.pcconnection.com,xp100,100,/,/,fujifilmfinepixxp100,,,,,,CMOS,CMOS,fujifilm
+19224,5f3ba6213fd5b671b220526b,www.pcconnection.com,s02,02,/,/,nikoncoolpixs02,,,,,,CMOS,CMOS,nikon
+19225,5f3ba6213fd5b671b220526c,www.pcconnection.com,t4i,4,/,/,canoncanoneosrebelt4i,,,,,,CMOS,CMOS,canon
+19226,5f3ba6213fd5b671b220527a,www.pcconnection.com,wgm1,1,/,/,pentaxwgm1,,,,,,,,pentax
 19227,5f3ba6213fd5b671b220527c,www.pcconnection.com,wb2100f,2100,/,/,samsungwb2100f,,3 ,4.7,3.3,,BSI-CMOS,BSI-CMOS,samsung
 19228,5f3ba6213fd5b671b220527e,www.pcconnection.com,xp55,55,/,/,fujifilmfinepixxp55,,,,,,,,fujifilm
+19229,5f3ba6213fd5b671b2205287,www.pcconnection.com,sh1,1,/,/,olympusstylussh1,,,,,,BSI-CMOS,BSI-CMOS,olympus
 20935,5f3ba6213fd5b671b22051cb,www.pcconnection.com,epl2,2,/,/,olympusepl2,,,,,,High Speed Live MOS,High Speed Live MOS,olympus
 20936,5f3ba6213fd5b671b22051cd,www.pcconnection.com,a5000,5000,/,/,sonyalphaa5000,,,,,,Exmor APS HD CMOS,Exmor APS HD CMOS,sony
+20937,5f3ba6213fd5b671b22051ce,www.pcconnection.com,a7,7,/,/,sonya7,,,,,,Exmor CMOS,Exmor CMOS,sony
+20938,5f3ba6213fd5b671b22051d2,www.pcconnection.com,vs536,536,/,/,sakarvs536,,,,,,CMOS,CMOS,sakar
+20939,5f3ba6213fd5b671b22051e3,www.pcconnection.com,x20,20,/,/,fujifilmx20,,,,,,,,fujifilm
 20940,5f3ba6213fd5b671b22051ee,www.pcconnection.com,v3,3,/,/,nikonnikon1v3,,,,,,CMOS,CMOS,nikon
 20941,5f3ba6213fd5b671b22051fa,www.pcconnection.com,sx700,700,/,/,canonpowershotsx700,4 ,30 ,4.4,2.6,269.32025,CMOS,CMOS,canon
 20942,5f3ba6213fd5b671b22051ff,www.pcconnection.com,hs35,35,/,/,fujifilmfinepixhs35,,,,,,BSI EXR CMOS,BSI EXR CMOS,fujifilm
+20943,5f3ba6213fd5b671b2205206,www.pcconnection.com,s02,02,/,/,nikoncoolpixs02,,,,,,CMOS,CMOS,nikon
 20944,5f3ba6213fd5b671b220520c,www.pcconnection.com,nx20,20,/,/,samsungnx20,,,,,,CMOS,CMOS,samsung
 20945,5f3ba6213fd5b671b2205224,www.pcconnection.com,xs1,1,/,/,fujifilmxs1,,,,,,EXR-CMOS,EXR-CMOS,fujifilm
+20946,5f3ba6213fd5b671b2205229,www.pcconnection.com,aw120,120,/,/,nikoncoolpixaw120,,,,,,BSI-CMOS,BSI-CMOS,nikon
 20947,5f3ba6213fd5b671b2205232,www.pcconnection.com,lz40,40,/,/,panasoniclumixlz40,,,,,,CCD,CCD,panasonic
 20948,5f3ba6213fd5b671b2205233,www.pcconnection.com,hps510,510,/,/,vistaquesthps510,,,,,,CCD,CCD,vista
+20949,5f3ba6213fd5b671b2205264,www.pcconnection.com,dmcts5,5,/,/,panasoniclumixdmcts5,4 ,4.6 ,4.30,2.65,213.18823999999998,CMOS,CMOS,panasonic
+20950,5f3ba6213fd5b671b2205273,www.pcconnection.com,ks1,1,/,/,pentaxks1,,,,,,,,pentax
+20951,5f3ba6213fd5b671b220528f,www.pcconnection.com,tg3,3,/,/,olympusstylustoughtg3,,,,,,BSI-CMOS,BSI-CMOS,olympus

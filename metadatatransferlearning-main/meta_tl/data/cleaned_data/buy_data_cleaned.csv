@@ -24,6 +24,7 @@ key,source,famer_keys,famer_brand_list,famer_model_list,famer_model_no_list,fame
 5f3ba61e3fd5b671b2200340,buy.net,nik6800,nikon,s6800,6800,nik6800,nikoncoolpixs6800,,4.0,12.0,5.842,9.906,CMOS,9,/,/
 5f3ba61e3fd5b671b2200346,buy.net,can170,canon,sx170,170,can170,canonpowershotsx170,,4.0,16.0,7.111999999999999,10.921999999999999,CCD,135,/,/
 5f3ba61e3fd5b671b220034f,buy.net,fuj1,fujifilm,xm1,1,fuj1,fujifilmxm1,,,,6.604,11.684,CMOS,94,/,/
+5f3ba61e3fd5b671b2200362,buy.net,nik1,nikon,aw1,1,nik1,nikon1aw1,,,,,,,8,/,/
 5f3ba61e3fd5b671b220036f,buy.net,sam35,samsung,wb35f,35,sam35,samsungwb35f,,2.0,12.0,6.096,10.16,CCD,156,/,/
 5f3ba61e3fd5b671b220037c,buy.net,nik1,nikon,j1,1,nik1,nikonj1,,,313.72,6.096,10.668000000000001,CMOS,35,/,/
 5f3ba61e3fd5b671b220038c,buy.net,pan1,panasonic,dmcxs1,1,pan1,panasoniclumixdmcxs1,,4.0,5.0,5.3340000000000005,9.398000000000001,CCD,34,/,/
@@ -49,11 +50,13 @@ key,source,famer_keys,famer_brand_list,famer_model_list,famer_model_no_list,fame
 5f3ba61e3fd5b671b220032f,buy.net,can150,canon,powershot150,150,can150,canonpowershot150,,4.0,10.0,5.588000000000001,9.652,CCD,51,/,/
 5f3ba61e3fd5b671b2200330,buy.net,son100,sony,rx100,100,son100,sonycybershotrx100,,14.0,3.6,5.842,10.16,Exmor CMOS,60,/,/
 5f3ba61e3fd5b671b2200334,buy.net,can70,canon,70d,70,can70,canoneos70d,,,7.5,10.414,13.97,CMOS,98,/,/
+5f3ba61e3fd5b671b220033f,buy.net,lei6,leica,dlux6,6,lei6,leicadlux6,,4.0,3.8,6.604,11.176000000000002,CMOS,163,/,/
 5f3ba61e3fd5b671b2200347,buy.net,can340,canon,powershot340,340,can340,canonpowershot340,,4.0,12.0,5.842,9.906,CMOS,66,/,/
 5f3ba61e3fd5b671b220034e,buy.net,can30,canon,d30,30,can30,canonpowershotd30,,4.0,5.0,6.807200000000001,10.9474,CMOS,213,/,/
 5f3ba61e3fd5b671b220036e,buy.net,can60,canon,sx60,60,can60,canonpowershotsx60,,,,,,,7,/,/
 5f3ba61e3fd5b671b2200377,buy.net,nik300,nikon,d300,300,nik300,nikond300,,,,,,,99,/,/
 5f3ba61e3fd5b671b2200380,buy.net,son300,sony,dschx300,300,son300,sonycybershotdschx300,,200.0,50.0,9.398000000000001,12.953999999999999,Exmor R CMOS,54,/,/
+5f3ba61e3fd5b671b2200394,buy.net,son6000,sony,a6000,6000,son6000,sonyalphaa6000,,4.0,3.0,7.3152,12.065,CMOS,149,/,/
 5f3ba61e3fd5b671b22003a4,buy.net,can5-3,canon,5d,5-3,can5-3,canoneos5d,,,,11.684,15.24,CMOS,31,/,/
 5f3ba61e3fd5b671b2200241,buy.net,nik4,nikon,d4,4,nik4,nikond4,,,,15.748000000000001,16.002,CMOS,65,/,/
 5f3ba61e3fd5b671b2200251,buy.net,oly5,olympus,ep5,5,oly5,olympusep5,,4.0,1.48,6.8834,12.2174,CMOS,86,/,/
@@ -61,12 +64,14 @@ key,source,famer_keys,famer_brand_list,famer_model_list,famer_model_no_list,fame
 5f3ba61e3fd5b671b2200260,buy.net,can135,canon,powershot135,135,can135,canonpowershot135,,4.0,8.0,5.3340000000000005,9.652,CCD,39,/,/
 5f3ba61e3fd5b671b2200263,buy.net,nik90,nikon,d90,90,nik90,nikond90,,,,,,,133,/,/
 5f3ba61e3fd5b671b2200284,buy.net,son77,sony,slta77vm,77,son77,sonyalphaslta77vm,,,7.5,10.414,14.223999999999998,Exmor APS HD CMOS sensor,12,/,/
+5f3ba61e3fd5b671b2200295,buy.net,nik1,nikon,j1,1,nik1,nikonj1,,,3.0,6.096,10.668000000000001,CMOS,35,/,/
 5f3ba61e3fd5b671b22002a2,buy.net,oly850,olympus,tg850,850,oly850,olympustg850,,4.0,5.0,6.35,10.921999999999999,CMOS,136,/,/
 5f3ba61e3fd5b671b22002ae,buy.net,fuj8600,fujifilm,s8600,8600,fuj8600,fujifilmfinepixs8600,,2.0,36.0,8.128,12.192,CCD,190,/,/
 5f3ba61e3fd5b671b22002b0,buy.net,fuj2,fujifilm,xe2,2,fuj2,fujifilmxe2,,,,,,,53,/,/
 5f3ba61e3fd5b671b22002bd,buy.net,can140,canon,powershot140,140,can140,canonpowershot140,,4.0,8.0,5.3340000000000005,9.652,CCD,183,/,/
 5f3ba61e3fd5b671b22002de,buy.net,sam350,samsung,wb350f,350,sam350,samsungwb350f,,9.4,21.0,6.604,11.43,BSI CMOS,76,/,/
 5f3ba61e3fd5b671b22002e0,buy.net,son3000,sony,a3000,3000,son3000,sonyalphaa3000,,4.0,3.0,9.2202,13.0302,CMOS,215,/,/
+5f3ba61e3fd5b671b22002ec,buy.net,nik90,nikon,d90,90,nik90,nikond90,,,,,,,133,/,/
 5f3ba61e3fd5b671b22002f5,buy.net,viv30,vivitar,x30,30,viv30,vivitarvivicamx30,,,,,,,buy.net//6141,/,/
 5f3ba61e3fd5b671b22002f8,buy.net,can110,canon,s110,110,can110,canonpowershots110,,4.0,5.0,5.842,9.906,CMOS,195,/,/
 5f3ba61e3fd5b671b22002fe,buy.net,can115,canon,powershot115,115,can115,canonpowershot115,,4.0,8.0,5.3340000000000005,9.398000000000001,CCD,24,/,/
@@ -79,32 +84,47 @@ key,source,famer_keys,famer_brand_list,famer_model_list,famer_model_no_list,fame
 5f3ba61e3fd5b671b2200350,buy.net,nik5300,nikon,d5300,5300,nik5300,nikond5300,,,,9.906,12.446000000000002,CMOS,11,/,/
 5f3ba61e3fd5b671b2200360,buy.net,fuj1,fujifilm,xe1,1,fuj1,fujifilmxe1,,,,7.366,12.953999999999999,CMOS,194,/,/
 5f3ba61e3fd5b671b2200364,buy.net,fuj33,fujifilm,z33wp,33,fuj33,fujifilmfinepixz33wp,,5.7,3.0,5.842,9.144,CCD,90,/,/
+5f3ba61e3fd5b671b2200373,buy.net,pan40,panasonic,dmczs40,40,pan40,panasoniclumixdmczs40,,4.0,30.0,6.4262,11.049,CMOS,41,/,/
 5f3ba61e3fd5b671b220039a,buy.net,fuj680,fuji,jx680,680,fuj680,fujiblowersfinepixjx680,,7.2,5.0,5.588000000000001,9.398000000000001,CCD,82,/,/
+5f3ba61e3fd5b671b2200246,buy.net,pan1,panasonic,dmcxs1,1,pan1,panasoniclumixdmcxs1,,4.0,5.0,5.3340000000000005,9.398000000000001,CCD,34,/,/
 5f3ba61e3fd5b671b220024b,buy.net,pen7,pentax,q7,7,pen7,pentaxq7,,,,5.842,10.16,CMOS,162,/,/
+5f3ba61e3fd5b671b2200254,buy.net,can5-3,canon,5d,5-3,can5-3,canoneos5d,,,4.37,11.684,15.24,CMOS,31,/,/
 5f3ba61e3fd5b671b220025c,buy.net,nik3,nikon,v3,3,nik3,nikonv3,,,,6.604,11.176000000000002,CMOS,109,/,/
 5f3ba61e3fd5b671b2200267,buy.net,pan70,panasonic,dmcfz70,70,pan70,panasoniclumixdmcfz70,,5.0,60.0,9.652,12.953999999999999,MOS,81,/,/
 5f3ba61e3fd5b671b220027e,buy.net,fuj1,fujifilm,s1,1,fuj1,fujifilmfinepixs1,,2.0,50.0,9.144,13.208,CMOS,147,/,/
 5f3ba61e3fd5b671b2200289,buy.net,can3,canon,t3i,3,can3,canoneosrebelt3i,,,3.0,9.906,13.208,CMOS,21,/,/
+5f3ba61e3fd5b671b220028e,buy.net,fuj680,fuji,jx680,680,fuj680,fujiblowersfinepixjx680,,7.2,5.0,5.588000000000001,9.398000000000001,CCD,82,/,/
 5f3ba61e3fd5b671b22002a4,buy.net,oly10,olympus,em10,10,oly10,olympusomdem10,,,,8.128,11.938,CMOS,0,/,/
 5f3ba61e3fd5b671b22002c4,buy.net,nik1,nikon,v1,1,nik1,nikonv1,,,3.0,7.62,11.176000000000002,CMOS,178,/,/
+5f3ba61e3fd5b671b22002ce,buy.net,sam350,samsung,wb350f,350,sam350,samsungwb350f,,9.4,21.0,6.604,11.43,BSI CMOS,76,/,/
 5f3ba61e3fd5b671b22002cf,buy.net,lei10770,leica,10770,10770,lei10770,leica10770,,,0.68,7.9756,13.893799999999999,CMOS,buy.net//6475,/,/
 5f3ba61e3fd5b671b22002d2,buy.net,son10,sony,dscqx10,10,son10,sonydscqx10,,,10.0,3.0225999999999997,6.35,CMOS,108,/,/
+5f3ba61e3fd5b671b22002d5,buy.net,nik610,nikon,d610,610,nik610,nikond610,,,10.7,11.176000000000002,14.223999999999998,CMOS,165,/,/
 5f3ba61e3fd5b671b22002d7,buy.net,son350,sony,dscwx350,350,son350,sonydscwx350,,4.0,20.0,5.715,9.8552,CMOS,17,/,/
 5f3ba61e3fd5b671b22002f9,buy.net,son400,sony,dsch400,400,son400,sonycybershotdsch400,,126.0,63.0,9.398000000000001,12.953999999999999,Super HAD CCD,29,/,/
+5f3ba61e3fd5b671b2200306,buy.net,pen50,pentax,k50,50,pen50,pentaxk50,,,,,,,36,/,/
 5f3ba61e3fd5b671b2200311,buy.net,pan30,panasonic,dmcfz30,30,pan30,panasoniclumixdmcfz30,,,,,,,144,/,/
 5f3ba61e3fd5b671b2200312,buy.net,fuj40,fuji,f40fd,40,fuj40,fujiblowersfinepixf40fd,,6.9,3.0,5.842,9.652,CCD,44,/,/
 5f3ba61e3fd5b671b220031d,buy.net,sam100,samsung,ekgc100,100,sam100,samsunggalaxyekgc100,,,21.0,7.0866,12.8778,CMOS,161,/,/
 5f3ba61e3fd5b671b2200329,buy.net,nik16,nikon,slr16,16,nik16,nikondfslr16,,,,10.921999999999999,14.223999999999998,CMOS,63,/,/
 5f3ba61e3fd5b671b220032d,buy.net,nik810,nikon,l810,810,nik810,nikoncoolpixl810,,4.0,26.0,7.62,11.176000000000002,CCD,91,/,/
 5f3ba61e3fd5b671b220036b,buy.net,oly830,olympus,tg830,830,oly830,olympustoughtg830,,4.0,5.0,6.604,10.921999999999999,CMOS,50,/,/
+5f3ba61e3fd5b671b2200387,buy.net,nik5300,nikon,d5300,5300,nik5300,nikond5300,,,,9.906,12.4968,CMOS,11,/,/
+5f3ba61e3fd5b671b2200243,buy.net,pen7,pentax,q7,7,pen7,pentaxq7,,,,5.7912,10.210799999999999,CMOS,162,/,/
 5f3ba61e3fd5b671b2200259,buy.net,can7-2,canon,7d,7-2,can7-2,canoneos7d,,,,,,,3,/,/
 5f3ba61e3fd5b671b2200261,buy.net,pen3,pentax,k3,3,pen3,pentaxk3,,,,10.0076,13.1318,CMOS,64,/,/
 5f3ba61e3fd5b671b2200290,buy.net,pan48,panasonic,dmcfx48,48,pan48,panasoniclumixdmcfx48,,4.0,5.0,5.3340000000000005,9.652,CCD,buy.net//6061,/,/
 5f3ba61e3fd5b671b220029c,buy.net,can530,canon,elph530,530,can530,canonpowershotelph530,,4.0,12.0,5.3340000000000005,8.636,CMOS,45,/,/
 5f3ba61e3fd5b671b22002a3,buy.net,pan1,panasonic,dmcgm1ks,1,pan1,panasoniclumixdmcgm1ks,,,,5.588000000000001,9.906,CMOS,155,/,/
+5f3ba61e3fd5b671b22002a8,buy.net,nik5200,nikon,s5200,5200,nik5200,nikoncoolpixs5200,,4.0,6.0,5.842,9.906,CMOS,112,/,/
+5f3ba61e3fd5b671b22002b2,buy.net,nik16,nikon,slr16,16,nik16,nikondfslr16,,,,10.921999999999999,14.223999999999998,CMOS,63,/,/
 5f3ba61e3fd5b671b22002b5,buy.net,oly2,olympus,epm2,2,oly2,olympuspenepm2,,,,6.35,10.921999999999999,Live MOS,55,/,/
+5f3ba61e3fd5b671b22002b6,buy.net,nik5300,nikon,d5300,5300,nik5300,nikond5300,,,,9.906,12.446000000000002,CMOS,11,/,/
+5f3ba61e3fd5b671b22002c5,buy.net,son100,sony,dscrx100,100,son100,sonydscrx100,,14.0,3.6,6.0451999999999995,10.16,CMOS,60,/,/
+5f3ba61e3fd5b671b22002d0,buy.net,can3,canon,t3i,3,can3,canoneosrebelt3i,,,,9.906,13.208,CMOS,21,/,/
 5f3ba61e3fd5b671b22002d3,buy.net,can120,canon,s120,120,can120,canonpowershots120,,4.0,5.0,5.892799999999999,10.0076,CMOS,143,/,/
 5f3ba61e3fd5b671b22002d6,buy.net,oly14,olympus,sz14,14,oly14,olympusstylussz14,,4.0,24.0,6.8580000000000005,10.642600000000002,CCD,59,/,/
+5f3ba61e3fd5b671b22002f4,buy.net,nik5300,nikon,d5300,5300,nik5300,nikond5300,,,,9.906,12.4968,CMOS,11,/,/
 5f3ba61e3fd5b671b2200307,buy.net,sam2200,samsung,wb2200f,2200,sam2200,samsungwb2200f,,2.0,60.0,12.192,11.938,CMOS,134,/,/
 5f3ba61e3fd5b671b2200308,buy.net,sam300,samsung,nx300,300,sam300,samsungnx300,,2.0,2.5,6.35,12.192,CMOS,158,/,/
 5f3ba61e3fd5b671b2200318,buy.net,kod251,kodak,az251,251,kod251,kodakpixproaz251,,,,,,,25,/,/
@@ -112,6 +132,7 @@ key,source,famer_keys,famer_brand_list,famer_model_list,famer_model_no_list,fame
 5f3ba61e3fd5b671b2200323,buy.net,fuj750,fujifilm,f750exr,750,fuj750,fujifilmfinepixf750exr,,2.0,20.0,6.35,10.414,EXR-CMOS,103,/,/
 5f3ba61e3fd5b671b220032a,buy.net,son330,sony,dslra330,330,son330,sonyalphadslra330,,,3.1,9.652,12.7,CCD,211,/,/
 5f3ba61e3fd5b671b220032e,buy.net,hp600,hp,espresso600,600,hp600,hphewlettpackardhpframeespresso600,,,,,,,buy.net//5926,/,/
+5f3ba61e3fd5b671b220034a,buy.net,nik6500,nikon,s6500,6500,nik6500,nikoncoolpixs6500,,4.0,12.0,5.842,9.652,CMOS,52,/,/
 5f3ba61e3fd5b671b2200352,buy.net,pan7,panasonic,dmclx7,7,pan7,panasoniclumixdmclx7,,4.0,3.8,6.604,11.176000000000002,MOS,160,/,/
 5f3ba61e3fd5b671b220035b,buy.net,oly3,olympus,epl3,3,oly3,olympusepl3,,,3.0,6.35,10.921999999999999,Live MOS,214,/,/
 5f3ba61e3fd5b671b220036a,buy.net,oly2,olympus,e2omsz12s,2,oly2,olympuse2omsz12s,,,24.0,,,CCD,buy.net//5772,/,/
@@ -124,24 +145,33 @@ key,source,famer_keys,famer_brand_list,famer_model_list,famer_model_no_list,fame
 5f3ba61e3fd5b671b2200266,buy.net,ric1,ricoh,mx1,1,ric1,ricohmx1,,2.0,4.0,6.096,12.192,CMOS,119,/,/
 5f3ba61e3fd5b671b220026d,buy.net,fuj1,fujifilm,xt1,1,fuj1,fujifilmxt1,,,,8.89,12.7,CMOS,75,/,/
 5f3ba61e3fd5b671b220026e,buy.net,nik7100,nikon,d7100,7100,nik7100,nikond7100,,,,,,,84,/,/
+5f3ba61e3fd5b671b2200274,buy.net,nik5300,nikon,d5300,5300,nik5300,nikond5300,,,,9.906,12.4968,CMOS,11,/,/
+5f3ba61e3fd5b671b2200286,buy.net,nik16,nikon,lens16,16,nik16,nikondfslrspecialeditionkitwlens16,,,,10.921999999999999,14.223999999999998,CMOS,63,/,/
 5f3ba61e3fd5b671b2200288,buy.net,sam200,samsung,ekgc200,200,sam200,samsunggalaxyekgc200,,,21.0,7.111999999999999,13.208,BSI CMOS,170,/,/
+5f3ba61e3fd5b671b2200292,buy.net,oly2,olympus,epm2,2,oly2,olympuspenepm2,,,,,,,55,/,/
 5f3ba61e3fd5b671b2200298,buy.net,fuj900,fuji,f900exr,900,fuj900,fujiblowersfinepixf900exr,,3.4,20.0,6.096,10.414,EXR CMOS II,56,/,/
+5f3ba61e3fd5b671b22002a1,buy.net,nik610,nikon,d610,610,nik610,nikond610,,,,11.176000000000002,14.223999999999998,CMOS,165,/,/
 5f3ba61e3fd5b671b22002ac,buy.net,son300,sony,dsch300,300,son300,sonycybershotdsch300,495 ,2.0,35.0,241.3,329.18399999999997,CCD,132,/,/
 5f3ba61e3fd5b671b22002b8,buy.net,can500,canon,sx500,500,can500,canonpowershotsx500,,4.0,30.0,6.8580000000000005,10.414,CCD,115,/,/
 5f3ba61e3fd5b671b22002be,buy.net,can1,canon,g1,1,can1,canonpowershotg1,,4.0,4.0,8.128,11.684,CMOS,177,/,/
+5f3ba61e3fd5b671b22002c3,buy.net,nik7100,nikon,d7100,7100,nik7100,nikond7100,,,,10.668000000000001,13.462,CMOS,84,/,/
 5f3ba61e3fd5b671b22002ca,buy.net,sam72,samsung,st72,72,sam72,samsungst72,,5.0,5.0,5.842,9.398000000000001,CCD,150,/,/
 5f3ba61e3fd5b671b22002cc,buy.net,nik800,nikon,s800c,800,nik800,nikoncoolpixs800c,,4.0,10.0,6.096,11.176000000000002,CMOS,5,/,/
 5f3ba61e3fd5b671b22002e2,buy.net,nik530,nikon,p530,530,nik530,nikoncoolpixp530,,4.0,42.0,8.636,12.446000000000002,CMOS,111,/,/
 5f3ba61e3fd5b671b22002e4,buy.net,vte80077341,vtech,kidizoom80077341,80077341,vte80077341,vtechkidizoom80077341,,,,,,,28,/,/
+5f3ba61e3fd5b671b22002e6,buy.net,can135,canon,powershot135,135,can135,canonpowershot135,,4.0,8.0,5.3340000000000005,9.652,CCD,39,/,/
 5f3ba61e3fd5b671b22002f0,buy.net,can600,canon,sx600,600,can600,canonpowershotsx600,,4.0,18.0,6.096,10.414,CMOS,141,/,/
 5f3ba61e3fd5b671b2200320,buy.net,can2600,canon,a2600,2600,can2600,canonpowershota2600,,4.0,5.0,5.588000000000001,9.906,CCD,210,/,/
+5f3ba61e3fd5b671b220032b,buy.net,pen3,pentax,k3,3,pen3,pentaxk3,,,7.5,9.906,13.208,CMOS,64,/,/
 5f3ba61e3fd5b671b2200341,buy.net,son7,sony,a7,7,son7,sonyalpha7a7,,4.0,,9.398000000000001,12.7,Exmor APS HD CMOS sensor,37,/,/
 5f3ba61e3fd5b671b2200342,buy.net,son830,sony,dscw830,830,son830,sonycybershotdscw830,,4.0,8.0,5.3340000000000005,9.398000000000001,Super HAD CCD,80,/,/
 5f3ba61e3fd5b671b2200369,buy.net,pol340,polaroid,z340,340,pol340,polaroidz340,,,5.0,6.604,12.7,,102,/,/
 5f3ba61e3fd5b671b220036c,buy.net,can200,canon,sx200,200,can200,canonpowershotsx200,,4.0,12.0,6.096,10.414,CCD,131,/,/
+5f3ba61e3fd5b671b2200370,buy.net,fuj2,fujifilm,xe2,2,fuj2,fujifilmxe2,,,,12.953999999999999,7.366,CMOS,53,/,/
 5f3ba61e3fd5b671b220037d,buy.net,can1,canon,t1i,1,can1,canoneosrebelt1i,,,3.1,9.652,12.953999999999999,CMOS,58,/,/
 5f3ba61e3fd5b671b220037e,buy.net,sam16,samsung,galaxy16,16,sam16,samsunggalaxy16,,,21.0,7.0866,12.8778,CMOS,buy.net//5680,/,/
 5f3ba61e3fd5b671b2200386,buy.net,nik9700,nikon,s9700,9700,nik9700,nikoncoolplixs9700,,4.0,30.0,6.35,10.921999999999999,CMOS,97,/,/
+5f3ba61e3fd5b671b2200392,buy.net,nik5300,nikon,d5300,5300,nik5300,nikond5300,,,,9.906,12.4968,CMOS,11,/,/
 5f3ba61e3fd5b671b2200247,buy.net,fuj4800,fujifilm,s4800,4800,fuj4800,fujifilmfinepixs4800,426.0 ,7.2,30.0,236.22,309.88,CCD,78,/,/
 5f3ba61e3fd5b671b2200249,buy.net,col5,coleman,c5wp,5,col5,colemanxtremec5wp,,,,,,,32,/,/
 5f3ba61e3fd5b671b220025d,buy.net,pan5,panasonic,dmcts5,5,pan5,panasoniclumixdmcts5,,4.0,4.6,6.731,10.921999999999999,CMOS,198,/,/
@@ -149,20 +179,32 @@ key,source,famer_keys,famer_brand_list,famer_model_list,famer_model_no_list,fame
 5f3ba61e3fd5b671b220026a,buy.net,gen2600,general,x2600,2600,gen2600,generalelectricpowerproseriesx2600,,5.0,26.0,7.8740000000000006,11.684,CCD,129,/,/
 5f3ba61e3fd5b671b220026c,buy.net,can16,canon,g16,16,can16,canonpowershotg16,,4.0,5.0,7.594600000000001,10.8712,CMOS,189,/,/
 5f3ba61e3fd5b671b220026f,buy.net,pan165,panasonic,wvst165,165,pan165,panasoniciprosmarthdwvst165,,8.0,,9.906,9.906,MOS,buy.net//6066,/,/
+5f3ba61e3fd5b671b2200278,buy.net,fuj1,fujifilm,xt1,1,fuj1,fujifilmxt1,,,,8.89,12.7,CMOS,75,/,/
+5f3ba61e3fd5b671b2200282,buy.net,nik3600,nikon,s3600,3600,nik3600,nikoncoolpixs3600,,4.0,8.0,5.842,9.906,CCD,22,/,/
+5f3ba61e3fd5b671b220029f,buy.net,fuj2,fujifilm,xe2,2,fuj2,fujifilmxe2,,,,7.366,12.953999999999999,CMOS,53,/,/
 5f3ba61e3fd5b671b22002aa,buy.net,can160,canon,sx160,160,can160,canonpowershotsx160,,4.0,16.0,7.366,11.176000000000002,CCD,40,/,/
 5f3ba61e3fd5b671b22002b3,buy.net,nik520,nikon,p520,520,nik520,nikoncoolpixp520,,2.0,42.0,8.382,12.446000000000002,CMOS,154,/,/
 5f3ba61e3fd5b671b22002bf,buy.net,pan25,panasonic,dmcts25,25,pan25,panasoniclumixdmcts25,,4.0,4.0,5.842,10.414,CCD,182,/,/
 5f3ba61e3fd5b671b22002c1,buy.net,gen450,general,x450,450,gen450,generalelectricx450,,4.0,25.0,7.111999999999999,7.8740000000000006,,buy.net//6605,/,/
+5f3ba61e3fd5b671b22002c8,buy.net,can3,canon,t3i,3,can3,canoneosrebelt3i,,,,9.906,13.208,CMOS,21,/,/
 5f3ba61e3fd5b671b22002cd,buy.net,nik3100,nikon,d3100,3100,nik3100,nikond3100,,,3.1,9.652,12.446000000000002,CMOS,92,/,/
+5f3ba61e3fd5b671b22002d1,buy.net,fuj2,fujifilm,xe2,2,fuj2,fujifilmxe2,,,,7.366,12.953999999999999,CMOS,53,/,/
 5f3ba61e3fd5b671b22002d4,buy.net,can1,canon,eos1d,1,can1,canoneos1d,,,,16.256,15.748000000000001,CMOS,209,/,/
 5f3ba61e3fd5b671b22002d9,buy.net,pol2300,polaroid,z2300,2300,pol2300,polaroidz2300,,2.4,1.0,7.7724,12.065,CMOS,19,/,/
 5f3ba61e3fd5b671b22002df,buy.net,viv325,vivitar,s325,325,viv325,vivitarvivicams325,,4.0,3.0,,,,buy.net//4286,/,/
 5f3ba61e3fd5b671b22002e7,buy.net,oly370,olympus,vr370,370,oly370,olympusvr370,,4.0,12.5,6.096,10.414,CCD,95,/,/
 5f3ba61e3fd5b671b22002ed,buy.net,pan25,panasonic,dmczs25,25,pan25,panasoniclumixdmczs25,,4.0,20.0,5.842,10.414,MOS,186,/,/
 5f3ba61e3fd5b671b22002ef,buy.net,vid50,video,mac50,50,vid50,videosystemsmac50,,,4.0,6.35,6.35,,buy.net//6554,/,/
+5f3ba61e3fd5b671b22002f3,buy.net,fuj1,fujifilm,xe1,1,fuj1,fujifilmxe1,,,3.1,7.366,12.953999999999999,X-Trans CMOS,194,/,/
 5f3ba61e3fd5b671b22002f6,buy.net,can700,canon,sx700,700,can700,canonpowershotsx700,,4.0,30.0,6.5786,11.277600000000001,CMOS,124,/,/
+5f3ba61e3fd5b671b2200314,buy.net,can120,canon,s120,120,can120,canonpowershots120,,4.0,5.0,5.892799999999999,10.0076,CMOS,143,/,/
+5f3ba61e3fd5b671b2200321,buy.net,can60,canon,60d,60,can60,canoneos60d,,,3.1,10.668000000000001,14.478000000000002,CMOS,125,/,/
+5f3ba61e3fd5b671b2200328,buy.net,sam350,samsung,wb350f,350,sam350,samsungwb350f,,9.4,21.0,6.604,11.43,BSI CMOS,76,/,/
+5f3ba61e3fd5b671b2200335,buy.net,son100,sony,dscrx100,100,son100,sonycybershotdscrx100,,14.0,3.6,6.0451999999999995,10.16,CMOS,60,/,/
+5f3ba61e3fd5b671b2200339,buy.net,son6000,sony,a6000,6000,son6000,sonyalphaa6000,,4.0,,7.3152,12.065,CMOS,149,/,/
 5f3ba61e3fd5b671b220033e,buy.net,nik830,nikon,l830,830,nik830,nikoncoolpixl830,,4.0,34.0,7.62,11.176000000000002,CMOS,105,/,/
 5f3ba61e3fd5b671b2200343,buy.net,can780,canon,sd780,780,can780,canonpowershotsd780,,4.0,3.0,5.588000000000001,8.636,CCD,20,/,/
+5f3ba61e3fd5b671b220034c,buy.net,nik620,nikon,l620,620,nik620,nikoncoolpixl620,,2.0,14.0,7.111999999999999,10.921999999999999,CMOS,153,/,/
 5f3ba61e3fd5b671b2200354,buy.net,dis,disney,pix,,dis,disneydisneypix,,,,,,,buy.net//5435,/,/
 5f3ba61e3fd5b671b220035c,buy.net,pan35,panasonic,zs35,35,pan35,panasoniclumixzs35,,4.0,20.0,6.35,10.668000000000001,MOS,202,/,/
 5f3ba61e3fd5b671b2200363,buy.net,nik31,nikon,s31,31,nik31,nikoncoolpixs31,,4.0,3.0,6.604,10.414,CCD,151,/,/
@@ -171,27 +213,48 @@ key,source,famer_keys,famer_brand_list,famer_model_list,famer_model_no_list,fame
 5f3ba61e3fd5b671b220039c,buy.net,fuj200,fujifilm,xp200,200,fuj200,fujifilmfinepixxp200,,,,,,,127,/,/
 5f3ba61e3fd5b671b220039e,buy.net,nik3,nikon,j3,3,nik3,nikon1j3,,,3.0,6.096,10.16,CMOS,18,/,/
 5f3ba61e3fd5b671b220039f,buy.net,pan40,panasonic,dmclz40,40,pan40,panasoniclumixdmclz40,,4.0,42.0,8.6614,12.6492,CCD,184,/,/
+5f3ba61e3fd5b671b2200245,buy.net,sam72,samsung,st72,72,sam72,samsungst72,,1.0,5.0,5.7912,9.4488,CCD,150,/,/
 5f3ba61e3fd5b671b2200262,buy.net,viv124,vivitar,f124,124,viv124,vivitaritwistf124,,4.0,,18.541999999999998,23.622000000000003,CMOS,180,/,/
+5f3ba61e3fd5b671b220026b,buy.net,oly5,olympus,ep5,5,oly5,olympuspenep5,,,,6.8834,12.2174,CMOS,86,/,/
+5f3ba61e3fd5b671b2200276,buy.net,oly5,olympus,ep5,5,oly5,olympuspenep5,,,,6.8834,12.2174,CMOS,86,/,/
 5f3ba61e3fd5b671b2200283,buy.net,oly2,olympus,ep2,2,oly2,olympuspenep2,,,,7.111999999999999,11.938,,30,/,/
 5f3ba61e3fd5b671b2200287,buy.net,fuj1500,fujifilm,s1500,1500,fuj1500,fujifilmfinepixs1500,,5.7,12.0,7.366,10.414,CCD,107,/,/
 5f3ba61e3fd5b671b2200299,buy.net,nik32,nikon,s32,32,nik32,nikoncoolpixs32,,4.0,3.0,6.8580000000000005,10.921999999999999,CMOS,164,/,/
 5f3ba61e3fd5b671b22002a0,buy.net,pan5,panasonic,dmcg5kk,5,pan5,panasoniclumixdmcg5kk,,4.0,3.0,8.382,11.938,Live MOS,193,/,/
+5f3ba61e3fd5b671b22002ad,buy.net,can70,canon,70d,70,can70,canoneos70d,,,,10.414,13.97,CMOS,98,/,/
+5f3ba61e3fd5b671b22002af,buy.net,nik830,nikon,l830,830,nik830,nikoncoolpixl830,,4.0,34.0,7.62,11.176000000000002,CMOS,105,/,/
+5f3ba61e3fd5b671b22002b1,buy.net,nik3,nikon,j3,3,nik3,nikon1j3,,,3.0,6.096,10.16,CMOS,18,/,/
 5f3ba61e3fd5b671b22002b9,buy.net,fuj400,fujifilm,t400,400,fuj400,fujifilmfinepixt400,,7.2,10.0,5.842,10.414,CCD,4,/,/
 5f3ba61e3fd5b671b22002c0,buy.net,can510,canon,sx510,510,can510,canonpowershotsx510,,4.0,30.0,6.8580000000000005,10.414,CMOS,110,/,/
+5f3ba61e3fd5b671b22002c2,buy.net,fuj2,fujifilm,xe2,2,fuj2,fujifilmxseriesxe2,,,,7.366,12.953999999999999,CMOS,53,/,/
 5f3ba61e3fd5b671b22002db,buy.net,nik3300,nikon,d3300,3300,nik3300,nikond3300,,,,9.906,12.446000000000002,CMOS,14,/,/
 5f3ba61e3fd5b671b22002dc,buy.net,sak,sakar,hello,,sak,sakarhellokitty,,,,,,,buy.net//6371,/,/
 5f3ba61e3fd5b671b22002fb,buy.net,nik01,nikon,s01,01,nik01,nikoncoolpixs01,,4.0,3.0,5.08,7.62,CCD,117,/,/
 5f3ba61e3fd5b671b2200303,buy.net,col2,coleman,2v7wpp,2,col2,coleman2v7wpp,,8.0,,6.35,9.652,CMOS,buy.net//5652,/,/
+5f3ba61e3fd5b671b2200310,buy.net,nik7100,nikon,d7100,7100,nik7100,nikond7100,,,7.8,10.668000000000001,13.462,CMOS,84,/,/
+5f3ba61e3fd5b671b2200315,buy.net,son5000,sony,ilce5000l,5000,son5000,sonyalphailce5000l,,2.0,3.1,6.35,10.921999999999999,Exmor APS HD CMOS sensor,43,/,/
+5f3ba61e3fd5b671b220031e,buy.net,nik16,nikon,slr16,16,nik16,nikondfslr16,,,,10.921999999999999,14.223999999999998,CMOS,63,/,/
+5f3ba61e3fd5b671b2200324,buy.net,fuj900,fuji,f900exr,900,fuj900,fujiblowersfinepixf900exr,,2.0,20.0,6.096,10.414,EXR CMOS II,56,/,/
+5f3ba61e3fd5b671b2200338,buy.net,nik600,nikon,p600,600,nik600,nikoncoolplixp600,,4.0,60.0,8.636,12.7,CMOS,122,/,/
+5f3ba61e3fd5b671b220033c,buy.net,son830,sony,dscw830,830,son830,sonycybershotdscw830,,4.0,8.0,5.3340000000000005,9.398000000000001,Super HAD CCD,80,/,/
+5f3ba61e3fd5b671b2200345,buy.net,fuj1,fujifilm,xm1,1,fuj1,fujifilmxm1,,,,6.604,11.684,CMOS,94,/,/
 5f3ba61e3fd5b671b220034d,buy.net,iri1,iris,scb1,1,iri1,irisusascb1,,,,,,,buy.net//6564,/,/
 5f3ba61e3fd5b671b2200355,buy.net,pan7,panasonic,dmcgx7,7,pan7,panasoniclumixdmcgx7,,4.0,,,,CMOS,93,/,/
+5f3ba61e3fd5b671b220035d,buy.net,nik3300,nikon,d3300,3300,nik3300,nikond3300,,,,9.906,12.446000000000002,CMOS,14,/,/
+5f3ba61e3fd5b671b220036d,buy.net,nik32,nikon,s32,32,nik32,nikoncoolpixs32,,4.0,3.0,6.8580000000000005,10.921999999999999,CMOS,164,/,/
+5f3ba61e3fd5b671b2200374,buy.net,can70,canon,70d,70,can70,canoneos70d,,,3.1,10.414,13.97,CMOS,98,/,/
 5f3ba61e3fd5b671b2200376,buy.net,pan162,panasonic,wvst162,162,pan162,panasoniciprosmarthdwvst162,,8.0,,9.906,9.906,MOS,buy.net//4310,/,/
 5f3ba61e3fd5b671b2200379,buy.net,nik28,nikon,l28,28,nik28,nikoncoolpixl28,,4.0,5.0,6.096,9.652,CCD,207,/,/
 5f3ba61e3fd5b671b220037f,buy.net,oly2,olympus,xz2,2,oly2,olympusstylusxz2,,4.0,4.0,6.604,11.176000000000002,CMOS,126,/,/
+5f3ba61e3fd5b671b220038b,buy.net,sam350,samsung,wb350f,350,sam350,samsungwb350f,,9.4,21.0,6.604,11.43,BSI CMOS,76,/,/
 5f3ba61e3fd5b671b2200399,buy.net,can310,canon,ixus310,310,can310,canonixus310,,4.0,4.4,5.588000000000001,10.16,BSI CMOS,2,/,/
+5f3ba61e3fd5b671b22003a1,buy.net,can150,canon,powershot150,150,can150,canonpowershot150,,4.0,10.0,5.588000000000001,9.652,CCD,51,/,/
 5f3ba61e3fd5b671b2200240,buy.net,oly1,olympus,sh1,1,oly1,olympusstylussh1,,4.0,24.0,6.35,10.921999999999999,CMOS,113,/,/
 5f3ba61e3fd5b671b2200248,buy.net,nik510,nikon,p510,510,nik510,nikoncoolpixp510,,2.0,42.0,8.382,11.938,CMOS,70,/,/
 5f3ba61e3fd5b671b220024e,buy.net,sam110,samsung,ekgc110,110,sam110,samsunggalaxyekgc110,,,21.0,7.111999999999999,12.953999999999999,BSI CMOS,167,/,/
+5f3ba61e3fd5b671b220024f,buy.net,can340,canon,elph340,340,can340,canonpowershotelph340,,4.0,12.0,5.7658000000000005,9.9822,CMOS,66,/,/
 5f3ba61e3fd5b671b2200250,buy.net,all355,allen,evc355bk,355,all355,allenevc355bk,,4.0,,,,,buy.net//5376,/,/
+5f3ba61e3fd5b671b220025f,buy.net,fuj1,fujifilm,xm1,1,fuj1,fujifilmxm1,,,,6.604,11.684,CMOS,94,/,/
 5f3ba61e3fd5b671b2200270,buy.net,wil05,wildgame,l05,05,wil05,wildgameinnovationselite5lightsoutl05,,,,,,,buy.net//5512,/,/
 5f3ba61e3fd5b671b220028a,buy.net,oly5020,olympus,fe5020,5020,oly5020,olympusfe5020,,4.0,5.0,5.588000000000001,9.144,,175,/,/
 5f3ba61e3fd5b671b2200291,buy.net,oly100,olympus,sp100,100,oly100,olympusstylussp100,,4.0,50.0,9.144,12.192,CMOS,142,/,/
@@ -201,45 +264,96 @@ key,source,famer_keys,famer_brand_list,famer_model_list,famer_model_no_list,fame
 5f3ba61e3fd5b671b22002e9,buy.net,pan1,panasonic,dmcgm1kd,1,pan1,panasoniclumixdmcgm1kd,,4.0,,5.5626,9.8552,CMOS,buy.net//6611,/,/
 5f3ba61e3fd5b671b22002f7,buy.net,oly7000,olympus,stylus7000,7000,oly7000,olympusstylus7000,,5.0,7.0,5.588000000000001,9.652,,145,/,/
 5f3ba61e3fd5b671b2200325,buy.net,fuj60,fujifilm,xp60,60,fuj60,fujifilmfinepixxp60,,2.0,5.0,6.604,10.414,CMOS,73,/,/
+5f3ba61e3fd5b671b220032c,buy.net,nik7100,nikon,d7100,7100,nik7100,nikondxformatd7100,,1.0,5.5,10.668000000000001,13.462,CMOS,84,/,/
+5f3ba61e3fd5b671b220033a,buy.net,can140,canon,powershot140,140,can140,canonpowershot140,,4.0,8.0,5.3340000000000005,9.652,CCD,183,/,/
+5f3ba61e3fd5b671b2200353,buy.net,fuj9200,fujitsu,s9200,9200,fuj9200,fujitsus9200,,2.0,50.0,8.636,12.192,CMOS,38,/,/
 5f3ba61e3fd5b671b2200357,buy.net,fuj700,fujifilm,jx700,700,fuj700,fujifilmfinepixjx700,,7.2,5.0,5.842,9.652,CCD,87,/,/
+5f3ba61e3fd5b671b2200359,buy.net,can150,canon,powershot150,150,can150,canonpowershot150,,4.0,10.0,5.588000000000001,9.652,CCD,51,/,/
+5f3ba61e3fd5b671b220035e,buy.net,nik7100,nikon,d7100,7100,nik7100,nikond7100,,,,10.668000000000001,13.462,CMOS,84,/,/
+5f3ba61e3fd5b671b2200361,buy.net,fuj4800,fuji,s4800,4800,fuj4800,fujiblowersfinepixs4800,,7.2,30.0,9.398000000000001,12.192,CCD,78,/,/
 5f3ba61e3fd5b671b220038a,buy.net,sak326,sakar,is326blk,326,sak326,sakaris326blk,,,21.0,13.716000000000001,17.018,CMOS,buy.net//6474,/,/
+5f3ba61e3fd5b671b2200396,buy.net,oly830,olympus,tg830,830,oly830,olympustoughtg830,,4.0,5.0,6.604,10.921999999999999,CMOS,50,/,/
 5f3ba61e3fd5b671b2200398,buy.net,can2500,canon,a2500,2500,can2500,canonpowershota2500,,4.0,5.0,5.588000000000001,9.652,CCD,200,/,/
+5f3ba61e3fd5b671b220024d,buy.net,sam35,samsung,wb35f,35,sam35,samsungwb35f,,2.0,12.0,6.096,10.16,CCD,156,/,/
 5f3ba61e3fd5b671b2200265,buy.net,nik820,nikon,l820,820,nik820,nikoncoolpixl820,,4.0,30.0,7.62,10.921999999999999,CMOS,15,/,/
 5f3ba61e3fd5b671b2200271,buy.net,fuj100,fujifilm,x100s,100,fuj100,fujifilmx100s,,,,7.366,12.7,CMOS,185,/,/
 5f3ba61e3fd5b671b220027c,buy.net,fuj1,fujifilm,xa1,1,fuj1,fujifilmxa1,,,,,,,33,/,/
+5f3ba61e3fd5b671b220027d,buy.net,son350,sony,dscwx350,350,son350,sonydscwx350,,,20.0,5.715,9.8552,CMOS,17,/,/
 5f3ba61e3fd5b671b220028b,buy.net,son65,sony,slta65vl,65,son65,sonyslta65vl,,,,9.8552,13.335,CMOS,46,/,/
+5f3ba61e3fd5b671b220028f,buy.net,son350,sony,dscwx350w,350,son350,sonydscwx350w,,,20.0,5.715,9.8552,CMOS,17,/,/
+5f3ba61e3fd5b671b22002d8,buy.net,can150,canon,powershot150,150,can150,canonpowershot150,,4.0,10.0,5.588000000000001,9.652,CCD,51,/,/
 5f3ba61e3fd5b671b22002da,buy.net,pen30,pentax,k30,30,pen30,pentaxk30,,,,9.652,12.953999999999999,CMOS,71,/,/
 5f3ba61e3fd5b671b22002dd,buy.net,nik3200,nikon,d3200,3200,nik3200,nikond3200,,,,9.652,12.7,CMOS,72,/,/
 5f3ba61e3fd5b671b22002fc,buy.net,viv137,vivitar,x137,137,viv137,vivitarvivicamx137,,4.0,,,,,6,/,/
 5f3ba61e3fd5b671b22002fd,buy.net,can4,canon,t4i,4,can4,canoneosrebelt4i,,,3.1,9.906,13.208,CMOS,208,/,/
 5f3ba61e3fd5b671b2200300,buy.net,pan4,panasonic,dmcgh4,4,pan4,panasoniclumixdmcgh4,,4.0,,9.3472,13.284200000000002,CMOS,104,/,/
+5f3ba61e3fd5b671b2200302,buy.net,oly10,olympus,em10,10,oly10,olympusomdem10,,,,8.128,11.938,CMOS,0,/,/
+5f3ba61e3fd5b671b220030c,buy.net,nik5300,nikon,d5300,5300,nik5300,nikond5300,,,7.8,9.906,12.4968,CMOS,11,/,/
 5f3ba61e3fd5b671b2200336,buy.net,fuj8500,fujifilm,s8500,8500,fuj8500,fujifilmfinepixs8500,,2.0,46.0,8.636,12.192,CMOS,206,/,/
+5f3ba61e3fd5b671b2200344,buy.net,vte,vtech,kidizoom,,vte,vtechkidizoomcompact,,2.0,,,,,28,/,/
 5f3ba61e3fd5b671b2200356,buy.net,fuj1,fujifilm,xq1,1,fuj1,fujifilmxq1,,4.0,4.0,5.842,9.906,CMOS,47,/,/
 5f3ba61e3fd5b671b220035a,buy.net,kod128,kodak,zoom128,128,kod128,kodakzxdzoom128,,2.0,,10.668000000000001,5.08,CMOS,buy.net//4285,/,/
 5f3ba61e3fd5b671b2200371,buy.net,son30,sony,dsctx30,30,son30,sonycybershotdsctx30,,2.0,5.0,5.842,9.652,Exmor R CMOS,26,/,/
 5f3ba61e3fd5b671b2200375,buy.net,nik5200,nikon,d5200,5200,nik5200,nikond5200,,,3.1,9.906,12.953999999999999,CMOS,83,/,/
+5f3ba61e3fd5b671b2200378,buy.net,oly10,olympus,em10,10,oly10,olympusomdem10,,,3.0,8.128,11.938,Live MOS,0,/,/
+5f3ba61e3fd5b671b2200382,buy.net,son5000,sony,a5000,5000,son5000,sonyalphaa5000,,,,6.35,11.1252,CMOS,43,/,/
 5f3ba61e3fd5b671b2200383,buy.net,fuj50,fuji,hs50exr,50,fuj50,fujiblowersfinepixhs50exr,,20.0,42.0,10.16,13.462,EXR CMOS II,138,/,/
+5f3ba61e3fd5b671b2200385,buy.net,can135,canon,powershot135,135,can135,canonpowershot135,,4.0,8.0,5.3340000000000005,9.652,CCD,39,/,/
+5f3ba61e3fd5b671b2200252,buy.net,fuj1,fujifilm,xa1,1,fuj1,fujifilmxa1,,,,6.604,11.684,CMOS,33,/,/
+5f3ba61e3fd5b671b2200253,buy.net,son400,sony,dsch400,400,son400,sonycybershotdsch400,,126.0,63.0,9.398000000000001,12.953999999999999,Super HAD CCD,29,/,/
 5f3ba61e3fd5b671b2200255,buy.net,oly620,olympus,sp620uz,620,oly620,olympussp620uz,,4.0,21.0,7.366,10.921999999999999,CCD,101,/,/
 5f3ba61e3fd5b671b2200269,buy.net,oly2,olympus,tg2,2,oly2,olympustoughtg2,,4.0,4.0,6.604,11.176000000000002,CMOS,212,/,/
+5f3ba61e3fd5b671b220027b,buy.net,pen3,pentax,k3,3,pen3,pentaxk3,,,,10.0076,13.1826,CMOS,64,/,/
+5f3ba61e3fd5b671b220027f,buy.net,can700,canon,sx700,700,can700,canonpowershotsx700,,4.0,30.0,6.5786,11.277600000000001,CMOS,124,/,/
+5f3ba61e3fd5b671b2200285,buy.net,pan4,panasonic,dmcgh4,4,pan4,panasoniclumixdmcgh4,,4.0,,9.3472,13.284200000000002,CMOS,104,/,/
+5f3ba61e3fd5b671b220028c,buy.net,nik520,nikon,p520,520,nik520,nikoncoolpixp520,,2.0,42.0,8.382,12.446000000000002,CMOS,154,/,/
 5f3ba61e3fd5b671b2200296,buy.net,can7,canon,7d,7,can7,canoneos7d,,,4.8,11.176000000000002,14.732,CMOS,196,/,/
 5f3ba61e3fd5b671b220029a,buy.net,nik7000,nikon,d7000,7000,nik7000,nikond7000,,,5.8,10.414,13.208,CMOS,88,/,/
 5f3ba61e3fd5b671b220029b,buy.net,lei4,leica,vlux4,4,lei4,leicavlux4,,4.0,24.0,8.636,12.446000000000002,CMOS,100,/,/
+5f3ba61e3fd5b671b22002a5,buy.net,pen50,pentax,k50,50,pen50,pentaxk50,,,,9.652,12.953999999999999,CMOS,36,/,/
+5f3ba61e3fd5b671b22002b4,buy.net,sam350,samsung,wb350f,350,sam350,samsungwb350f,,9.4,21.0,6.604,11.43,BSI CMOS,76,/,/
 5f3ba61e3fd5b671b22002b7,buy.net,fuj1,fujifilm,xpro1,1,fuj1,fujifilmxpro1,,,,8.128,13.97,X-Trans CMOS,79,/,/
+5f3ba61e3fd5b671b22002bb,buy.net,nik610,nikon,d610,610,nik610,nikond610,,,3.5,11.176000000000002,14.223999999999998,CMOS,165,/,/
+5f3ba61e3fd5b671b22002c9,buy.net,can600,canon,sx600,600,can600,canonpowershotsx600,,4.0,18.0,6.096,10.414,CMOS,141,/,/
 5f3ba61e3fd5b671b22002e5,buy.net,son80,sony,dscwx80,80,son80,sonycybershotdscwx80,,,8.0,5.3340000000000005,9.144,Exmor R CMOS,74,/,/
+5f3ba61e3fd5b671b22002ee,buy.net,sam30,samsung,wb30f,30,sam30,samsungwb30f,,5.0,10.0,5.842,9.906,CCD,121,/,/
+5f3ba61e3fd5b671b2200301,buy.net,can135,canon,powershot135,135,can135,canonpowershot135,,4.0,8.0,5.3340000000000005,9.652,CCD,39,/,/
+5f3ba61e3fd5b671b2200313,buy.net,nik6800,nikon,s6800,6800,nik6800,nikoncoolpixs6800,,4.0,12.0,5.842,9.906,CMOS,9,/,/
 5f3ba61e3fd5b671b2200332,buy.net,pan50,panasonic,dmcfz50,50,pan50,panasoniclumixdmcfz50,,,,,,,140,/,/
+5f3ba61e3fd5b671b2200337,buy.net,oly370,olympus,vr370,370,oly370,olympussmartvr370,,4.0,12.5,6.096,10.414,CCD,95,/,/
+5f3ba61e3fd5b671b2200349,buy.net,pen50,pentax,k50,50,pen50,pentaxk50,,,,9.652,12.953999999999999,CMOS,36,/,/
 5f3ba61e3fd5b671b220034b,buy.net,oly5,olympus,em5,5,oly5,olympusomdem5,,,,8.89,12.192,Live MOS,16,/,/
 5f3ba61e3fd5b671b2200351,buy.net,pan5,panasonic,dmcg5,5,pan5,panasoniclumixdmcg5,,,,8.331199999999999,11.9888,CMOS,116,/,/
 5f3ba61e3fd5b671b2200365,buy.net,fuj550,fuji,t550,550,fuj550,fujiblowersfinepixt550,,2.0,12.0,5.588000000000001,9.906,CCD,27,/,/
+5f3ba61e3fd5b671b2200372,buy.net,nik3200,nikon,d3200,3200,nik3200,nikond3200,,,,9.652,12.446000000000002,CMOS,72,/,/
 5f3ba61e3fd5b671b2200388,buy.net,hun550,hunter,x550,550,hun550,hunterbootsx550,,6.0,15.0,7.366,10.16,CCD,128,/,/
+5f3ba61e3fd5b671b2200389,buy.net,son5,sony,nex5t,5,son5,sonyalphanex5t,,4.0,3.0,,,CMOS,61,/,/
+5f3ba61e3fd5b671b220038d,buy.net,oly10,olympus,em10,10,oly10,olympusomdem10,,,3.0,8.128,11.938,Live MOS,0,/,/
+5f3ba61e3fd5b671b220038f,buy.net,can200,canon,sx200,200,can200,canonpowershotsx200,,4.0,12.0,6.096,10.414,CCD,131,/,/
 5f3ba61e3fd5b671b2200391,buy.net,son100,sony,dscwx100,100,son100,sonycybershotdscwx100,,40.0,10.0,5.3340000000000005,9.144,Exmor R CMOS,49,/,/
+5f3ba61e3fd5b671b2200397,buy.net,oly850,olympus,tg850,850,oly850,olympusstylustoughtg850,,4.0,5.0,6.35,10.921999999999999,CMOS,136,/,/
 5f3ba61e3fd5b671b220039d,buy.net,viv46,vivitar,v46,46,viv46,vivitarv46,,4.0,,6.35,8.89,CMOS,139,/,/
 5f3ba61e3fd5b671b2200242,buy.net,nik340,nikon,p340,340,nik340,nikoncoolplixp340,,4.0,5.0,5.842,10.414,CMOS,57,/,/
+5f3ba61e3fd5b671b220025b,buy.net,pen1,pentax,mx1,1,pen1,pentaxmx1,,2.0,4.0,6.096,12.192,CMOS,119,/,/
+5f3ba61e3fd5b671b2200264,buy.net,oly5,olympus,ep5,5,oly5,olympuspenep5,,,,6.8834,12.2174,CMOS,86,/,/
+5f3ba61e3fd5b671b2200273,buy.net,nik120,nikon,aw120,120,nik120,nikoncoolpixaw120,,4.0,5.0,6.604,11.176000000000002,CMOS,118,/,/
 5f3ba61e3fd5b671b2200275,buy.net,int14,intova,ic14,14,int14,intovaic14,,6.0,5.0,5.740399999999999,9.6774,CCD,181,/,/
 5f3ba61e3fd5b671b2200279,buy.net,oly1,olympus,em1,1,oly1,olympusomdem1,,2.0,,9.398000000000001,12.953999999999999,CMOS,67,/,/
 5f3ba61e3fd5b671b220028d,buy.net,pol426,polaroid,is426,426,pol426,polaroidis426,,,,,,,1,/,/
+5f3ba61e3fd5b671b22002a6,buy.net,pan40,panasonic,dmczs40,40,pan40,panasoniclumixdmczs40,,4.0,30.0,6.4262,11.049,CMOS,41,/,/
+5f3ba61e3fd5b671b22002bc,buy.net,son7,sony,a7,7,son7,sonyalphaa7,,,2.5,,,CMOS,37,/,/
 5f3ba61e3fd5b671b22002c7,buy.net,oly550,olympus,sp550,550,oly550,olympussp550,,,,,,,48,/,/
 5f3ba61e3fd5b671b22002ea,buy.net,viv020,vivitar,x020,020,viv020,vivitarvivicamx020,,4.0,3.0,,,,buy.net//4258,/,/
+5f3ba61e3fd5b671b22002eb,buy.net,nik16,nikon,slr16,16,nik16,nikondffxformatslr16,,,,10.921999999999999,14.223999999999998,CMOS,63,/,/
 5f3ba61e3fd5b671b22002f1,buy.net,son800,sony,dscw800,800,son800,sonydscw800,,10.0,5.0,2.2352,5.08,CCD,152,/,/
+5f3ba61e3fd5b671b22002f2,buy.net,fuj1,fujifilm,xm1,1,fuj1,fujifilmxm1,,,,6.604,11.684,CMOS,94,/,/
+5f3ba61e3fd5b671b2200331,buy.net,nik120,nikon,aw120,120,nik120,nikoncoolpixaw120,,4.0,5.0,6.604,11.176000000000002,CMOS,118,/,/
+5f3ba61e3fd5b671b220033b,buy.net,nik3300,nikon,d3300,3300,nik3300,nikond3300,,,,9.906,12.446000000000002,CMOS,14,/,/
+5f3ba61e3fd5b671b2200358,buy.net,can160,canon,sx160,160,can160,canonpowershotsx160,,4.0,16.0,7.366,11.176000000000002,CCD,40,/,/
+5f3ba61e3fd5b671b220035f,buy.net,fuj550,fujifilm,t550,550,fuj550,fujifilmfinepixt550,,2.0,12.0,5.588000000000001,9.906,CCD,27,/,/
+5f3ba61e3fd5b671b2200367,buy.net,son5000,sony,a5000,5000,son5000,sonya5000,,4.0,3.0,6.35,11.1252,CMOS,43,/,/
+5f3ba61e3fd5b671b2200368,buy.net,nik9700,nikon,s9700,9700,nik9700,nikoncoolpixs9700,,4.0,30.0,6.35,10.921999999999999,CMOS,97,/,/
 5f3ba61e3fd5b671b2200381,buy.net,aip13,aiptek,pcm13,13,aip13,aiptekpencampcm13,,,,3.302,3.048,CMOS,buy.net//6583,/,/
 5f3ba61e3fd5b671b2200384,buy.net,fuj280,fujifilm,sl280,280,fuj280,fujifilmfinepixsl280,,6.7,28.0,9.398000000000001,12.192,CCD,179,/,/
+5f3ba61e3fd5b671b220038e,buy.net,can5-3,canon,5d,5-3,can5-3,canoneos5d,,,,11.684,15.24,CMOS,31,/,/
 5f3ba61e3fd5b671b22003a0,buy.net,mus830,mustek,mdc830z,830,mus830,mustekmdc830z,,4.0,3.0,5.588000000000001,2.7940000000000005,CCD,buy.net//5516,/,/
