@@ -1141,6 +1141,7 @@ def clean_data(data,to_duplicate):
         print(source)
         data_temp = data.loc[data['source'] == source]
         if not to_duplicate:
+            #and source not in ['www.ebay.com']:
             # Remove duplicates from the data sources
             data_temp = data_temp.drop_duplicates(subset='recId')
         print("It has {} rows and {} columns".format(data_temp.shape[0],data_temp.shape[1]))
