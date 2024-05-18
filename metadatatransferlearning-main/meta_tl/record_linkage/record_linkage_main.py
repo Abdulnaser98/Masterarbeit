@@ -64,6 +64,9 @@ def record_linkage_main():
                             (comparison.NumMaxProz30, 'famer_height', 'famer_height'),  # Hohe
                             (comparison.NumMaxProz30, 'famer_weight', 'famer_weight'),  # Gewicht
                             (comparison.jaccard_comp, 'famer_sensor', 'famer_sensor') # Sensor typ
+                            #(comparison.NumMaxProz30, 'famer_resolution_from', 'famer_resolution_from'), # resoultion_from
+                            #(comparison.NumMaxProz30, 'famer_resolution_to', 'famer_resolution_to'), # resoultion_to
+                            #(comparison.NumMaxProz30, 'famer_megapixel', 'famer_megapixel') # Megapixel
                             ]
 
     processed_pairs = []

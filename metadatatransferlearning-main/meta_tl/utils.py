@@ -185,6 +185,7 @@ def assign_value(text):
 def check_and_create_columns(df, column_list):
     missing_columns = [col for col in column_list if col not in df.columns]
     for col in missing_columns:
+
         df[col] = "/"
     return df
 

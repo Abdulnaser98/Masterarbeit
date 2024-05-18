@@ -14,7 +14,8 @@ warnings.filterwarnings("ignore")
 
 columns_to_order = ['key', 'source','famer_model_list','famer_model_no_list','famer_mpn_list','famer_ean_list',
                     'famer_product_name', 'famer_digital_zoom','famer_optical_zoom', 'famer_width', 'famer_height',
-                    'famer_weight', 'famer_sensor','famer_brand_list']
+                    'famer_weight', 'famer_sensor','famer_brand_list','famer_resolution_from','famer_resolution_to','famer_megapixel'
+                   ]
 
 
 path_to_help_data = '/Users/abdulnaser/Desktop/Masterarbeit/metadatatransferlearning-main/meta_tl/data/help_data/'
@@ -62,7 +63,7 @@ def clean_buy_data(data):
 
 def clean_buzzillions_data(data):
     # Clean numeric columns
-    numeric_columns = ['optical zoom', 'digital zoom', 'width', 'height', 'megapixels']
+    numeric_columns = ['optical zoom', 'digital zoom', 'width', 'height', 'famer_megapixel']
     data = clean_numeric_columns(data, numeric_columns)
 
     buzzillions_data_new_column_names = {
@@ -70,8 +71,7 @@ def clean_buzzillions_data(data):
        'digital zoom': 'famer_digital_zoom',
        'height': 'famer_height',
        'width' : 'famer_width',
-       'sensor': 'famer_sensor',
-       'megapixels': 'famer_megapixels'
+       'sensor': 'famer_sensor'
    }
 
     data.rename(columns=buzzillions_data_new_column_names, inplace=True)
@@ -771,7 +771,7 @@ def clean_mypriceindia_data(data):
 
     columns_to_order = ['key', 'source','famer_model_list','famer_model_no_list','famer_mpn_list','famer_ean_list',
                         'famer_product_name', 'famer_digital_zoom','famer_optical_zoom', 'famer_width', 'famer_height',
-                        'famer_weight', 'famer_sensor','famer_brand_list']
+                        'famer_weight', 'famer_sensor','famer_brand_list','famer_resolution_from','famer_resolution_to','famer_megapixel']
 
     data.rename(columns=mypriceindia_data_new_column_names, inplace=True)
 
@@ -895,7 +895,7 @@ def clean_pricedekho_data(data):
     pricedekho_cameras_data_important_features =  ['key', 'source', 'famer_brand_list', 'famer_model_list',
                                                     'famer_product_name', 'digital zoom','famer_opticalzoom' ,
                                                     'optical zoom', 'sensor type','sensor_typ_2',
-                                                    'weight','dimension', 'dimensions','display', 'zoom']
+                                                    'weight','dimension', 'dimensions','display', 'zoom','famer_resolution_from','famer_resolution_to']
     data = data[pricedekho_cameras_data_important_features]
 
     # Extract Width
@@ -1037,12 +1037,12 @@ def clean_data(data,to_duplicate):
         'buy.net':           ['key', 'source','famer_keys' ,'famer_brand_list', 'famer_model_list','famer_model_no_list','famer_keys', 'famer_product_name',
                               'weight', 'digital zoom', 'optical zoom', 'height', 'width', 'image sensor','recId'],
         'www.buzzillions.com' : ['key','key', 'source','famer_brand_list', 'famer_model_list','famer_model_no_list','famer_keys','famer_product_name',
-                                 'famer_weight', 'optical zoom', 'digital zoom','height', 'width','megapixels',
+                                 'famer_weight', 'optical zoom', 'digital zoom','height', 'width','famer_megapixel',
                                  'sensor','famer_mpn_list','famer_ean_list','recId'],
         'www.eglobalcentral.co.uk' : ['key','source','famer_brand_list', 'famer_model_list','famer_model_no_list','famer_keys','famer_product_name',
                                       'digital zoom', 'optical zoom', 'dimensions w x h x d','dimensions', 'famer_sensortype','famer_resolution_from','famer_resolution_to','recId'],
         'www.price-hunt.com':        ['key','source','famer_brand_list', 'famer_model_list','famer_model_no_list','famer_product_name',
-                                      'digital zoom','optical zoom','weight', 'sensor type', 'dimensions',
+                                      'digital zoom','optical zoom','weight', 'sensor type', 'dimensions','famer_resolution_from','famer_resolution_to',
                                       'optical sensor resolution in megapixel','other resolution','weight without battery','recId'],
         'www.shopbot.com.au':        ['key' ,'source','famer_brand_list', 'famer_keys','famer_model_list','famer_model_no_list','famer_product_name',
                                       'zoom', 'weight', 'dimensions','video resolution','recId'],
@@ -1079,17 +1079,18 @@ def clean_data(data,to_duplicate):
                                         'weight','approx weight','dimensions wxhxd', 'approx dimensions',
                                         'resolution','recId'],
         'www.ebay.com'          :       ['key', 'source', 'famer_brand_list','famer_model_list','famer_model_no_list', 'famer_product_name','famer_ean_list',
-                                          'famer_mpn_list','famer_weight', 'weight', 'approx weight', 'camera weight', 'sensor type','famer_opticalzoom','recId'
+                                          'famer_mpn_list','famer_weight', 'weight', 'approx weight', 'camera weight', 'sensor type','famer_opticalzoom','recId',
+                                          'famer_resolution_from','famer_resolution_to','famer_megapixel'
                                         ],
 
         'www.mypriceindia.com'  :       ['key', 'source', 'famer_brand_list','famer_model_list', 'famer_product_name', 'weight', 'famer_model_no_list',
                                          'famer_weight', 'digital zoom', 'optical zoom', 'famer_sensortype',
-                                         'sensor type','dimensions','video resolution'],
+                                         'sensor type','dimensions','video resolution','famer_resolution_from','famer_resolution_to'],
 
         'www.shopmania.in'      :       ['key', 'source', 'famer_brand_list', 'famer_model_list',
                                          'famer_product_name', 'weight','famer_opticalzoom','digital zoom',
                                          'optical zoom', 'sensor type','resolution', 'image resolutions','ean',
-                                         'famer_ean_list','famer_width','width', 'height'
+                                         'famer_ean_list','famer_width','width', 'height','famer_resolution_from','famer_resolution_to'
                                         ],
 
         'www.ukdigitalcameras.co.uk':   ['key','source', 'famer_brand_list', 'famer_model_list', 'famer_product_name', 'famer_opticalzoom' ,
@@ -1098,7 +1099,7 @@ def clean_data(data,to_duplicate):
         'www.walmart.com':              ['key', 'source','famer_brand_list','famer_model_list',
                                          'famer_product_name', 'digital zoom' ,'famer_opticalzoom' ,
                                          'optical zoom', 'famer_weight','product in inches l x w x h',
-                                         'resolution megapixels'],
+                                         'resolution megapixels','famer_megapixel'],
 
         'www.cambuy.com.au':            ['key', 'source', 'famer_brand_list', 'famer_model_list',
                                          'famer_product_name', 'digital zoom','famer_opticalzoom',
